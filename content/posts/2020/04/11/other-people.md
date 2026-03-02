@@ -1,0 +1,8 @@
+---
+title: "Other people"
+category: Photoblog
+tags: Roslin, Scotland, Tree, Roslin Glen
+date: 2020-04-11T14:02:00.001Z
+---
+
+![Other people](/attachments/2020/04/11/other-people.jpeg#centre)

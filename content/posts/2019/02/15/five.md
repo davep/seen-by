@@ -1,0 +1,8 @@
+---
+title: "Five"
+category: Photoblog
+tags: V&A, Light, Abstract, Ceiling, Scotland, Museum, Dundee
+date: 2019-02-15T15:10:00.003Z
+---
+
+![Five](/attachments/2019/02/15/five.jpeg#centre)

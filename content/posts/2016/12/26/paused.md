@@ -1,0 +1,8 @@
+---
+title: "Paused"
+category: Photoblog
+tags: Sky, Landscape, Clouds, Road, Scotland, Tree, Lines
+date: 2016-12-26T16:56:00.001Z
+---
+
+![Paused](/attachments/2016/12/26/paused.jpeg#centre)

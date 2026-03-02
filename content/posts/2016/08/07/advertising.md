@@ -1,0 +1,8 @@
+---
+title: "Advertising"
+category: Photoblog
+tags: Scotland, Edinburgh, Fringe
+date: 2016-08-07T17:26:00Z
+---
+
+![Advertising](/attachments/2016/08/07/advertising.jpeg#centre)

@@ -1,0 +1,8 @@
+---
+title: "Once, there was an explosion"
+category: Photoblog
+tags: Building, Field, Auchendinny, Farm, Scotland
+date: 2020-04-05T10:42:00.001Z
+---
+
+![Once, there was an explosion](/attachments/2020/04/05/once-there-was-an-explosion.jpeg#centre)

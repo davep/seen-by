@@ -1,0 +1,8 @@
+---
+title: "Please keep your distance"
+category: Photoblog
+tags: Shadows, Building, Roslin Innovation Centre, Light, Words, Sign, Sun
+date: 2020-11-06T08:50:00.014Z
+---
+
+![Please keep your distance](/attachments/2020/11/06/please-keep-your-distance.jpeg#centre)

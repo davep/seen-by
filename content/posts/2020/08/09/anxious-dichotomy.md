@@ -1,0 +1,8 @@
+---
+title: "Anxious dichotomy"
+category: Photoblog
+tags: Path, Scotland, Fence, Roslin Glen
+date: 2020-08-09T17:50:00.001Z
+---
+
+![Anxious dichotomy](/attachments/2020/08/09/anxious-dichotomy.jpeg#centre)

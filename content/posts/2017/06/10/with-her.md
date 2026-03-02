@@ -1,0 +1,8 @@
+---
+title: "With her"
+category: Photoblog
+tags: Building, Scotland, Edinburgh
+date: 2017-06-10T16:56:00.005Z
+---
+
+![With her](/attachments/2017/06/10/with-her.jpeg#centre)

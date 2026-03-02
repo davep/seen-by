@@ -1,0 +1,8 @@
+---
+title: "Jellyfish"
+category: Photoblog
+tags: Path, Roslin, Scotland, Hat, Gate, Roslin Glen
+date: 2022-03-14T13:46:00.003Z
+---
+
+![Jellyfish](/attachments/2022/03/14/jellyfish.jpeg#centre)

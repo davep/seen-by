@@ -1,0 +1,8 @@
+---
+title: "Some form of timing"
+category: Photoblog
+tags: Sky, Auchendinny, Tunnel, Clouds, Scotland, Tree, Silhouette
+date: 2020-12-12T16:50:00.002Z
+---
+
+![Some form of timing](/attachments/2020/12/12/some-form-of-timing.jpeg#centre)

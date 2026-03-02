@@ -1,0 +1,8 @@
+---
+title: "Surrounded by critics"
+category: Photoblog
+tags: Scotland, Museum, Concorde, Aircraft
+date: 2017-04-04T15:07:00.001Z
+---
+
+![Surrounded by critics](/attachments/2017/04/04/surrounded-by-critics.jpeg#centre)

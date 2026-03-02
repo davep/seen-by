@@ -1,0 +1,8 @@
+---
+title: "Good communication"
+category: Photoblog
+tags: Sky, Clouds, Telephone, Wire, Lines
+date: 2017-05-28T20:08:00.001Z
+---
+
+![Good communication](/attachments/2017/05/28/good-communication.jpeg#centre)

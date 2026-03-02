@@ -1,0 +1,8 @@
+---
+title: "October Second. Third October"
+category: Photoblog
+tags: Abstract
+date: 2016-10-02T10:39:00Z
+---
+
+![October Second. Third October](/attachments/2016/10/02/october-second-third-october.jpeg#centre)

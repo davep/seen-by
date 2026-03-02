@@ -1,0 +1,8 @@
+---
+title: "Up the hill"
+category: Photoblog
+tags: Sky, Building, Monument, Skyline, Clouds, Scotland, Edinburgh, Calton Hill
+date: 2017-04-03T10:20:00.001Z
+---
+
+![Up the hill](/attachments/2017/04/03/up-the-hill.jpeg#centre)

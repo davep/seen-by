@@ -1,0 +1,8 @@
+---
+title: "Chapter 6"
+category: Photoblog
+tags: Path, Road, Drain
+date: 2020-01-13T08:27:00.001Z
+---
+
+![Chapter 6](/attachments/2020/01/13/chapter-6.jpeg#centre)

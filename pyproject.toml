@@ -1,0 +1,9 @@
+[project]
+name = "seen-by"
+version = "0.1.0"
+description = "Build system for seen-by.davep.dev"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "blogmore>=1.4.0",
+]

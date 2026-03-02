@@ -1,0 +1,49 @@
+##############################################################################
+# BlogMore configuration for blog.davep.org.
+
+##############################################################################
+# Locations.
+content_dir: content
+output: site
+
+##############################################################################
+# Main site details.
+site_title: "Seen by Me"
+site_subtitle: "A geek and his mobile phone"
+site_url: "https://seen-by.davep.dev"
+site_description: "Dave Pearson's Photoblog"
+default_author: Dave Pearson
+
+##############################################################################
+# Content and styling.
+clean_first: true
+with_search: true
+site_logo: /logo.jpeg
+icon_source: davep.jpeg
+with_sitemap: true
+minify_css: true
+minify_js: true
+
+##############################################################################
+# The links section in the sidebar.
+links:
+  - title: davep@
+    url: https://davep.at/
+  - title: Bookmarks
+    url: https://raindrop.io/davep/public-46742255/sort=-created&perpage=30&page=0
+
+##############################################################################
+# The "socials" in the sidebar.
+socials:
+  - site: flickr
+    url: https://www.flickr.com/photos/davepearson/
+  - site: github
+    url: https://github.com/davep
+  - site: mastodon
+    url: https://fosstodon.org/@davep
+  - site: steam
+    url: https://steamcommunity.com/id/davepdotorg
+  - site: youtube
+    url: https://www.youtube.com/user/daveporg
+
+### blogmore.yaml ends here

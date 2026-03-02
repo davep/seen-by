@@ -1,0 +1,8 @@
+---
+title: "Another Sunday"
+category: Photoblog
+tags: Sky, Clouds, House
+date: 2019-06-02T11:16:00.001Z
+---
+
+![Another Sunday](/attachments/2019/06/02/another-sunday.jpeg#centre)

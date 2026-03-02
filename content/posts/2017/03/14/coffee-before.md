@@ -1,0 +1,8 @@
+---
+title: "Coffee before"
+category: Photoblog
+tags: Window, Sky, Clouds, Scotland, Edinburgh, Contrail
+date: 2017-03-14T20:02:00.001Z
+---
+
+![Coffee before](/attachments/2017/03/14/coffee-before.jpeg#centre)

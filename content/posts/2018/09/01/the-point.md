@@ -1,0 +1,8 @@
+---
+title: "The Point"
+category: Photoblog
+tags: Sky, Field, Landscape, Clouds, Scotland, North Berwick, Trig Point, North Berwick Law
+date: 2018-09-01T14:33:00.001Z
+---
+
+![The Point](/attachments/2018/09/01/the-point.jpeg#centre)

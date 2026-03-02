@@ -1,0 +1,8 @@
+---
+title: "After Doris"
+category: Photoblog
+tags: Sky, Landscape, Hill, Snow, Scotland, Edinburgh, Pylon
+date: 2017-02-24T09:13:00.001Z
+---
+
+![After Doris](/attachments/2017/02/24/after-doris.jpeg#centre)

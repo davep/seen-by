@@ -1,0 +1,8 @@
+---
+title: "Found. Clichéd."
+category: Photoblog
+tags: Words, St Abbs, Scotland, Found
+date: 2019-08-27T18:50:00.001Z
+---
+
+![Found. Clichéd.](/attachments/2019/08/27/found-clichC3A9d.jpeg#centre)

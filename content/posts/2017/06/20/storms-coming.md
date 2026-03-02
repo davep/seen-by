@@ -1,0 +1,8 @@
+---
+title: "Storm's coming"
+category: Photoblog
+tags: Weather, Sky, Contrail, Clouds, Wire
+date: 2017-06-20T18:00:00.001Z
+---
+
+![Storm's coming](/attachments/2017/06/20/storms-coming.jpeg#centre)

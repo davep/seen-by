@@ -1,0 +1,8 @@
+---
+title: "Edinburgh rain"
+category: Photoblog
+tags: Window, Water, Weather, Rain, Car, Scotland, Tree, Edinburgh
+date: 2017-01-28T15:33:00.001Z
+---
+
+![Edinburgh rain](/attachments/2017/01/28/edinburgh-rain.jpeg#centre)
