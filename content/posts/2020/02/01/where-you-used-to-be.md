@@ -1,6 +1,6 @@
 ---
 title: "Where you used to be"
-category: Photoblog
+category: Seen By Me 2
 tags: Wall, Roslin, Scotland, Roslin Glen
 date: 2020-02-01T15:18:00.001Z
 ---

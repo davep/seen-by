@@ -1,6 +1,6 @@
 ---
 title: "Found. Clichéd."
-category: Photoblog
+category: Seen By Me 2
 tags: Words, St Abbs, Scotland, Found
 date: 2019-08-27T18:50:00.001Z
 ---

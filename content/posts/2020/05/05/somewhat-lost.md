@@ -1,6 +1,6 @@
 ---
 title: "Somewhat lost"
-category: Photoblog
+category: Seen By Me 2
 tags: Auchendinny, Scotland, Fence, Coat
 date: 2020-05-05T15:59:00.002Z
 ---

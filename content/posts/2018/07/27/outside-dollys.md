@@ -1,6 +1,6 @@
 ---
 title: "Outside Dolly's"
-category: Photoblog
+category: Seen By Me 2
 tags: Shadows, University, Light, Pavement, Roslin Institute, Lines
 date: 2018-07-27T21:49:00.003Z
 ---

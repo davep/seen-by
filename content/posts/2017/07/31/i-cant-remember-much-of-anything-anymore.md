@@ -1,6 +1,6 @@
 ---
 title: "I can't remember much of anything anymore"
-category: Photoblog
+category: Seen By Me 2
 tags: Building, Double Exposure, Clouds, Silhouette
 date: 2017-07-31T16:21:00.001Z
 ---

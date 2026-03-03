@@ -1,6 +1,6 @@
 ---
 title: "Edinburgh rain"
-category: Photoblog
+category: Seen By Me 2
 tags: Window, Water, Weather, Rain, Car, Scotland, Tree, Edinburgh
 date: 2017-01-28T15:33:00.001Z
 ---

@@ -1,6 +1,6 @@
 ---
 title: "I did this to me"
-category: Photoblog
+category: Seen By Me 2
 tags: Scotland, Step, Roslin Glen
 date: 2020-09-10T08:50:00.001Z
 ---

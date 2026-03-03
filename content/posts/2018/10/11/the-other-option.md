@@ -1,6 +1,6 @@
 ---
 title: "The Other Option"
-category: Photoblog
+category: Seen By Me 2
 tags: Sky, Clouds, Bird, Tree, Silhouette
 date: 2018-10-11T18:42:00.003Z
 ---

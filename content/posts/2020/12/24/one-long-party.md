@@ -1,6 +1,6 @@
 ---
 title: "One long party"
-category: Photoblog
+category: Seen By Me 2
 tags: Path, Balloon
 date: 2020-12-24T10:50:00.005Z
 ---

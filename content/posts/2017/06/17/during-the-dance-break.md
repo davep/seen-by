@@ -1,6 +1,6 @@
 ---
 title: "During the dance break"
-category: Photoblog
+category: Seen By Me 2
 tags: Tree
 date: 2017-06-17T12:47:00.001Z
 ---

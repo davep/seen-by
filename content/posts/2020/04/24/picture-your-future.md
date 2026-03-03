@@ -1,6 +1,6 @@
 ---
 title: "Picture your future"
-category: Photoblog
+category: Seen By Me 2
 tags: Field, Auchendinny, Scotland, Fence
 date: 2020-04-24T16:42:00.005Z
 ---

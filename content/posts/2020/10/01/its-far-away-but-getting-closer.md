@@ -1,6 +1,6 @@
 ---
 title: "It's far away but getting closer"
-category: Photoblog
+category: Seen By Me 2
 tags: Vanishing Point, Auchendinny, Tunnel, Scotland
 date: 2020-10-01T18:50:00.002Z
 ---

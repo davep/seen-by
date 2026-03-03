@@ -1,6 +1,6 @@
 ---
 title: "There was more than that"
-category: Photoblog
+category: Seen By Me 2
 tags: Log, Moss, Scotland, Tree, Penicuik
 date: 2020-05-07T16:36:00.005Z
 ---

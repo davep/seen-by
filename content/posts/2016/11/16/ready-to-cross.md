@@ -1,6 +1,6 @@
 ---
 title: "Ready to cross"
-category: Photoblog
+category: Seen By Me 2
 tags: Scotland, Road, Lasswade
 date: 2016-11-16T13:44:00.001Z
 ---

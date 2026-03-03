@@ -1,6 +1,6 @@
 ---
 title: "Tourists, Royal Mile"
-category: Photoblog
+category: Seen By Me 2
 tags: Building, People, Royal Mile, Scotland, Edinburgh
 date: 2017-05-23T10:09:00.001Z
 ---

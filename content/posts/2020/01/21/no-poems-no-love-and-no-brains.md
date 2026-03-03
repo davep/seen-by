@@ -1,6 +1,6 @@
 ---
 title: "No poems, no love, and no brains"
-category: Photoblog
+category: Seen By Me 2
 tags: Scotland, Tree
 date: 2020-01-21T09:02:00.001Z
 ---

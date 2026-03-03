@@ -1,6 +1,6 @@
 ---
 title: "Burnt"
-category: Photoblog
+category: Seen By Me 2
 tags: Scotland, Edinburgh
 date: 2018-12-31T16:57:00.005Z
 ---

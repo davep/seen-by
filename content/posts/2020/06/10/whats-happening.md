@@ -1,6 +1,6 @@
 ---
 title: "What's happening?"
-category: Photoblog
+category: Seen By Me 2
 tags: Auchendinny, Scotland
 date: 2020-06-10T17:50:00.004Z
 ---

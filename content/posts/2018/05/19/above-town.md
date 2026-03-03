@@ -1,6 +1,6 @@
 ---
 title: "Above town"
-category: Photoblog
+category: Seen By Me 2
 tags: Sky, Skyline, Landscape, Clouds, Scotland, Edinburgh
 date: 2018-05-19T14:59:00.003Z
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Meadows"
-category: Photoblog
+category: Seen By Me 2
 tags: People, Scotland, Arthur's Seat, Edinburgh, Hill
 date: 2017-05-26T15:11:00.001Z
 ---

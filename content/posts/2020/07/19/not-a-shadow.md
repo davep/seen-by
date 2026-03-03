@@ -1,6 +1,6 @@
 ---
 title: "Not a shadow"
-category: Photoblog
+category: Seen By Me 2
 tags: Self Portrait
 date: 2020-07-19T17:50:00.015Z
 ---

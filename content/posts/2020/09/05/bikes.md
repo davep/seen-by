@@ -1,6 +1,6 @@
 ---
 title: "Bikes"
-category: Photoblog
+category: Seen By Me 2
 tags: Falkirk, Scotland, Bike
 date: 2020-09-05T17:50:00.001Z
 ---

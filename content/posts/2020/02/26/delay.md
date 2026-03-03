@@ -1,6 +1,6 @@
 ---
 title: "Delay"
-category: Photoblog
+category: Seen By Me 2
 tags: Leaf, Frost
 date: 2020-02-26T08:42:00.001Z
 ---

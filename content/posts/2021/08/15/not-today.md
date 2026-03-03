@@ -1,6 +1,6 @@
 ---
 title: "Not today"
-category: Photoblog
+category: Seen By Me 2
 tags: Bench, Wall, Scotland, Roslin Glen
 date: 2021-08-15T16:46:00.002Z
 ---

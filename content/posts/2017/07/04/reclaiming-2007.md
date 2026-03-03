@@ -1,6 +1,6 @@
 ---
 title: "Reclaiming 2007"
-category: Photoblog
+category: Seen By Me 2
 tags: Music
 date: 2017-07-04T13:38:00.001Z
 ---

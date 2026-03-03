@@ -1,6 +1,6 @@
 ---
 title: "Tap, tap, tap..."
-category: Photoblog
+category: Seen By Me 2
 tags: Screen
 date: 2016-09-21T13:55:00Z
 ---

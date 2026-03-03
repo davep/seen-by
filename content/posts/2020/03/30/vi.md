@@ -1,6 +1,6 @@
 ---
 title: "VI"
-category: Photoblog
+category: Seen By Me 2
 tags: Numbers, Screen
 date: 2020-03-30T11:29:00.001Z
 ---

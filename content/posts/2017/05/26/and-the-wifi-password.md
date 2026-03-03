@@ -1,6 +1,6 @@
 ---
 title: "And the WiFi password..."
-category: Photoblog
+category: Seen By Me 2
 tags: Path, Graffiti, Words, Scotland, Edinburgh, Chalk, Lines
 date: 2017-05-26T15:11:00.003Z
 ---

@@ -1,6 +1,6 @@
 ---
 title: "New box, old thinking"
-category: Photoblog
+category: Seen By Me 2
 tags: Words, Paint
 date: 2022-04-12T07:46:00.003Z
 ---

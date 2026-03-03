@@ -1,6 +1,6 @@
 ---
 title: "Paused"
-category: Photoblog
+category: Seen By Me 2
 tags: Sky, Landscape, Clouds, Road, Scotland, Tree, Lines
 date: 2016-12-26T16:56:00.001Z
 ---

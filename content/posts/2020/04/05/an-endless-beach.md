@@ -1,6 +1,6 @@
 ---
 title: "An endless beach"
-category: Photoblog
+category: Seen By Me 2
 tags: Rubbish, Roslin, Scotland, Roslin Glen, Cycle
 date: 2020-04-05T11:42:00.005Z
 ---

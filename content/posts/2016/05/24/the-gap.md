@@ -1,6 +1,6 @@
 ---
 title: "The gap"
-category: Photoblog
+category: Seen By Me 2
 tags: England, Travel, Grantham, Abstract
 date: 2016-05-24T10:05:00Z
 ---

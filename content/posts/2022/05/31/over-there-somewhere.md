@@ -1,6 +1,6 @@
 ---
 title: "Over there somewhere"
-category: Photoblog
+category: Seen By Me 2
 tags: Sky, Clouds, Lamp
 date: 2022-05-31T17:46:00.003Z
 ---

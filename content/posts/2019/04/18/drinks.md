@@ -1,6 +1,6 @@
 ---
 title: "Drinks"
-category: Photoblog
+category: Seen By Me 2
 tags: Art, Scotland, Edinburgh, The Royal Dick
 date: 2019-04-18T20:48:00.001Z
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Morning routine"
-category: Photoblog
+category: Seen By Me 2
 tags: Bed, Abstract, Stars
 date: 2017-03-15T08:12:00.001Z
 ---

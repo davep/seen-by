@@ -1,6 +1,6 @@
 ---
 title: "Fingers crossed"
-category: Photoblog
+category: Seen By Me 2
 tags: Glove, Grass
 date: 2017-04-29T14:01:00.001Z
 ---

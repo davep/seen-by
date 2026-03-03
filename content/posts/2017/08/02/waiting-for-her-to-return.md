@@ -1,6 +1,6 @@
 ---
 title: "Waiting for her to return"
-category: Photoblog
+category: Seen By Me 2
 tags: Sofa, Seat, Leather
 date: 2017-08-02T17:48:00.001Z
 ---

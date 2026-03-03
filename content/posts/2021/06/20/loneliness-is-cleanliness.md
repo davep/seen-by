@@ -1,6 +1,6 @@
 ---
 title: "Loneliness is cleanliness"
-category: Photoblog
+category: Seen By Me 2
 tags: Path, Auchendinny, Tunnel, Scotland, Tree
 date: 2021-06-20T12:50:00.002Z
 ---

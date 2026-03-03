@@ -1,6 +1,6 @@
 ---
 title: "Gowkley Moss"
-category: Photoblog
+category: Seen By Me 2
 tags: Rubbish, Toy
 date: 2022-07-04T16:46:00.003Z
 ---

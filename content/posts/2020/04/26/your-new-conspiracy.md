@@ -1,6 +1,6 @@
 ---
 title: "Your new conspiracy"
-category: Photoblog
+category: Seen By Me 2
 tags: Sky, Auchendinny, Clouds, Scotland
 date: 2020-04-26T15:39:00.004Z
 ---

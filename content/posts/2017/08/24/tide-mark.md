@@ -1,6 +1,6 @@
 ---
 title: "Tide mark"
-category: Photoblog
+category: Seen By Me 2
 tags: Mug, Cup
 date: 2017-08-24T17:22:00.001Z
 ---

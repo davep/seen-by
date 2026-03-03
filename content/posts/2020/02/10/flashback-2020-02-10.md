@@ -1,6 +1,6 @@
 ---
 title: "Flashback (2020-02-10)"
-category: Photoblog
+category: Seen By Me 2
 tags: Window, Snow, Abstract, Glass
 date: 2020-02-10T15:01:00.001Z
 ---

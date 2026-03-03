@@ -1,6 +1,6 @@
 ---
 title: "Redirection"
-category: Photoblog
+category: Seen By Me 2
 tags: Shadows, Self Portrait, Fence
 date: 2020-02-07T09:34:00.001Z
 ---

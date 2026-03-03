@@ -1,6 +1,6 @@
 ---
 title: "When can I hit play again?"
-category: Photoblog
+category: Seen By Me 2
 tags: Spoon
 date: 2020-10-31T22:50:00.002Z
 ---

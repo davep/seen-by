@@ -1,6 +1,6 @@
 ---
 title: "With her"
-category: Photoblog
+category: Seen By Me 2
 tags: Building, Scotland, Edinburgh
 date: 2017-06-10T16:56:00.005Z
 ---

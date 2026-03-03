@@ -1,6 +1,6 @@
 ---
 title: "Just before the event"
-category: Photoblog
+category: Seen By Me 2
 tags: Sky, Field, Clouds, Scotland
 date: 2020-04-26T16:09:00.005Z
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Second walk"
-category: Photoblog
+category: Seen By Me 2
 tags: Sky, Skyline, Landscape, Clouds, Scotland, Silhouette
 date: 2019-08-19T07:20:00.001Z
 ---

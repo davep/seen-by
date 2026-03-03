@@ -1,6 +1,6 @@
 ---
 title: "Routine repeated"
-category: Photoblog
+category: Seen By Me 2
 tags: Path, Sign, Paint
 date: 2021-05-28T21:50:00.002Z
 ---

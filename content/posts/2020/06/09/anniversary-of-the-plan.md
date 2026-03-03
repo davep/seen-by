@@ -1,6 +1,6 @@
 ---
 title: "Anniversary of the plan"
-category: Photoblog
+category: Seen By Me 2
 tags: Abstract
 date: 2020-06-09T09:50:00.002Z
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Snap"
-category: Photoblog
+category: Seen By Me 2
 tags: Books, Hand
 date: 2016-12-17T20:18:00.001Z
 ---

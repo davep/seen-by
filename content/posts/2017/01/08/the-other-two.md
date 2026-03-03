@@ -1,6 +1,6 @@
 ---
 title: "The other two"
-category: Photoblog
+category: Seen By Me 2
 tags: Sky, Scotland, Landscape, Clouds, Bridge
 date: 2017-01-08T14:55:00.001Z
 ---

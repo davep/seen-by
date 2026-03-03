@@ -1,6 +1,6 @@
 ---
 title: "Advertising"
-category: Photoblog
+category: Seen By Me 2
 tags: Scotland, Edinburgh, Fringe
 date: 2016-08-07T17:26:00Z
 ---

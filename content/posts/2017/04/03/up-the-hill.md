@@ -1,6 +1,6 @@
 ---
 title: "Up the hill"
-category: Photoblog
+category: Seen By Me 2
 tags: Sky, Building, Monument, Skyline, Clouds, Scotland, Edinburgh, Calton Hill
 date: 2017-04-03T10:20:00.001Z
 ---

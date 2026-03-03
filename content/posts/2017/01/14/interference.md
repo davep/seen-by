@@ -1,6 +1,6 @@
 ---
 title: "Interference"
-category: Photoblog
+category: Seen By Me 2
 tags: Shadows, Self Portrait, Scotland, Edinburgh, Road
 date: 2017-01-14T12:52:00.001Z
 ---

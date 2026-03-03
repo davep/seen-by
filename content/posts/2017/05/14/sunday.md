@@ -1,6 +1,6 @@
 ---
 title: "Sunday"
-category: Photoblog
+category: Seen By Me 2
 tags: Garden, Pot, Stone
 date: 2017-05-14T12:09:00.001Z
 ---

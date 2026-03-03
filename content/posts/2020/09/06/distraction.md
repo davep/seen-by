@@ -1,6 +1,6 @@
 ---
 title: "Distraction"
-category: Photoblog
+category: Seen By Me 2
 tags: Shadows, Abstract, Light
 date: 2020-09-06T08:50:00.001Z
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Towards the end"
-category: Photoblog
+category: Seen By Me 2
 tags: Water, Ice, Drink
 date: 2016-12-18T13:53:00.001Z
 ---

@@ -1,6 +1,6 @@
 ---
 title: "A good day"
-category: Photoblog
+category: Seen By Me 2
 tags: Sky, England, Clouds, Grantham
 date: 2016-04-26T12:56:00Z
 ---

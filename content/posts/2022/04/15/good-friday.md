@@ -1,6 +1,6 @@
 ---
 title: "Good Friday"
-category: Photoblog
+category: Seen By Me 2
 tags: Logo
 date: 2022-04-15T12:46:00.003Z
 ---

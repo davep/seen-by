@@ -1,6 +1,6 @@
 ---
 title: "Today's office"
-category: Photoblog
+category: Seen By Me 2
 tags: Travel, Train
 date: 2016-06-30T10:49:00Z
 ---

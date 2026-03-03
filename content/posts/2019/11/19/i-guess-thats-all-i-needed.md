@@ -1,6 +1,6 @@
 ---
 title: "I guess that's all I needed"
-category: Photoblog
+category: Seen By Me 2
 tags: Auchendinny, Scotland, Tree, Grass, Fence, Frost
 date: 2019-11-19T08:37:00.001Z
 ---

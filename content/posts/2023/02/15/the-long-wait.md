@@ -1,6 +1,6 @@
 ---
 title: "The long wait"
-category: Photoblog
+category: Seen By Me 2
 tags: Graffiti, Scotland, Edinburgh
 date: 2023-02-15T08:46:00.003Z
 ---

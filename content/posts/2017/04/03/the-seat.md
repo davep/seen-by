@@ -1,6 +1,6 @@
 ---
 title: "The seat"
-category: Photoblog
+category: Seen By Me 2
 tags: Sky, Landscape, Hill, Clouds, Scotland, Edinburgh
 date: 2017-04-03T10:20:00.005Z
 ---

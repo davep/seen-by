@@ -1,6 +1,6 @@
 ---
 title: "During a stop"
-category: Photoblog
+category: Seen By Me 2
 tags: Sky, Clouds, Tree
 date: 2018-04-08T13:18:00.003Z
 ---

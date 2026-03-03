@@ -1,6 +1,6 @@
 ---
 title: "Before it got dark"
-category: Photoblog
+category: Seen By Me 2
 tags: Landscape, Wall, Clouds, Road, Scotland, Edinburgh, Sun, Pylon
 date: 2017-03-21T09:59:00.003Z
 ---

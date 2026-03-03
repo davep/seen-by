@@ -1,6 +1,6 @@
 ---
 title: "Planning"
-category: Photoblog
+category: Seen By Me 2
 tags: Politics
 date: 2016-05-22T10:46:00Z
 ---

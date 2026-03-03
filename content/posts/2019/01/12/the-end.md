@@ -1,6 +1,6 @@
 ---
 title: "The end"
-category: Photoblog
+category: Seen By Me 2
 tags: Abstract, Coffee
 date: 2019-01-12T14:33:00.001Z
 ---

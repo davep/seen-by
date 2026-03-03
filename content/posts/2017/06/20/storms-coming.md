@@ -1,6 +1,6 @@
 ---
 title: "Storm's coming"
-category: Photoblog
+category: Seen By Me 2
 tags: Weather, Sky, Contrail, Clouds, Wire
 date: 2017-06-20T18:00:00.001Z
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Before the unplanned"
-category: Photoblog
+category: Seen By Me 2
 tags: Table
 date: 2017-07-15T13:23:00.001Z
 ---

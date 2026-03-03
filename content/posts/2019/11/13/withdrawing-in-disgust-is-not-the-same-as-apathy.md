@@ -1,6 +1,6 @@
 ---
 title: "Withdrawing in disgust is not the same as apathy"
-category: Photoblog
+category: Seen By Me 2
 tags: Path, Road, Leaf, Paint, Lines
 date: 2019-11-13T08:40:00.001Z
 ---

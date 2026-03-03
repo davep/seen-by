@@ -1,6 +1,6 @@
 ---
 title: "Back to the new reality"
-category: Photoblog
+category: Seen By Me 2
 tags: Apple, Keyboard, Computer
 date: 2018-03-05T10:16:00.001Z
 ---

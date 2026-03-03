@@ -1,6 +1,6 @@
 ---
 title: "Is my timing that flawed?"
-category: Photoblog
+category: Seen By Me 2
 tags: Computer, Music, Screen
 date: 2017-05-18T13:56:00.001Z
 ---

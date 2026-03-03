@@ -1,6 +1,6 @@
 ---
 title: "Just because you feel it, it doesn't mean it's there"
-category: Photoblog
+category: Seen By Me 2
 tags: Sky, Snow, Clouds, Road, Scotland
 date: 2020-02-11T09:01:00.005Z
 ---

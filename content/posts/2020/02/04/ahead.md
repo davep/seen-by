@@ -1,6 +1,6 @@
 ---
 title: "Ahead"
-category: Photoblog
+category: Seen By Me 2
 tags: Building, Field, Clouds, Farm, Fence
 date: 2020-02-04T08:54:00.001Z
 ---

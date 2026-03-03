@@ -1,6 +1,6 @@
 ---
 title: "Claws of the dead"
-category: Photoblog
+category: Seen By Me 2
 tags: Abstract, Tree
 date: 2020-04-05T11:42:00.009Z
 ---

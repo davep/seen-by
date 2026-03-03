@@ -1,6 +1,6 @@
 ---
 title: "Somehow still surviving"
-category: Photoblog
+category: Seen By Me 2
 tags: Path, Auchendinny, Wall, Scotland, Tree, Sign
 date: 2020-02-25T08:42:00.001Z
 ---

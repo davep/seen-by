@@ -1,6 +1,6 @@
 ---
 title: "The miracle that was promised creeps quietly by"
-category: Photoblog
+category: Seen By Me 2
 tags: Path, Auchendinny, Snow, Scotland, Tree, Ice
 date: 2020-12-30T10:50:00.002Z
 ---

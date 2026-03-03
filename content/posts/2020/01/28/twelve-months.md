@@ -1,6 +1,6 @@
 ---
 title: "Twelve months"
-category: Photoblog
+category: Seen By Me 2
 tags: Easter Bush, Path, Hill, Snow, Pentlands, Road, Scotland, Tree, Ice
 date: 2020-01-28T09:03:00.001Z
 ---

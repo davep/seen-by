@@ -1,6 +1,6 @@
 ---
 title: "Your sonder failure"
-category: Photoblog
+category: Seen By Me 2
 tags: Shadows, Self Portrait, Snow
 date: 2021-02-11T08:50:00.004Z
 ---

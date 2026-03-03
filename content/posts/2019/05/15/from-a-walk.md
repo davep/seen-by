@@ -1,6 +1,6 @@
 ---
 title: "From a walk"
-category: Photoblog
+category: Seen By Me 2
 tags: Scotland, Tree, Silhouette, Bonnyrigg, Sun, Lasswade
 date: 2019-05-15T18:19:00.003Z
 ---

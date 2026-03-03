@@ -1,6 +1,6 @@
 ---
 title: "The possible"
-category: Photoblog
+category: Seen By Me 2
 tags: Auchendinny, Scotland, Tree
 date: 2020-09-26T17:50:00.002Z
 ---

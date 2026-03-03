@@ -1,6 +1,6 @@
 ---
 title: "Object Inconstancy"
-category: Photoblog
+category: Seen By Me 2
 tags: Wall, Tree
 date: 2020-01-13T08:57:00.003Z
 ---

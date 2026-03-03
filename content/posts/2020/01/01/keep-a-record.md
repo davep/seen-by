@@ -1,6 +1,6 @@
 ---
 title: "Keep a record"
-category: Photoblog
+category: Seen By Me 2
 tags: New Year, Scotland, Edinburgh, Hogmanay, Fireworks
 date: 2020-01-01T15:21:00.001Z
 ---

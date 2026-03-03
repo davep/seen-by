@@ -1,6 +1,6 @@
 ---
 title: "Some kind of light"
-category: Photoblog
+category: Seen By Me 2
 tags: Water, Roslin, Log, River, Scotland, Roslin Glen
 date: 2020-04-30T16:41:00.002Z
 ---

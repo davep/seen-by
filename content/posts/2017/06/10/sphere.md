@@ -1,6 +1,6 @@
 ---
 title: "Sphere"
-category: Photoblog
+category: Seen By Me 2
 tags: Circle, Art, Sculpture
 date: 2017-06-10T16:56:00.007Z
 ---

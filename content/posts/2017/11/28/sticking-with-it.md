@@ -1,6 +1,6 @@
 ---
 title: "Sticking with it"
-category: Photoblog
+category: Seen By Me 2
 tags: Apple, Computer
 date: 2017-11-28T13:39:00.001Z
 ---

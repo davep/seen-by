@@ -1,6 +1,6 @@
 ---
 title: "Another"
-category: Photoblog
+category: Seen By Me 2
 tags: Water, River, Scotland, Penicuik, Pipe
 date: 2020-04-24T16:12:00.002Z
 ---

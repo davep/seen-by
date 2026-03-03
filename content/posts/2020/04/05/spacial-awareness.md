@@ -1,6 +1,6 @@
 ---
 title: "Spacial awareness"
-category: Photoblog
+category: Seen By Me 2
 tags: Roslin, Scotland, Tree, Grass, Roslin Glen
 date: 2020-04-05T11:42:00.007Z
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Not Here"
-category: Photoblog
+category: Seen By Me 2
 tags: Sky, Religion, Scotland, Edinburgh, Sign
 date: 2016-11-12T16:30:00Z
 ---

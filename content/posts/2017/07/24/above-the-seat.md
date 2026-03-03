@@ -1,6 +1,6 @@
 ---
 title: "Above the Seat"
-category: Photoblog
+category: Seen By Me 2
 tags: Sky, Hill, Bird, Scotland, Arthur's Seat, Edinburgh, Holyrood Park
 date: 2017-07-24T11:36:00.001Z
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Next to the bridge"
-category: Photoblog
+category: Seen By Me 2
 tags: Building, Sky, Scotland, Edinburgh
 date: 2017-05-26T08:36:00.001Z
 ---

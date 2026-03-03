@@ -1,6 +1,6 @@
 ---
 title: "Search area"
-category: Photoblog
+category: Seen By Me 2
 tags: Sky, Auchendinny, Hill, Clouds, Pentlands, Scotland
 date: 2020-12-17T16:50:00.004Z
 ---

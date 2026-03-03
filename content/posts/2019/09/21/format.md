@@ -1,6 +1,6 @@
 ---
 title: "Format"
-category: Photoblog
+category: Seen By Me 2
 tags: Building, Shadows, University, Light, Scotland, Edinburgh
 date: 2019-09-21T10:40:00.003Z
 ---

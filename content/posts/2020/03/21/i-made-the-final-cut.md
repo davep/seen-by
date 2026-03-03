@@ -1,6 +1,6 @@
 ---
 title: "I made the final cut"
-category: Photoblog
+category: Seen By Me 2
 tags: Sky, Clouds, Scotland, Tree, Recycling, Straiton
 date: 2020-03-21T12:29:00.001Z
 ---

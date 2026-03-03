@@ -1,6 +1,6 @@
 ---
 title: "Coming down"
-category: Photoblog
+category: Seen By Me 2
 tags: Window, Bus, Field, Hill, Snow, Pentlands
 date: 2020-02-28T12:50:00.001Z
 ---

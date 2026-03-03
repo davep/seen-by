@@ -1,6 +1,6 @@
 ---
 title: "The day it became inevitable"
-category: Photoblog
+category: Seen By Me 2
 tags: Shadows, Light, Abstract
 date: 2020-04-03T09:13:00.001Z
 ---

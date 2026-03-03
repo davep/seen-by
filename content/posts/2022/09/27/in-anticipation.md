@@ -1,6 +1,6 @@
 ---
 title: "In anticipation"
-category: Photoblog
+category: Seen By Me 2
 tags: Easter Bush, Numbers, Hill, Pentlands, Scotland, Sign
 date: 2022-09-27T08:46:00.003Z
 ---

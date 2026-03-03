@@ -1,6 +1,6 @@
 ---
 title: "Fuck you, I won't do what you tell me"
-category: Photoblog
+category: Seen By Me 2
 tags: Cardboard, Sign, Box
 date: 2021-01-13T16:50:00.004Z
 ---

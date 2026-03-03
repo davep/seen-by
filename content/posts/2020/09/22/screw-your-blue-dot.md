@@ -1,6 +1,6 @@
 ---
 title: "Screw your blue dot"
-category: Photoblog
+category: Seen By Me 2
 tags: Leaf
 date: 2020-09-22T07:50:00.002Z
 ---

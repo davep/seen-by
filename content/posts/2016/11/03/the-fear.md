@@ -1,6 +1,6 @@
 ---
 title: "The Fear"
-category: Photoblog
+category: Seen By Me 2
 tags: Music, Politics
 date: 2016-11-03T14:44:00Z
 ---

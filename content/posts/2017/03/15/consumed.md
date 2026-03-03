@@ -1,6 +1,6 @@
 ---
 title: "Consumed"
-category: Photoblog
+category: Seen By Me 2
 tags: Drink, Glass, Food
 date: 2017-03-15T20:02:00.001Z
 ---

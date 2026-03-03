@@ -1,6 +1,6 @@
 ---
 title: "The next one"
-category: Photoblog
+category: Seen By Me 2
 tags: England, Travel, Newark, Train
 date: 2016-08-25T14:40:00Z
 ---

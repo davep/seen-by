@@ -1,6 +1,6 @@
 ---
 title: "Ceiling"
-category: Photoblog
+category: Seen By Me 2
 tags: Abstract, Ceiling
 date: 2019-08-24T16:13:00.001Z
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Little Fluffy Clouds"
-category: Photoblog
+category: Seen By Me 2
 tags: Sky, Clouds
 date: 2017-05-28T12:33:00.001Z
 ---

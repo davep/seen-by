@@ -1,6 +1,6 @@
 ---
 title: "One hand clapping"
-category: Photoblog
+category: Seen By Me 2
 tags: SARS-CoV-2, Graffiti, Pandemic, Scotland, Penicuik
 date: 2020-05-03T11:58:00.010Z
 ---

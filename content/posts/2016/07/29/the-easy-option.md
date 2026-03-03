@@ -1,6 +1,6 @@
 ---
 title: "The easy option"
-category: Photoblog
+category: Seen By Me 2
 tags: Abstract, Food
 date: 2016-07-29T18:02:00Z
 ---

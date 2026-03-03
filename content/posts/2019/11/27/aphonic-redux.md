@@ -1,6 +1,6 @@
 ---
 title: "Aphonic (redux)"
-category: Photoblog
+category: Seen By Me 2
 tags: Auchendinny, Scotland, Tree, Mist
 date: 2019-11-27T08:14:00.001Z
 ---

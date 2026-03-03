@@ -1,6 +1,6 @@
 ---
 title: "OKNOTOK"
-category: Photoblog
+category: Seen By Me 2
 tags: Path, Auchendinny, Scotland, Tree
 date: 2019-09-30T17:09:00.001Z
 ---

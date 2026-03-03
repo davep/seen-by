@@ -1,6 +1,6 @@
 ---
 title: "They'll always be allergic to happiness"
-category: Photoblog
+category: Seen By Me 2
 tags: Path
 date: 2022-07-04T08:46:00.003Z
 ---

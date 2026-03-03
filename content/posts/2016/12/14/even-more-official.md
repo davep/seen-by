@@ -1,6 +1,6 @@
 ---
 title: "Even more official"
-category: Photoblog
+category: Seen By Me 2
 tags: Writing, Scotland
 date: 2016-12-14T12:03:00.001Z
 ---

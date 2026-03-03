@@ -1,6 +1,6 @@
 ---
 title: "Darkest day, minus two"
-category: Photoblog
+category: Seen By Me 2
 tags: Letter, Road
 date: 2016-12-19T15:19:00.001Z
 ---

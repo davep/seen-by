@@ -1,6 +1,6 @@
 ---
 title: "Score the Friday night goals"
-category: Photoblog
+category: Seen By Me 2
 tags: Path, Auchendinny, Road, Scotland
 date: 2020-12-11T18:50:00.002Z
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Once, there was an explosion"
-category: Photoblog
+category: Seen By Me 2
 tags: Building, Field, Auchendinny, Farm, Scotland
 date: 2020-04-05T10:42:00.001Z
 ---

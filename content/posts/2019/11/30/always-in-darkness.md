@@ -1,6 +1,6 @@
 ---
 title: "Always in darkness"
-category: Photoblog
+category: Seen By Me 2
 tags: Field, Auchendinny, Scotland, Tree, Frost
 date: 2019-11-30T14:31:00.001Z
 ---

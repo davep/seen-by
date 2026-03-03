@@ -1,6 +1,6 @@
 ---
 title: "I can taste your stink, and every time I do, I fear that I've somehow been infected by it"
-category: Photoblog
+category: Seen By Me 2
 tags: Rubbish
 date: 2020-04-28T16:41:00.008Z
 ---

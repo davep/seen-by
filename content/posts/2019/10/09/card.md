@@ -1,6 +1,6 @@
 ---
 title: "Card"
-category: Photoblog
+category: Seen By Me 2
 tags: Leaf, Card
 date: 2019-10-09T16:47:00.001Z
 ---

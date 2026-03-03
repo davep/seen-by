@@ -1,6 +1,6 @@
 ---
 title: "Setup"
-category: Photoblog
+category: Seen By Me 2
 tags: Abstract
 date: 2020-01-11T12:27:00.001Z
 ---

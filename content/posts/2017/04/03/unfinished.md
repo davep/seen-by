@@ -1,6 +1,6 @@
 ---
 title: "Unfinished"
-category: Photoblog
+category: Seen By Me 2
 tags: Sky, Monument, Clouds, Scotland, Edinburgh, Calton Hill
 date: 2017-04-03T10:20:00.003Z
 ---

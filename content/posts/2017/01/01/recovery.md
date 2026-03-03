@@ -1,6 +1,6 @@
 ---
 title: "Recovery"
-category: Photoblog
+category: Seen By Me 2
 tags: Scotland, Edinburgh, Abstract
 date: 2017-01-01T13:51:00.001Z
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Ten minute warning"
-category: Photoblog
+category: Seen By Me 2
 tags: England, Travel, Landscape, Train
 date: 2016-07-28T14:11:00Z
 ---

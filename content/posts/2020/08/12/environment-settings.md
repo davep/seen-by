@@ -1,6 +1,6 @@
 ---
 title: "Environment settings"
-category: Photoblog
+category: Seen By Me 2
 tags: Path, Auchendinny, Tunnel, Scotland, Tree, Mist
 date: 2020-08-12T09:50:00.003Z
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Sync"
-category: Photoblog
+category: Seen By Me 2
 tags: Path, Tree
 date: 2020-05-07T16:36:00.004Z
 ---

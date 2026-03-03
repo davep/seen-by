@@ -1,6 +1,6 @@
 ---
 title: "Street art"
-category: Photoblog
+category: Seen By Me 2
 tags: Art, Chalk, Hand
 date: 2017-08-21T19:11:00.001Z
 ---

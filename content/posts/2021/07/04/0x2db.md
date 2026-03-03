@@ -1,6 +1,6 @@
 ---
 title: "0x2DB"
-category: Photoblog
+category: Seen By Me 2
 tags: Sofa, Case
 date: 2021-07-04T10:50:00.002Z
 ---

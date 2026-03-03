@@ -1,6 +1,6 @@
 ---
 title: "Before me"
-category: Photoblog
+category: Seen By Me 2
 tags: Travel, Bus, Abstract
 date: 2016-11-17T10:16:00.001Z
 ---

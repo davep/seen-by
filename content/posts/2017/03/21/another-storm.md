@@ -1,6 +1,6 @@
 ---
 title: "Another storm"
-category: Photoblog
+category: Seen By Me 2
 tags: Sky, Weather, Field, Landscape, Hill, Clouds, Snow, Scotland, Edinburgh, Pylon
 date: 2017-03-21T09:59:00.001Z
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Pool"
-category: Photoblog
+category: Seen By Me 2
 tags: Drink, Coffee
 date: 2017-08-13T14:38:00.001Z
 ---

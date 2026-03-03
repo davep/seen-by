@@ -1,6 +1,6 @@
 ---
 title: "Question everything but"
-category: Photoblog
+category: Seen By Me 2
 tags: Graffiti, Words, Religion
 date: 2020-02-28T10:20:00.001Z
 ---

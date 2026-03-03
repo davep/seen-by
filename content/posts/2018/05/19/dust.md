@@ -1,6 +1,6 @@
 ---
 title: "Dust"
-category: Photoblog
+category: Seen By Me 2
 tags: Self Portrait, Dust, Boots, Arthur's Seat, Foot
 date: 2018-05-19T14:59:00.001Z
 ---

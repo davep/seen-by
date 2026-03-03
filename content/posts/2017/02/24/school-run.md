@@ -1,6 +1,6 @@
 ---
 title: "School run"
-category: Photoblog
+category: Seen By Me 2
 tags: Window, Sky, Clouds, Car, Light, Scotland, Edinburgh, Sun
 date: 2017-02-24T08:53:00.001Z
 ---

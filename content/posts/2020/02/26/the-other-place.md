@@ -1,6 +1,6 @@
 ---
 title: "The other place"
-category: Photoblog
+category: Seen By Me 2
 tags: Light, Tree, Sunrise
 date: 2020-02-26T09:12:00.001Z
 ---

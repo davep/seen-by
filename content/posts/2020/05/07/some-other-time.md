@@ -1,6 +1,6 @@
 ---
 title: "Some other time"
-category: Photoblog
+category: Seen By Me 2
 tags: Sky, Skyline, Clouds, Silhouette
 date: 2020-05-07T17:06:00.002Z
 ---

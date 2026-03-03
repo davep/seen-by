@@ -4,20 +4,29 @@ title: About
 
 ## About this site
 
-This is a "rescued" version of the photoblog that I started on Blogger.com
-[back in
-2016](https://blog.davep.org/2016/11/15/seen_by_davep_(the_return).html).
-This in turn was a reboot of an earlier photoblog that I used to maintain,
-which was long ago lost to the whims of tech buyouts (which is [backed up on
-WordPress](https://seenbydavep.wordpress.com) and which I might try and
-export and pull into here at some point).
+This is the "rescued" versions of two photoblogs I've run over the years.
 
-The rescue came about [due to the fact that I nuked my Twitter account quite
-some time
-ago](https://blog.davep.org/2023/08/20/seen-by-davep-broke-again.html) which
-broke the whole posting/hosting process. While I did keep backup copies of
-all the images, there was no simple way to revive the blog.
+The original (under the category [Seen By Me
+1](/category/seen-by-me-1.html)) ran from [2009](/2009/) to [2013](/2013/)
+and was hosted on [Posterous](https://en.wikipedia.org/wiki/Posterous),
+being killed off [when Posterous was killed
+off](https://en.wikipedia.org/wiki/Posterous#Shutdown).
 
-So this is an archive that I fully control.
+After the original was killed by acquisition I didn't do much, until I found
+myself posting images to Twitter more and more and I finally decided to
+revive the idea.
+
+So the second (under the category [Seen By Me
+2](/category/seen-by-me-2.html)) ran from [2016](/2016/) to [2024](/2024/).
+It was hosted on Blogger.com, populated by an IFTTT pipeline that watched
+for tweets with a specific hashtag. That version started to degrade when the
+Twitter APIs became very expensive and IFTTT no longer provided watching
+Twitter for free, and then it degraded even further when I nuked my Twitter
+account.
+
+This is an archive I now fully control. While it is [hosted on GitHub
+Pages](https://github.com/davep/seen-by) I've done this in a way that it
+would be pretty easy to move elsewhere; this is down to the fact that it's a
+simple static site built with [BlogMore](https://blogmore.davep.dev/).
 
 [//]: # (about.md ends here)

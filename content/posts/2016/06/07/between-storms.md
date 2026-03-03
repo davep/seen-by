@@ -1,6 +1,6 @@
 ---
 title: "Between storms"
-category: Photoblog
+category: Seen By Me 2
 tags: Storm, Rain, Clouds, Abstract
 date: 2016-06-07T13:26:00Z
 ---

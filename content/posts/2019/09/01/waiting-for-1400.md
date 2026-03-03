@@ -1,6 +1,6 @@
 ---
 title: "Waiting for 1400"
-category: Photoblog
+category: Seen By Me 2
 tags: Station, Travel, Train
 date: 2019-09-01T12:46:00.001Z
 ---

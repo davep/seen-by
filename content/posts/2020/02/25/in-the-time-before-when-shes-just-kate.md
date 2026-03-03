@@ -1,6 +1,6 @@
 ---
 title: "In the time before, when she's just Kate"
-category: Photoblog
+category: Seen By Me 2
 tags: Easter Bush, Path, Glove, Glass, Reflection, Bus Stop
 date: 2020-02-25T09:12:00.003Z
 ---

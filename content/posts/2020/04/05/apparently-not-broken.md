@@ -1,6 +1,6 @@
 ---
 title: "Apparently not broken"
-category: Photoblog
+category: Seen By Me 2
 tags: Abstract, Paint, Lines
 date: 2020-04-05T09:42:00.001Z
 ---

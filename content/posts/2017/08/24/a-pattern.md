@@ -1,6 +1,6 @@
 ---
 title: "A pattern"
-category: Photoblog
+category: Seen By Me 2
 tags: Wood, Abstract, Lines
 date: 2017-08-24T15:22:00.001Z
 ---

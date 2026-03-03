@@ -1,6 +1,6 @@
 ---
 title: "Minimum safe distance"
-category: Photoblog
+category: Seen By Me 2
 tags: Sky, Light, Traffic Light
 date: 2020-04-24T16:42:00.004Z
 ---

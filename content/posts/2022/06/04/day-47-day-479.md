@@ -1,6 +1,6 @@
 ---
 title: "Day 47, Day 479"
-category: Photoblog
+category: Seen By Me 2
 tags: Self Portrait, Shadows
 date: 2022-06-04T09:46:00.003Z
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Washington"
-category: Photoblog
+category: Seen By Me 2
 tags: Food
 date: 2016-11-27T14:33:00.001Z
 ---

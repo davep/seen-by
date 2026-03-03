@@ -1,6 +1,6 @@
 ---
 title: "She naps"
-category: Photoblog
+category: Seen By Me 2
 tags: Blanket
 date: 2017-12-31T18:41:00.001Z
 ---

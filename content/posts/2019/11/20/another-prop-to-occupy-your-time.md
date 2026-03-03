@@ -1,6 +1,6 @@
 ---
 title: "Another prop, to occupy your time"
-category: Photoblog
+category: Seen By Me 2
 tags: Auchendinny, Rubbish, Road, Scotland, Ice
 date: 2019-11-20T08:42:00.001Z
 ---

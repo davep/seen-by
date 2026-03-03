@@ -1,6 +1,6 @@
 ---
 title: "The decision"
-category: Photoblog
+category: Seen By Me 2
 tags: Sky, Auchendinny, Clouds, Scotland, Tree, Silhouette
 date: 2020-01-21T08:32:00.001Z
 ---

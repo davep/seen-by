@@ -1,6 +1,6 @@
 ---
 title: "Rule #32"
-category: Photoblog
+category: Seen By Me 2
 tags: Easter Bush, Rubbish, Scotland, Leaf, Fence
 date: 2019-11-07T09:33:00.003Z
 ---

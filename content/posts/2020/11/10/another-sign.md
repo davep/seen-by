@@ -1,6 +1,6 @@
 ---
 title: "Another sign"
-category: Photoblog
+category: Seen By Me 2
 tags: Path, Paint, Grass
 date: 2020-11-10T14:51:00.004Z
 ---

@@ -1,6 +1,6 @@
 ---
 title: "After the show"
-category: Photoblog
+category: Seen By Me 2
 tags: Scotland, Edinburgh, Fringe, Light
 date: 2016-08-07T17:28:00Z
 ---

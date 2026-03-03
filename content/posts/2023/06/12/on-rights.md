@@ -1,6 +1,6 @@
 ---
 title: "On Rights"
-category: Photoblog
+category: Seen By Me 2
 tags: Pride, Scotland, Edinburgh, Sign, Bus Stop
 date: 2023-06-12T06:55:00.003Z
 ---

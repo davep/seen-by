@@ -1,6 +1,6 @@
 ---
 title: "After Tesco"
-category: Photoblog
+category: Seen By Me 2
 tags: Sky, Scotland, Clouds, Lamp, Dalkeith
 date: 2017-03-11T16:09:00.001Z
 ---

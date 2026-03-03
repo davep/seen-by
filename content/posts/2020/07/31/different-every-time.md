@@ -1,6 +1,6 @@
 ---
 title: "Different every time"
-category: Photoblog
+category: Seen By Me 2
 tags: Path, Vanishing Point, Auchendinny, Scotland, Tree
 date: 2020-07-31T17:50:00.001Z
 ---

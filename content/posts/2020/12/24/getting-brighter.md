@@ -1,6 +1,6 @@
 ---
 title: "Getting brighter"
-category: Photoblog
+category: Seen By Me 2
 tags: Auchendinny, Scotland, Tree, Sunrise, Silhouette, Sun
 date: 2020-12-24T10:50:00.004Z
 ---

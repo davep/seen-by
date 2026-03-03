@@ -1,6 +1,6 @@
 ---
 title: "Your influence, parts IV-VI"
-category: Photoblog
+category: Seen By Me 2
 tags: Plant
 date: 2020-04-28T16:41:00.006Z
 ---

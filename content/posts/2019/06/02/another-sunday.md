@@ -1,6 +1,6 @@
 ---
 title: "Another Sunday"
-category: Photoblog
+category: Seen By Me 2
 tags: Sky, Clouds, House
 date: 2019-06-02T11:16:00.001Z
 ---

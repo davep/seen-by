@@ -1,6 +1,6 @@
 ---
 title: "On a sunny day"
-category: Photoblog
+category: Seen By Me 2
 tags: Easter Bush, Cone, Road, Scotland, Sign
 date: 2020-11-06T08:50:00.012Z
 ---

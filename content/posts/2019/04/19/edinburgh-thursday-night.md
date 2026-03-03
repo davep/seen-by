@@ -1,6 +1,6 @@
 ---
 title: "Edinburgh Thursday night"
-category: Photoblog
+category: Seen By Me 2
 tags: Scotland, Street, Edinburgh, Bus Stop
 date: 2019-04-19T00:48:00.001Z
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Alexa, play some U2"
-category: Photoblog
+category: Seen By Me 2
 tags: Lyrics, Music, Words
 date: 2017-01-19T15:25:00.001Z
 ---

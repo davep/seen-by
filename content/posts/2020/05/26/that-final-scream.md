@@ -1,6 +1,6 @@
 ---
 title: "That final scream"
-category: Photoblog
+category: Seen By Me 2
 tags: Auchendinny, Clouds, Pentlands, Tree, Contrail
 date: 2020-05-26T17:50:00.008Z
 ---

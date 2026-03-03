@@ -1,6 +1,6 @@
 ---
 title: "Nothing more to offer"
-category: Photoblog
+category: Seen By Me 2
 tags: Abstract, Carpet
 date: 2020-08-26T17:50:00.001Z
 ---

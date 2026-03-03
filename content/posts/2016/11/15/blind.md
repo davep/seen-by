@@ -1,6 +1,6 @@
 ---
 title: "Blind"
-category: Photoblog
+category: Seen By Me 2
 tags: Abstract
 date: 2016-11-15T14:59:00.001Z
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Yup. Totally in Scotland..."
-category: Photoblog
+category: Seen By Me 2
 tags: Scotland, Thistle
 date: 2016-08-14T16:09:00Z
 ---

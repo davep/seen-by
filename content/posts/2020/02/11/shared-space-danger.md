@@ -1,6 +1,6 @@
 ---
 title: "Shared space danger"
-category: Photoblog
+category: Seen By Me 2
 tags: Snow, Abstract
 date: 2020-02-11T09:01:00.001Z
 ---

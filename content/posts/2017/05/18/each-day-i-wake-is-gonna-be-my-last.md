@@ -1,6 +1,6 @@
 ---
 title: "Each day I wake, is gonna be my last"
-category: Photoblog
+category: Seen By Me 2
 tags: Computer, Screen, Words
 date: 2017-05-18T12:51:00.001Z
 ---

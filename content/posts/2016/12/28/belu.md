@@ -1,6 +1,6 @@
 ---
 title: "Belu"
-category: Photoblog
+category: Seen By Me 2
 tags: Water, Shadows, Bottle
 date: 2016-12-28T14:06:00.001Z
 ---

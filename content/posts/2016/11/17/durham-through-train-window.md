@@ -1,6 +1,6 @@
 ---
 title: "Durham through train window"
-category: Photoblog
+category: Seen By Me 2
 tags: Sky, England, Landscape, Clouds, Durham
 date: 2016-11-17T13:59:00.001Z
 ---

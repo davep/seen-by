@@ -1,6 +1,6 @@
 ---
 title: "All clear"
-category: Photoblog
+category: Seen By Me 2
 tags: Sky, Lamp
 date: 2017-05-06T17:56:00.001Z
 ---

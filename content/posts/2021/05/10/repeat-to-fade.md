@@ -1,6 +1,6 @@
 ---
 title: "Repeat to fade"
-category: Photoblog
+category: Seen By Me 2
 tags: Self Portrait, Shoe, Feet, Leg
 date: 2021-05-10T12:50:00.002Z
 ---
