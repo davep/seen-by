@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://seen-by.davep.dev</id>
   <title>Seen by Me</title>
-  <updated>2026-03-02T12:52:36.541916+00:00</updated>
+  <updated>2026-03-03T08:58:30.008686+00:00</updated>
   <link href="https://seen-by.davep.dev/feeds/all.atom.xml" rel="self"/>
   <link href="https://seen-by.davep.dev" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -13,7 +13,7 @@
     <updated>2024-02-12T11:36:00.001000+00:00</updated>
     <content type="html">&lt;p&gt;&lt;img alt="Final Message" src="https://seen-by.davep.dev/attachments/2024/02/12/final-message.jpeg#centre" /&gt;&lt;/p&gt;</content>
     <link href="https://seen-by.davep.dev/2024/02/12/final-message.html"/>
-    <category term="Photoblog"/>
+    <category term="Seen By Me 2"/>
     <category term="Rubbish"/>
     <category term="Words"/>
     <category term="Sign"/>
@@ -26,7 +26,7 @@
     <updated>2023-10-27T16:52:00.003000+00:00</updated>
     <content type="html">&lt;p&gt;&lt;img alt="Finally four out" src="https://seen-by.davep.dev/attachments/2023/10/27/finally-four-out.jpeg#centre" /&gt;&lt;/p&gt;</content>
     <link href="https://seen-by.davep.dev/2023/10/27/finally-four-out.html"/>
-    <category term="Photoblog"/>
+    <category term="Seen By Me 2"/>
     <category term="Water"/>
     <category term="Rain"/>
     <category term="Hat"/>
@@ -38,7 +38,7 @@
     <updated>2023-10-24T06:30:00.001000+00:00</updated>
     <content type="html">&lt;p&gt;&lt;img alt="Turning" src="https://seen-by.davep.dev/attachments/2023/10/24/turning.jpeg#centre" /&gt;&lt;/p&gt;</content>
     <link href="https://seen-by.davep.dev/2023/10/24/turning.html"/>
-    <category term="Photoblog"/>
+    <category term="Seen By Me 2"/>
     <category term="The Meadows"/>
     <category term="Scotland"/>
     <category term="Tree"/>
@@ -52,7 +52,7 @@
     <updated>2023-07-30T17:53:00.002000+00:00</updated>
     <content type="html">&lt;p&gt;&lt;img alt="On Hold" src="https://seen-by.davep.dev/attachments/2023/07/30/on-hold.jpeg#centre" /&gt;&lt;/p&gt;</content>
     <link href="https://seen-by.davep.dev/2023/07/30/on-hold.html"/>
-    <category term="Photoblog"/>
+    <category term="Seen By Me 2"/>
     <category term="Lost"/>
     <category term="Toy"/>
     <published>2023-07-30T17:53:00.002000+00:00</published>
@@ -63,7 +63,7 @@
     <updated>2023-06-12T06:55:00.003000+00:00</updated>
     <content type="html">&lt;p&gt;&lt;img alt="On Rights" src="https://seen-by.davep.dev/attachments/2023/06/12/on-rights.jpeg#centre" /&gt;&lt;/p&gt;</content>
     <link href="https://seen-by.davep.dev/2023/06/12/on-rights.html"/>
-    <category term="Photoblog"/>
+    <category term="Seen By Me 2"/>
     <category term="Pride"/>
     <category term="Scotland"/>
     <category term="Edinburgh"/>
@@ -77,7 +77,7 @@
     <updated>2023-06-07T13:03:00.001000+00:00</updated>
     <content type="html">&lt;p&gt;&lt;img alt="Time is like mercury" src="https://seen-by.davep.dev/attachments/2023/06/07/time-is-like-mercury.jpeg#centre" /&gt;&lt;/p&gt;</content>
     <link href="https://seen-by.davep.dev/2023/06/07/time-is-like-mercury.html"/>
-    <category term="Photoblog"/>
+    <category term="Seen By Me 2"/>
     <category term="Tree"/>
     <published>2023-06-07T13:03:00.001000+00:00</published>
   </entry>
@@ -87,7 +87,7 @@
     <updated>2023-02-15T08:46:00.003000+00:00</updated>
     <content type="html">&lt;p&gt;&lt;img alt="The long wait" src="https://seen-by.davep.dev/attachments/2023/02/15/the-long-wait.jpeg#centre" /&gt;&lt;/p&gt;</content>
     <link href="https://seen-by.davep.dev/2023/02/15/the-long-wait.html"/>
-    <category term="Photoblog"/>
+    <category term="Seen By Me 2"/>
     <category term="Graffiti"/>
     <category term="Scotland"/>
     <category term="Edinburgh"/>
@@ -99,7 +99,7 @@
     <updated>2023-01-05T08:46:00.003000+00:00</updated>
     <content type="html">&lt;p&gt;&lt;img alt="This machine will not communicate" src="https://seen-by.davep.dev/attachments/2023/01/05/this-machine-will-not-communicate.jpeg#centre" /&gt;&lt;/p&gt;</content>
     <link href="https://seen-by.davep.dev/2023/01/05/this-machine-will-not-communicate.html"/>
-    <category term="Photoblog"/>
+    <category term="Seen By Me 2"/>
     <category term="Bird"/>
     <category term="Scotland"/>
     <category term="Edinburgh"/>
@@ -111,7 +111,7 @@
     <updated>2022-11-24T12:46:00.003000+00:00</updated>
     <content type="html">&lt;p&gt;&lt;img alt="Not A Trophy" src="https://seen-by.davep.dev/attachments/2022/11/24/not-a-trophy.jpeg#centre" /&gt;&lt;/p&gt;</content>
     <link href="https://seen-by.davep.dev/2022/11/24/not-a-trophy.html"/>
-    <category term="Photoblog"/>
+    <category term="Seen By Me 2"/>
     <category term="Heart"/>
     <category term="Scotland"/>
     <category term="Edinburgh"/>
@@ -123,7 +123,7 @@
     <updated>2022-11-22T18:46:00.003000+00:00</updated>
     <content type="html">&lt;p&gt;&lt;img alt="Hesitation" src="https://seen-by.davep.dev/attachments/2022/11/22/hesitation.jpeg#centre" /&gt;&lt;/p&gt;</content>
     <link href="https://seen-by.davep.dev/2022/11/22/hesitation.html"/>
-    <category term="Photoblog"/>
+    <category term="Seen By Me 2"/>
     <category term="Path"/>
     <category term="Vanishing Point"/>
     <category term="Auchendinny"/>
@@ -141,7 +141,7 @@
     <updated>2022-11-02T07:46:00.003000+00:00</updated>
     <content type="html">&lt;p&gt;&lt;img alt="Elegance" src="https://seen-by.davep.dev/attachments/2022/11/02/elegance.jpeg#centre" /&gt;&lt;/p&gt;</content>
     <link href="https://seen-by.davep.dev/2022/11/02/elegance.html"/>
-    <category term="Photoblog"/>
+    <category term="Seen By Me 2"/>
     <category term="Abstract"/>
     <category term="Sunrise"/>
     <published>2022-11-02T07:46:00.003000+00:00</published>
@@ -152,7 +152,7 @@
     <updated>2022-09-27T08:46:00.003000+00:00</updated>
     <content type="html">&lt;p&gt;&lt;img alt="In anticipation" src="https://seen-by.davep.dev/attachments/2022/09/27/in-anticipation.jpeg#centre" /&gt;&lt;/p&gt;</content>
     <link href="https://seen-by.davep.dev/2022/09/27/in-anticipation.html"/>
-    <category term="Photoblog"/>
+    <category term="Seen By Me 2"/>
     <category term="Easter Bush"/>
     <category term="Numbers"/>
     <category term="Hill"/>
@@ -167,7 +167,7 @@
     <updated>2022-09-08T11:47:00.003000+00:00</updated>
     <content type="html">&lt;p&gt;&lt;img alt="Aye" src="https://seen-by.davep.dev/attachments/2022/09/08/aye.jpeg#centre" /&gt;&lt;/p&gt;</content>
     <link href="https://seen-by.davep.dev/2022/09/08/aye.html"/>
-    <category term="Photoblog"/>
+    <category term="Seen By Me 2"/>
     <category term="Words"/>
     <category term="Scotland"/>
     <category term="Politics"/>
@@ -181,7 +181,7 @@
     <updated>2022-08-06T15:46:00.003000+00:00</updated>
     <content type="html">&lt;p&gt;&lt;img alt="Year 4" src="https://seen-by.davep.dev/attachments/2022/08/06/year-4.jpeg#centre" /&gt;&lt;/p&gt;</content>
     <link href="https://seen-by.davep.dev/2022/08/06/year-4.html"/>
-    <category term="Photoblog"/>
+    <category term="Seen By Me 2"/>
     <category term="Station"/>
     <category term="Auchendinny"/>
     <category term="Wood"/>
@@ -195,7 +195,7 @@
     <updated>2022-07-26T08:46:00.003000+00:00</updated>
     <content type="html">&lt;p&gt;&lt;img alt="The next conspiracy" src="https://seen-by.davep.dev/attachments/2022/07/26/the-next-conspiracy.jpeg#centre" /&gt;&lt;/p&gt;</content>
     <link href="https://seen-by.davep.dev/2022/07/26/the-next-conspiracy.html"/>
-    <category term="Photoblog"/>
+    <category term="Seen By Me 2"/>
     <category term="Easter Bush"/>
     <category term="Sky"/>
     <category term="Building"/>
@@ -212,7 +212,7 @@
     <updated>2022-07-04T16:46:00.003000+00:00</updated>
     <content type="html">&lt;p&gt;&lt;img alt="Gowkley Moss" src="https://seen-by.davep.dev/attachments/2022/07/04/gowkley-moss.jpeg#centre" /&gt;&lt;/p&gt;</content>
     <link href="https://seen-by.davep.dev/2022/07/04/gowkley-moss.html"/>
-    <category term="Photoblog"/>
+    <category term="Seen By Me 2"/>
     <category term="Rubbish"/>
     <category term="Toy"/>
     <published>2022-07-04T16:46:00.003000+00:00</published>
@@ -223,7 +223,7 @@
     <updated>2022-07-04T08:46:00.003000+00:00</updated>
     <content type="html">&lt;p&gt;&lt;img alt="They'll always be allergic to happiness" src="https://seen-by.davep.dev/attachments/2022/07/04/theyll-always-be-allergic-to-happiness.jpeg#centre" /&gt;&lt;/p&gt;</content>
     <link href="https://seen-by.davep.dev/2022/07/04/theyll-always-be-allergic-to-happiness.html"/>
-    <category term="Photoblog"/>
+    <category term="Seen By Me 2"/>
     <category term="Path"/>
     <published>2022-07-04T08:46:00.003000+00:00</published>
   </entry>
@@ -233,7 +233,7 @@
     <updated>2022-06-16T09:46:00.003000+00:00</updated>
     <content type="html">&lt;p&gt;&lt;img alt="Telomere" src="https://seen-by.davep.dev/attachments/2022/06/16/telomere.jpeg#centre" /&gt;&lt;/p&gt;</content>
     <link href="https://seen-by.davep.dev/2022/06/16/telomere.html"/>
-    <category term="Photoblog"/>
+    <category term="Seen By Me 2"/>
     <category term="Building"/>
     <category term="Sky"/>
     <category term="Easter Bush"/>
@@ -248,7 +248,7 @@
     <updated>2022-06-16T08:46:00.003000+00:00</updated>
     <content type="html">&lt;p&gt;&lt;img alt="You're gonna be the one that saves me" src="https://seen-by.davep.dev/attachments/2022/06/16/youre-gonna-be-the-one-that-saves-me.jpeg#centre" /&gt;&lt;/p&gt;</content>
     <link href="https://seen-by.davep.dev/2022/06/16/youre-gonna-be-the-one-that-saves-me.html"/>
-    <category term="Photoblog"/>
+    <category term="Seen By Me 2"/>
     <category term="Sky"/>
     <category term="Clouds"/>
     <category term="Lamp"/>
@@ -260,7 +260,7 @@
     <updated>2022-06-04T09:46:00.003000+00:00</updated>
     <content type="html">&lt;p&gt;&lt;img alt="Day 47, Day 479" src="https://seen-by.davep.dev/attachments/2022/06/04/day-47-day-479.jpeg#centre" /&gt;&lt;/p&gt;</content>
     <link href="https://seen-by.davep.dev/2022/06/04/day-47-day-479.html"/>
-    <category term="Photoblog"/>
+    <category term="Seen By Me 2"/>
     <category term="Self Portrait"/>
     <category term="Shadows"/>
     <published>2022-06-04T09:46:00.003000+00:00</published>
