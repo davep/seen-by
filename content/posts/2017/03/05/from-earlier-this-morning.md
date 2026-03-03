@@ -1,6 +1,6 @@
 ---
 title: "From earlier this morning"
-category: Photoblog
+category: Seen By Me 2
 tags: Kettle, Table, Cup
 date: 2017-03-05T11:25:00.001Z
 ---

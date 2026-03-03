@@ -1,6 +1,6 @@
 ---
 title: "On the third"
-category: Photoblog
+category: Seen By Me 2
 tags: Sky, England, Horizon, Landscape
 date: 2017-01-02T16:31:00.001Z
 ---

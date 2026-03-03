@@ -1,6 +1,6 @@
 ---
 title: "Other people"
-category: Photoblog
+category: Seen By Me 2
 tags: Roslin, Scotland, Tree, Roslin Glen
 date: 2020-04-11T14:02:00.001Z
 ---

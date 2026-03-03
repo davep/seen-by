@@ -1,6 +1,6 @@
 ---
 title: "Inner circle"
-category: Photoblog
+category: Seen By Me 2
 tags: Weather, Clouds, Car, Rainbow, Lamp
 date: 2020-03-10T18:19:00.001Z
 ---

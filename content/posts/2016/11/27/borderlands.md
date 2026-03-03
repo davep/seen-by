@@ -1,6 +1,6 @@
 ---
 title: "Borderlands"
-category: Photoblog
+category: Seen By Me 2
 tags: Sky, Scotland, Landscape, Clouds
 date: 2016-11-27T13:18:00.001Z
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Fallen bird"
-category: Photoblog
+category: Seen By Me 2
 tags: Rubbish, Bags, McDonald's
 date: 2020-02-26T08:42:00.003Z
 ---

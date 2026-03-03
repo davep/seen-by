@@ -1,6 +1,6 @@
 ---
 title: "All for nothing"
-category: Photoblog
+category: Seen By Me 2
 tags: Rubbish, Books
 date: 2020-06-09T17:50:00.009Z
 ---

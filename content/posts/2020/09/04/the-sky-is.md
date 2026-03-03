@@ -1,6 +1,6 @@
 ---
 title: "The sky is"
-category: Photoblog
+category: Seen By Me 2
 tags: Sky, Clouds, Scotland, Tree, Roslin Glen
 date: 2020-09-04T17:50:00.001Z
 ---

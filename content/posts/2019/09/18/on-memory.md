@@ -1,6 +1,6 @@
 ---
 title: "On memory"
-category: Photoblog
+category: Seen By Me 2
 tags: Wall
 date: 2019-09-18T17:57:00.001Z
 ---

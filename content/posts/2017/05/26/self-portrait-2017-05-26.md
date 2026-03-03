@@ -1,6 +1,6 @@
 ---
 title: "Self portrait, 2017-05-26"
-category: Photoblog
+category: Seen By Me 2
 tags: Self Portrait
 date: 2017-05-26T15:21:00.001Z
 ---

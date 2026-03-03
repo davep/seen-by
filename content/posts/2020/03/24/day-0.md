@@ -1,6 +1,6 @@
 ---
 title: "Day 0"
-category: Photoblog
+category: Seen By Me 2
 tags: Abstract, Desk
 date: 2020-03-24T13:02:00.001Z
 ---

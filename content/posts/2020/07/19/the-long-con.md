@@ -1,6 +1,6 @@
 ---
 title: "The long con"
-category: Photoblog
+category: Seen By Me 2
 tags: Roslin, Scotland, Roslin Glen
 date: 2020-07-19T17:50:00.001Z
 ---

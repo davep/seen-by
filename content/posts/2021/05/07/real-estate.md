@@ -1,6 +1,6 @@
 ---
 title: "Real Estate"
-category: Photoblog
+category: Seen By Me 2
 tags: Path, Vanishing Point, Auchendinny, Tunnel, Light, Scotland
 date: 2021-05-07T16:50:00.006Z
 ---

@@ -1,6 +1,6 @@
 ---
 title: "We ran"
-category: Photoblog
+category: Seen By Me 2
 tags: People, Carpet, Foot
 date: 2017-03-11T14:29:00.001Z
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Penultimate, hopefully"
-category: Photoblog
+category: Seen By Me 2
 tags: Travel, Numbers, Train
 date: 2016-11-17T08:59:00.001Z
 ---

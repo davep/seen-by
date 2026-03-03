@@ -1,6 +1,6 @@
 ---
 title: "Someone is always the light"
-category: Photoblog
+category: Seen By Me 2
 tags: Auchendinny, Tunnel, Scotland
 date: 2020-10-13T19:50:00.002Z
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Interval"
-category: Photoblog
+category: Seen By Me 2
 tags: Seat, Abstract
 date: 2017-03-14T20:02:00.007Z
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Dinner with him"
-category: Photoblog
+category: Seen By Me 2
 tags: Candle
 date: 2016-11-19T19:14:00.001Z
 ---

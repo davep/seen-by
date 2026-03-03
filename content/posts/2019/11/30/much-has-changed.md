@@ -1,6 +1,6 @@
 ---
 title: "Much has changed"
-category: Photoblog
+category: Seen By Me 2
 tags: Path, Auchendinny, Tunnel, Scotland
 date: 2019-11-30T14:21:00.001Z
 ---

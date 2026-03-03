@@ -1,6 +1,6 @@
 ---
 title: "Asylums for the feeling"
-category: Photoblog
+category: Seen By Me 2
 tags: Water, Scotland, River, Roslin Glen
 date: 2020-08-23T17:50:00.007Z
 ---

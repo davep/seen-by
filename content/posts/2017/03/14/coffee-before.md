@@ -1,6 +1,6 @@
 ---
 title: "Coffee before"
-category: Photoblog
+category: Seen By Me 2
 tags: Window, Sky, Clouds, Scotland, Edinburgh, Contrail
 date: 2017-03-14T20:02:00.001Z
 ---

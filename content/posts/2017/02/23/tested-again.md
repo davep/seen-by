@@ -1,6 +1,6 @@
 ---
 title: "Tested again"
-category: Photoblog
+category: Seen By Me 2
 tags: Hair, Plaster, Arm
 date: 2017-02-23T10:45:00.001Z
 ---

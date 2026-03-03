@@ -1,6 +1,6 @@
 ---
 title: "I'm afraid of Americans"
-category: Photoblog
+category: Seen By Me 2
 tags: Can, Auchendinny, Rubbish, Scotland, Drink
 date: 2022-05-03T07:46:00.003Z
 ---

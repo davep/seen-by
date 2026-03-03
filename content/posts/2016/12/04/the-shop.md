@@ -1,6 +1,6 @@
 ---
 title: "The Shop"
-category: Photoblog
+category: Seen By Me 2
 tags: Abstract
 date: 2016-12-04T15:03:00.001Z
 ---

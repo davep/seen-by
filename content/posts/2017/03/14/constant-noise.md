@@ -1,6 +1,6 @@
 ---
 title: "Constant noise"
-category: Photoblog
+category: Seen By Me 2
 tags: Stairs, Abstract
 date: 2017-03-14T20:02:00.005Z
 ---

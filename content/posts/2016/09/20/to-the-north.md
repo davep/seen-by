@@ -1,6 +1,6 @@
 ---
 title: "To the North"
-category: Photoblog
+category: Seen By Me 2
 tags: Sky, Scotland, Landscape, Clouds
 date: 2016-09-20T13:32:00Z
 ---

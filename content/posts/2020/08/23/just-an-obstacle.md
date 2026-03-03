@@ -1,6 +1,6 @@
 ---
 title: "Just an obstacle"
-category: Photoblog
+category: Seen By Me 2
 tags: Path, Scotland, Grass, Roslin Glen, Mud
 date: 2020-08-23T17:50:00.001Z
 ---

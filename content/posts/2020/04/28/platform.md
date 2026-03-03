@@ -1,6 +1,6 @@
 ---
 title: "Platform"
-category: Photoblog
+category: Seen By Me 2
 tags: Path, Roslin, Scotland, Roslin Glen
 date: 2020-04-28T16:41:00.007Z
 ---

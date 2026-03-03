@@ -1,6 +1,6 @@
 ---
 title: "Return journey"
-category: Photoblog
+category: Seen By Me 2
 tags: Sky, England, Clouds, Grantham
 date: 2016-07-02T18:05:00Z
 ---

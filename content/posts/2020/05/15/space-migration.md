@@ -1,6 +1,6 @@
 ---
 title: "Space migration"
-category: Photoblog
+category: Seen By Me 2
 tags: Roslin, Graffiti, Words, Scotland, Fence, Flag, Roslin Glen
 date: 2020-05-15T16:53:00.004Z
 ---

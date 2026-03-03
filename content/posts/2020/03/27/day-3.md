@@ -1,6 +1,6 @@
 ---
 title: "Day 3"
-category: Photoblog
+category: Seen By Me 2
 tags: Coffee, Cup
 date: 2020-03-27T18:33:00.001Z
 ---

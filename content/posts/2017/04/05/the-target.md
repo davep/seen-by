@@ -1,6 +1,6 @@
 ---
 title: "The target"
-category: Photoblog
+category: Seen By Me 2
 tags: Sky, Clouds, People, Scotland, Arthur's Seat, Edinburgh, Holyrood Park
 date: 2017-04-05T11:31:00.001Z
 ---

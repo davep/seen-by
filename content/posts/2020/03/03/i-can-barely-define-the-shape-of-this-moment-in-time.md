@@ -1,6 +1,6 @@
 ---
 title: "I can barely define the shape of this moment in time"
-category: Photoblog
+category: Seen By Me 2
 tags: Water, Bottle, Abstract, Words
 date: 2020-03-03T15:04:00.001Z
 ---

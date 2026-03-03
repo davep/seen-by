@@ -1,6 +1,6 @@
 ---
 title: "Waking from a nightmare"
-category: Photoblog
+category: Seen By Me 2
 tags: Light, Abstract, Ceiling
 date: 2019-11-10T10:14:00.001Z
 ---

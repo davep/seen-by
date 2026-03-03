@@ -1,6 +1,6 @@
 ---
 title: "How'd you get so wrong?"
-category: Photoblog
+category: Seen By Me 2
 tags: Words, Sign, Fence
 date: 2020-10-16T07:50:00.002Z
 ---

@@ -1,6 +1,6 @@
 ---
 title: "No more storms"
-category: Photoblog
+category: Seen By Me 2
 tags: Sky, England, Clouds, Grantham
 date: 2016-08-27T18:35:00Z
 ---

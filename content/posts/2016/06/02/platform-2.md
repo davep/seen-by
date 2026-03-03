@@ -1,6 +1,6 @@
 ---
 title: "Platform 2"
-category: Photoblog
+category: Seen By Me 2
 tags: Travel, Scotland, Edinburgh
 date: 2016-06-02T10:36:00Z
 ---

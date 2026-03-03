@@ -1,6 +1,6 @@
 ---
 title: "Pentlands (2018-04-09)"
-category: Photoblog
+category: Seen By Me 2
 tags: Water, Window, Rain, Landscape, Pentlands, Abstract, Glass
 date: 2018-04-09T15:19:00.001Z
 ---

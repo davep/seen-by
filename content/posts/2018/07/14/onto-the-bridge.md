@@ -1,6 +1,6 @@
 ---
 title: "Onto the bridge"
-category: Photoblog
+category: Seen By Me 2
 tags: Sky, Protest, Skyline, Clouds, People, Crowd, Scotland, Edinburgh, Politics, Trump
 date: 2018-07-14T16:48:00.001Z
 ---

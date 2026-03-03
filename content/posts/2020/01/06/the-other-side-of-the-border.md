@@ -1,6 +1,6 @@
 ---
 title: "The other side of the border"
-category: Photoblog
+category: Seen By Me 2
 tags: Sky, Clouds, Tree, Silhouette, Contrail, Lamp
 date: 2020-01-06T09:17:00.001Z
 ---

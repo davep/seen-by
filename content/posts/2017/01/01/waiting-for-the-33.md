@@ -1,6 +1,6 @@
 ---
 title: "Waiting for the 33"
-category: Photoblog
+category: Seen By Me 2
 tags: Window, Scotland, Rain, Edinburgh
 date: 2017-01-01T14:26:00.001Z
 ---

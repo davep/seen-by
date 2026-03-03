@@ -1,6 +1,6 @@
 ---
 title: "Stay in the shadows"
-category: Photoblog
+category: Seen By Me 2
 tags: Self Portrait, Shadows
 date: 2020-04-19T11:35:00.002Z
 ---

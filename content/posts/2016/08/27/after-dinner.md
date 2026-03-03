@@ -1,6 +1,6 @@
 ---
 title: "After dinner"
-category: Photoblog
+category: Seen By Me 2
 tags: Abstract, Food
 date: 2016-08-27T18:13:00Z
 ---

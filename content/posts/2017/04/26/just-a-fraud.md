@@ -1,6 +1,6 @@
 ---
 title: "Just a fraud"
-category: Photoblog
+category: Seen By Me 2
 tags: Wood, Table
 date: 2017-04-26T10:17:00.001Z
 ---

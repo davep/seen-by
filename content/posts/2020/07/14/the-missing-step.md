@@ -1,6 +1,6 @@
 ---
 title: "The missing step"
-category: Photoblog
+category: Seen By Me 2
 tags: Path, Stairs, Scotland, Step, Roslin Glen
 date: 2020-07-14T16:50:00.003Z
 ---

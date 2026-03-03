@@ -1,6 +1,6 @@
 ---
 title: "Rosehip"
-category: Photoblog
+category: Seen By Me 2
 tags: Window, Glass, People, Scotland, Street, Edinburgh
 date: 2017-04-12T15:13:00.001Z
 ---

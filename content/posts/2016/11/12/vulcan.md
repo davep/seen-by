@@ -1,6 +1,6 @@
 ---
 title: "Vulcan"
-category: Photoblog
+category: Seen By Me 2
 tags: Scotland, Art, Edinburgh, Sculpture
 date: 2016-11-12T14:41:00Z
 ---

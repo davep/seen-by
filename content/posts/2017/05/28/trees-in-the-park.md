@@ -1,6 +1,6 @@
 ---
 title: "Trees, in the park"
-category: Photoblog
+category: Seen By Me 2
 tags: Scotland, Tree, Edinburgh, Wood
 date: 2017-05-28T12:33:00.003Z
 ---

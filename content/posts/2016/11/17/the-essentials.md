@@ -1,6 +1,6 @@
 ---
 title: "The essentials"
-category: Photoblog
+category: Seen By Me 2
 tags: Bags, Travel
 date: 2016-11-17T10:15:00.001Z
 ---

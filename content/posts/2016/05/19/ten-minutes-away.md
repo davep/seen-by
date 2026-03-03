@@ -1,6 +1,6 @@
 ---
 title: "Ten minutes away"
-category: Photoblog
+category: Seen By Me 2
 tags: Scotland, Edinburgh, Architecture
 date: 2016-05-19T09:18:00Z
 ---

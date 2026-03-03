@@ -1,6 +1,6 @@
 ---
 title: "It might be time to talk"
-category: Photoblog
+category: Seen By Me 2
 tags: Can, Rubbish, Grass, Irn-Bru
 date: 2020-01-17T08:49:00.001Z
 ---

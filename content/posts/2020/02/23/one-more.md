@@ -1,6 +1,6 @@
 ---
 title: "One more"
-category: Photoblog
+category: Seen By Me 2
 tags: Supermarket, Scotland, Straiton
 date: 2020-02-23T13:17:00.001Z
 ---

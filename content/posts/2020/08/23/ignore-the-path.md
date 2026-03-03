@@ -1,6 +1,6 @@
 ---
 title: "Ignore the path"
-category: Photoblog
+category: Seen By Me 2
 tags: Path, Wall, Brick, Scotland, Roslin Glen, Ivy
 date: 2020-08-23T17:50:00.003Z
 ---

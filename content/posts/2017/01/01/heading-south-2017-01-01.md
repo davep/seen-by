@@ -1,6 +1,6 @@
 ---
 title: "Heading South (2017-01-01)"
-category: Photoblog
+category: Seen By Me 2
 tags: Scotland, Edinburgh, Car, Graffiti, Road
 date: 2017-01-01T14:46:00.001Z
 ---

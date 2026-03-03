@@ -1,6 +1,6 @@
 ---
 title: "Fury Road"
-category: Photoblog
+category: Seen By Me 2
 tags: Travel, Train
 date: 2017-01-02T19:11:00.001Z
 ---

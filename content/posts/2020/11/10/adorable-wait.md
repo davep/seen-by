@@ -1,6 +1,6 @@
 ---
 title: "Adorable wait"
-category: Photoblog
+category: Seen By Me 2
 tags: Easter Bush, Sky, Clouds, Scotland, Bus Stop
 date: 2020-11-10T08:50:00.002Z
 ---

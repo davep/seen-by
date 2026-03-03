@@ -1,6 +1,6 @@
 ---
 title: "Any mountain can move"
-category: Photoblog
+category: Seen By Me 2
 tags: Auchendinny, Scotland, Tree
 date: 2020-11-21T09:50:00.002Z
 ---

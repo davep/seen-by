@@ -1,6 +1,6 @@
 ---
 title: "Twenty four minutes to go"
-category: Photoblog
+category: Seen By Me 2
 tags: Travel, Scotland, Edinburgh, Architecture
 date: 2016-08-25T22:38:00Z
 ---

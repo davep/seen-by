@@ -1,6 +1,6 @@
 ---
 title: "Noon"
-category: Photoblog
+category: Seen By Me 2
 tags: Floor, Wood, Light
 date: 2017-03-26T11:02:00.001Z
 ---

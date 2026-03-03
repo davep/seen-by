@@ -1,6 +1,6 @@
 ---
 title: "Welcome home, you total stranger"
-category: Photoblog
+category: Seen By Me 2
 tags: Water, Reflection
 date: 2020-01-22T09:02:00.001Z
 ---

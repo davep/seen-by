@@ -1,6 +1,6 @@
 ---
 title: "Sunday morning"
-category: Photoblog
+category: Seen By Me 2
 tags: Water, Window, Rain, Abstract, Glass
 date: 2019-05-26T09:41:00.001Z
 ---

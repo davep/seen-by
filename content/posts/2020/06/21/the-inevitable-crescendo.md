@@ -1,6 +1,6 @@
 ---
 title: "The inevitable crescendo"
-category: Photoblog
+category: Seen By Me 2
 tags: Water, Auchendinny, Scotland, Reflection
 date: 2020-06-21T17:50:00.002Z
 ---

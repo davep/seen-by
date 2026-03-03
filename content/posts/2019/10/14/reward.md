@@ -1,6 +1,6 @@
 ---
 title: "Reward"
-category: Photoblog
+category: Seen By Me 2
 tags: Sky, Clouds, Scotland, Tree, Sunrise, Silhouette, Lamp, Sun
 date: 2019-10-14T07:41:00.001Z
 ---

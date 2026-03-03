@@ -1,6 +1,6 @@
 ---
 title: "Lean, don't push"
-category: Photoblog
+category: Seen By Me 2
 tags: Sky, Auchendinny, Scotland, Tree
 date: 2020-04-11T15:02:00.003Z
 ---

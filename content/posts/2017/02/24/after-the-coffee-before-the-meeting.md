@@ -1,6 +1,6 @@
 ---
 title: "After the coffee, before the meeting"
-category: Photoblog
+category: Seen By Me 2
 tags: Wood, Abstract, Lines
 date: 2017-02-24T09:28:00.001Z
 ---

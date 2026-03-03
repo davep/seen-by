@@ -1,6 +1,6 @@
 ---
 title: "You all forgot Cuyahoga"
-category: Photoblog
+category: Seen By Me 2
 tags: Double Exposure, Tree
 date: 2021-07-10T13:50:00.003Z
 ---

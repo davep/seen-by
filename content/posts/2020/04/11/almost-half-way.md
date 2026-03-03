@@ -1,6 +1,6 @@
 ---
 title: "Almost half way"
-category: Photoblog
+category: Seen By Me 2
 tags: Self Portrait, Shadows, Path
 date: 2020-04-11T15:02:00.005Z
 ---

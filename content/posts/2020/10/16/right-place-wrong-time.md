@@ -1,6 +1,6 @@
 ---
 title: "Right place, wrong time"
-category: Photoblog
+category: Seen By Me 2
 tags: Rubbish
 date: 2020-10-16T08:50:00.002Z
 ---

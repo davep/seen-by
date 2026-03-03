@@ -1,6 +1,6 @@
 ---
 title: "End of life"
-category: Photoblog
+category: Seen By Me 2
 tags: Water, Egg, Pan, Food
 date: 2020-03-23T19:02:00.001Z
 ---

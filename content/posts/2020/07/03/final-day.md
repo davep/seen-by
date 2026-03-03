@@ -1,6 +1,6 @@
 ---
 title: "Final day"
-category: Photoblog
+category: Seen By Me 2
 tags: Words, Paper
 date: 2020-07-03T09:50:00.001Z
 ---

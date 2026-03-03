@@ -1,6 +1,6 @@
 ---
 title: "Hers, for us"
-category: Photoblog
+category: Seen By Me 2
 tags: Bed
 date: 2017-04-12T10:28:00.001Z
 ---

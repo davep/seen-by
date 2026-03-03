@@ -1,6 +1,6 @@
 ---
 title: "Near North Berwick"
-category: Photoblog
+category: Seen By Me 2
 tags: Sky, Scotland, Landscape, Clouds
 date: 2016-11-17T12:29:00.001Z
 ---

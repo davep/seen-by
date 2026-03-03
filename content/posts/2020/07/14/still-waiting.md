@@ -1,6 +1,6 @@
 ---
 title: "Still waiting"
-category: Photoblog
+category: Seen By Me 2
 tags: Building, Hole, Wall, Scotland, Roslin Glen
 date: 2020-07-14T16:50:00.001Z
 ---

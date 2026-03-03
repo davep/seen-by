@@ -1,6 +1,6 @@
 ---
 title: "Pentlands"
-category: Photoblog
+category: Seen By Me 2
 tags: Sky, Field, Hill, Landscape, Clouds, Pentlands, Scotland
 date: 2019-05-26T11:41:00.005Z
 ---

@@ -1,6 +1,6 @@
 ---
 title: "The walk"
-category: Photoblog
+category: Seen By Me 2
 tags: Water, Lake
 date: 2018-04-08T13:18:00.001Z
 ---

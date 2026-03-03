@@ -1,6 +1,6 @@
 ---
 title: "Killing time"
-category: Photoblog
+category: Seen By Me 2
 tags: Drink, Coffee, Hand, Phone
 date: 2017-03-14T20:02:00.003Z
 ---

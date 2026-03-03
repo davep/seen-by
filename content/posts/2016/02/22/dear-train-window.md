@@ -1,6 +1,6 @@
 ---
 title: "Dear train window..."
-category: Photoblog
+category: Seen By Me 2
 tags: Sky, England, Landscape, Sea
 date: 2016-02-22T10:10:00Z
 ---

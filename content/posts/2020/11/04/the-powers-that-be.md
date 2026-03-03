@@ -1,6 +1,6 @@
 ---
 title: "The powers that be"
-category: Photoblog
+category: Seen By Me 2
 tags: Easter Bush, Scotland, Tree
 date: 2020-11-04T09:50:00.002Z
 ---

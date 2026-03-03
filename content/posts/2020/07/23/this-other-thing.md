@@ -1,6 +1,6 @@
 ---
 title: "This other thing"
-category: Photoblog
+category: Seen By Me 2
 tags: Shadows, Light
 date: 2020-07-23T16:50:00.001Z
 ---

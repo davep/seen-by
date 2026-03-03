@@ -1,6 +1,6 @@
 ---
 title: "Pure and simple"
-category: Photoblog
+category: Seen By Me 2
 tags: Abstract, Light
 date: 2017-01-26T13:54:00.001Z
 ---

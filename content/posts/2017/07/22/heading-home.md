@@ -1,6 +1,6 @@
 ---
 title: "Heading home"
-category: Photoblog
+category: Seen By Me 2
 tags: Sky, Clouds
 date: 2017-07-22T17:22:00.001Z
 ---

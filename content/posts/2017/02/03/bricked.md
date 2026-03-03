@@ -1,6 +1,6 @@
 ---
 title: "Bricked."
-category: Photoblog
+category: Seen By Me 2
 tags: Computer, Light
 date: 2017-02-03T11:18:00.001Z
 ---

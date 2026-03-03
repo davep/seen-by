@@ -1,6 +1,6 @@
 ---
 title: "Dark path"
-category: Photoblog
+category: Seen By Me 2
 tags: Path, Roslin, Scotland, Tree, Fence, Roslin Glen
 date: 2020-06-02T16:50:00.003Z
 ---

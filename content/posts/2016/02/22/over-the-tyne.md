@@ -1,6 +1,6 @@
 ---
 title: "Over the Tyne"
-category: Photoblog
+category: Seen By Me 2
 tags: England, River, Newcastle, Bridge
 date: 2016-02-22T11:05:00Z
 ---

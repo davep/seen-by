@@ -1,6 +1,6 @@
 ---
 title: "Platform 8"
-category: Photoblog
+category: Seen By Me 2
 tags: Building, Station, Light, Glass, Scotland, Edinburgh, Lamp
 date: 2019-08-23T20:13:00.001Z
 ---

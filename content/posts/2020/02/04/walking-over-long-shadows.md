@@ -1,6 +1,6 @@
 ---
 title: "Walking over long shadows"
-category: Photoblog
+category: Seen By Me 2
 tags: Shadows, Path, Pavement, Paint, Lines
 date: 2020-02-04T08:54:00.003Z
 ---

@@ -1,6 +1,6 @@
 ---
 title: "A moment"
-category: Photoblog
+category: Seen By Me 2
 tags: Abstract
 date: 2019-09-21T12:36:00.003Z
 ---

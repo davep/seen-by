@@ -1,6 +1,6 @@
 ---
 title: "Fresh tracks"
-category: Photoblog
+category: Seen By Me 2
 tags: Snow
 date: 2021-01-08T18:50:00.002Z
 ---

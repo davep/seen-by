@@ -1,6 +1,6 @@
 ---
 title: "Back on the right track"
-category: Photoblog
+category: Seen By Me 2
 tags: Shadows, Self Portrait, Path, Sign
 date: 2019-10-28T10:16:00.001Z
 ---

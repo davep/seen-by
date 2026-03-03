@@ -1,6 +1,6 @@
 ---
 title: "Wet"
-category: Photoblog
+category: Seen By Me 2
 tags: Seat, Abstract
 date: 2016-11-17T15:29:00.001Z
 ---

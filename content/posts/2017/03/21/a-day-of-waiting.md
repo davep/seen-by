@@ -1,6 +1,6 @@
 ---
 title: "A day of waiting"
-category: Photoblog
+category: Seen By Me 2
 tags: Clouds, Reflection
 date: 2017-03-21T15:44:00.001Z
 ---

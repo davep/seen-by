@@ -1,6 +1,6 @@
 ---
 title: "That's okay, 'cos so are you"
-category: Photoblog
+category: Seen By Me 2
 tags: Path, Tree, Scotland, Grass, Roslin Glen
 date: 2020-04-16T16:22:00.003Z
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Not A Trophy"
-category: Photoblog
+category: Seen By Me 2
 tags: Heart, Scotland, Edinburgh
 date: 2022-11-24T12:46:00.003Z
 ---

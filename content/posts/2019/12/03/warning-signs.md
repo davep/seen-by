@@ -1,6 +1,6 @@
 ---
 title: "Warning signs"
-category: Photoblog
+category: Seen By Me 2
 tags: Easter Bush, Cone, Road, Scotland, Tree, Fence, Drain
 date: 2019-12-03T08:51:00.001Z
 ---

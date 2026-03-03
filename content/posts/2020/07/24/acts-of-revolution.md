@@ -1,6 +1,6 @@
 ---
 title: "Acts of revolution"
-category: Photoblog
+category: Seen By Me 2
 tags: Path
 date: 2020-07-24T17:50:00.005Z
 ---

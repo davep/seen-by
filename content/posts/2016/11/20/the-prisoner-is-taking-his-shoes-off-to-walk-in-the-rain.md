@@ -1,6 +1,6 @@
 ---
 title: "The prisoner is taking his shoes off to walk in the rain."
-category: Photoblog
+category: Seen By Me 2
 tags: Music, Boxes
 date: 2016-11-20T16:20:00.001Z
 ---

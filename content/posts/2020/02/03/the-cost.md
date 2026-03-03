@@ -1,6 +1,6 @@
 ---
 title: "The cost"
-category: Photoblog
+category: Seen By Me 2
 tags: Tree
 date: 2020-02-03T09:18:00.001Z
 ---

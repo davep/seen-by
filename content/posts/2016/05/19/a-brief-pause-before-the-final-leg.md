@@ -1,6 +1,6 @@
 ---
 title: "A brief pause, before the final leg"
-category: Photoblog
+category: Seen By Me 2
 tags: Travel, Food
 date: 2016-05-19T14:30:00Z
 ---

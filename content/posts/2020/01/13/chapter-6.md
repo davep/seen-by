@@ -1,6 +1,6 @@
 ---
 title: "Chapter 6"
-category: Photoblog
+category: Seen By Me 2
 tags: Path, Road, Drain
 date: 2020-01-13T08:27:00.001Z
 ---

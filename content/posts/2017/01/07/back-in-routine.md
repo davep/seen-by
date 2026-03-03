@@ -1,6 +1,6 @@
 ---
 title: "Back in routine"
-category: Photoblog
+category: Seen By Me 2
 tags: Sky, Clouds, Lamp, Light
 date: 2017-01-07T15:35:00.001Z
 ---

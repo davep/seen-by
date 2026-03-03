@@ -1,6 +1,6 @@
 ---
 title: "Not building a wall, but making a brick"
-category: Photoblog
+category: Seen By Me 2
 tags: Wall, Abstract
 date: 2020-07-12T16:50:00.005Z
 ---

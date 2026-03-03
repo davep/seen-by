@@ -1,6 +1,6 @@
 ---
 title: "The drone of lawnmowers"
-category: Photoblog
+category: Seen By Me 2
 tags: Sky, Auchendinny, Clouds, Scotland, Tree, Silhouette
 date: 2021-07-07T15:50:00.002Z
 ---

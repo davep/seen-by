@@ -1,6 +1,6 @@
 ---
 title: "I'm taking my last breath, with each chapter and each verse"
-category: Photoblog
+category: Seen By Me 2
 tags: Easter Bush, Snow, Scotland, Tree
 date: 2020-02-25T09:12:00.005Z
 ---

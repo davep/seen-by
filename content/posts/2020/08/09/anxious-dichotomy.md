@@ -1,6 +1,6 @@
 ---
 title: "Anxious dichotomy"
-category: Photoblog
+category: Seen By Me 2
 tags: Path, Scotland, Fence, Roslin Glen
 date: 2020-08-09T17:50:00.001Z
 ---

@@ -1,6 +1,6 @@
 ---
 title: "I am Iron Man"
-category: Photoblog
+category: Seen By Me 2
 tags: Rubbish, Leaf, Cup, Burger King
 date: 2019-11-26T08:46:00.001Z
 ---

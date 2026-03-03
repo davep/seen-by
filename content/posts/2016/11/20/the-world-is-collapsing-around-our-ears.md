@@ -1,6 +1,6 @@
 ---
 title: "The world is collapsing around our ears..."
-category: Photoblog
+category: Seen By Me 2
 tags: Kitchen, Music
 date: 2016-11-20T11:15:00.001Z
 ---

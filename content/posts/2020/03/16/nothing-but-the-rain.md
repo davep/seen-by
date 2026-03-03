@@ -1,6 +1,6 @@
 ---
 title: "Nothing but the rain"
-category: Photoblog
+category: Seen By Me 2
 tags: Screen, Light, Desk, Cup
 date: 2020-03-16T18:19:00.001Z
 ---

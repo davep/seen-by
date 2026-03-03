@@ -1,6 +1,6 @@
 ---
 title: "Good communication"
-category: Photoblog
+category: Seen By Me 2
 tags: Sky, Clouds, Telephone, Wire, Lines
 date: 2017-05-28T20:08:00.001Z
 ---

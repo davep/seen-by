@@ -1,6 +1,6 @@
 ---
 title: "That story that never added up"
-category: Photoblog
+category: Seen By Me 2
 tags: Rubbish, Coat Hanger
 date: 2021-05-13T07:50:00.002Z
 ---

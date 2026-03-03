@@ -1,6 +1,6 @@
 ---
 title: "Furthest coffee North!"
-category: Photoblog
+category: Seen By Me 2
 tags: Coffee, Cup
 date: 2019-02-15T13:10:00.001Z
 ---

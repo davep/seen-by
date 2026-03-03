@@ -1,6 +1,6 @@
 ---
 title: "This is not a spoon"
-category: Photoblog
+category: Seen By Me 2
 tags: Spoon
 date: 2017-04-12T14:53:00.001Z
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Late breakfast"
-category: Photoblog
+category: Seen By Me 2
 tags: Scotland, Edinburgh, Architecture, Abstract
 date: 2016-05-30T10:04:00Z
 ---

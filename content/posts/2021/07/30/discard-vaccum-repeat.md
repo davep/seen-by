@@ -1,6 +1,6 @@
 ---
 title: "Discard, vaccum, repeat"
-category: Photoblog
+category: Seen By Me 2
 tags: Path, Paint
 date: 2021-07-30T17:46:00.002Z
 ---

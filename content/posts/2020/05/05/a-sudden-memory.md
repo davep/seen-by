@@ -1,6 +1,6 @@
 ---
 title: "A sudden memory"
-category: Photoblog
+category: Seen By Me 2
 tags: Field, Auchendinny, Scotland, Fence
 date: 2020-05-05T22:59:00.002Z
 ---

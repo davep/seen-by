@@ -1,6 +1,6 @@
 ---
 title: "October Second. Third October"
-category: Photoblog
+category: Seen By Me 2
 tags: Abstract
 date: 2016-10-02T10:39:00Z
 ---

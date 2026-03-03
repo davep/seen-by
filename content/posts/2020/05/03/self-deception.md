@@ -1,6 +1,6 @@
 ---
 title: "Self deception"
-category: Photoblog
+category: Seen By Me 2
 tags: Abstract, Paint, Lines
 date: 2020-05-03T08:58:00.002Z
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Elbow reconfiguration"
-category: Photoblog
+category: Seen By Me 2
 tags: Leaf
 date: 2020-10-01T17:50:00.002Z
 ---

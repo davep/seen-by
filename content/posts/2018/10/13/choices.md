@@ -1,6 +1,6 @@
 ---
 title: "Choices"
-category: Photoblog
+category: Seen By Me 2
 tags: Arrow, Abstract, Roslin Institute, Lines
 date: 2018-10-13T18:42:00.003Z
 ---

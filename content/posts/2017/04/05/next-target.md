@@ -1,6 +1,6 @@
 ---
 title: "Next target"
-category: Photoblog
+category: Seen By Me 2
 tags: Sky, Clouds, Scotland, Arthur's Seat, Edinburgh, Holyrood Park, Sun
 date: 2017-04-05T10:56:00.001Z
 ---

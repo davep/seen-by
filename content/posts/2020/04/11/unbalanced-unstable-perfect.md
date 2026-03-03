@@ -1,6 +1,6 @@
 ---
 title: "Unbalanced, unstable, perfect"
-category: Photoblog
+category: Seen By Me 2
 tags: Shadows, Wall, Light, Abstract
 date: 2020-04-11T15:02:00.009Z
 ---

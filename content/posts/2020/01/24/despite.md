@@ -1,6 +1,6 @@
 ---
 title: "Despite"
-category: Photoblog
+category: Seen By Me 2
 tags: Auchendinny, Scotland, Tree
 date: 2020-01-24T08:58:00.001Z
 ---

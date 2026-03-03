@@ -1,6 +1,6 @@
 ---
 title: "By the side"
-category: Photoblog
+category: Seen By Me 2
 tags: England, Road
 date: 2016-12-30T09:43:00.005Z
 ---

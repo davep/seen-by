@@ -1,6 +1,6 @@
 ---
 title: "Thoughts and species"
-category: Photoblog
+category: Seen By Me 2
 tags: Can, Rubbish, Leaf
 date: 2020-01-24T08:58:00.003Z
 ---

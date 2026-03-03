@@ -1,6 +1,6 @@
 ---
 title: "A promise kept"
-category: Photoblog
+category: Seen By Me 2
 tags: Scotland, Edinburgh
 date: 2020-01-01T02:21:00.001Z
 ---

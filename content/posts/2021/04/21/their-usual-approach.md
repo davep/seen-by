@@ -1,6 +1,6 @@
 ---
 title: "Their usual approach"
-category: Photoblog
+category: Seen By Me 2
 tags: Words
 date: 2021-04-21T15:50:00.002Z
 ---

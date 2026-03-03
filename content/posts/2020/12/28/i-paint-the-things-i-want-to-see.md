@@ -1,6 +1,6 @@
 ---
 title: "I paint the things I want to see"
-category: Photoblog
+category: Seen By Me 2
 tags: Ice
 date: 2020-12-28T11:50:00.002Z
 ---

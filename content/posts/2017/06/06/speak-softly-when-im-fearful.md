@@ -1,6 +1,6 @@
 ---
 title: "Speak softly when I'm fearful"
-category: Photoblog
+category: Seen By Me 2
 tags: Lyrics, Music, Words
 date: 2017-06-06T12:48:00.001Z
 ---

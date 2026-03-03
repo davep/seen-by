@@ -1,6 +1,6 @@
 ---
 title: "Gave you hell"
-category: Photoblog
+category: Seen By Me 2
 tags: Path, Paint, Lines
 date: 2021-10-13T07:46:00.003Z
 ---

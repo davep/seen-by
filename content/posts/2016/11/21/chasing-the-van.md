@@ -1,6 +1,6 @@
 ---
 title: "Chasing the van"
-category: Photoblog
+category: Seen By Me 2
 tags: Sky, Scotland, Landscape, Clouds, Sea
 date: 2016-11-21T13:40:00.001Z
 ---

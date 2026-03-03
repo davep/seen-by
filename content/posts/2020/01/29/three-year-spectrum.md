@@ -1,6 +1,6 @@
 ---
 title: "Three year spectrum"
-category: Photoblog
+category: Seen By Me 2
 tags: Auchendinny, Road, Scotland, Tree, Lamp
 date: 2020-01-29T08:53:00.001Z
 ---

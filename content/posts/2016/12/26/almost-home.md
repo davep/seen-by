@@ -1,6 +1,6 @@
 ---
 title: "Almost home"
-category: Photoblog
+category: Seen By Me 2
 tags: Sky, Scotland, Landscape, Clouds
 date: 2016-12-26T16:51:00.001Z
 ---

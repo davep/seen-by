@@ -1,6 +1,6 @@
 ---
 title: "Protect and Survive"
-category: Photoblog
+category: Seen By Me 2
 tags: Building, Ceiling
 date: 2017-03-14T20:02:00.009Z
 ---

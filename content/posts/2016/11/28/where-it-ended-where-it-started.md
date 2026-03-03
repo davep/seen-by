@@ -1,6 +1,6 @@
 ---
 title: "Where it ended. Where it started."
-category: Photoblog
+category: Seen By Me 2
 tags: Bed, Shadows, Abstract
 date: 2016-11-28T10:48:00.001Z
 ---

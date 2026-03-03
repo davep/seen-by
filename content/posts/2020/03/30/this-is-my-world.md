@@ -1,6 +1,6 @@
 ---
 title: "This is my world"
-category: Photoblog
+category: Seen By Me 2
 tags: Words, Lyrics
 date: 2020-03-30T15:29:00.001Z
 ---

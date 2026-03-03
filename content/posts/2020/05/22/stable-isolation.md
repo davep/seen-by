@@ -1,6 +1,6 @@
 ---
 title: "Stable isolation"
-category: Photoblog
+category: Seen By Me 2
 tags: Building, Field, Roslin, Scotland, Tree
 date: 2020-05-22T16:50:00.005Z
 ---

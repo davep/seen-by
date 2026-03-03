@@ -1,6 +1,6 @@
 ---
 title: "Spice Girls"
-category: Photoblog
+category: Seen By Me 2
 tags: Books, Words
 date: 2017-02-10T12:23:00.003Z
 ---

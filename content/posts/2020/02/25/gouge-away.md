@@ -1,6 +1,6 @@
 ---
 title: "Gouge away"
-category: Photoblog
+category: Seen By Me 2
 tags: Easter Bush, Umbrella, Scotland, Fence
 date: 2020-02-25T09:12:00.007Z
 ---

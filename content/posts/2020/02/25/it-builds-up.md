@@ -1,6 +1,6 @@
 ---
 title: "It builds up"
-category: Photoblog
+category: Seen By Me 2
 tags: Rubbish, Leaf, Bus Stop
 date: 2020-02-25T09:12:00.001Z
 ---

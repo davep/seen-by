@@ -1,6 +1,6 @@
 ---
 title: "Breakfast, near the venue"
-category: Photoblog
+category: Seen By Me 2
 tags: Stairs, Table, Drink, Coffee
 date: 2017-05-25T08:31:00.001Z
 ---

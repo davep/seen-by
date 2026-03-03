@@ -1,6 +1,6 @@
 ---
 title: "A brief pause"
-category: Photoblog
+category: Seen By Me 2
 tags: Sky, Clouds, England, River, Newcastle, Bridge
 date: 2016-04-28T18:50:00Z
 ---

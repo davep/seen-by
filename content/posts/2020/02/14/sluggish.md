@@ -1,6 +1,6 @@
 ---
 title: "Sluggish"
-category: Photoblog
+category: Seen By Me 2
 tags: Easter Bush, Sky, Art, Hill, Snow, Clouds, Sculpture, Pentlands, Road, Scotland, Grass
 date: 2020-02-14T08:59:00.001Z
 ---

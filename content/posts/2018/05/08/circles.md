@@ -1,6 +1,6 @@
 ---
 title: "Circles"
-category: Photoblog
+category: Seen By Me 2
 tags: Circle, Cooking, Egg, Abstract, Pan, Food
 date: 2018-05-08T20:31:00.001Z
 ---

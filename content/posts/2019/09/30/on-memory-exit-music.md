@@ -1,6 +1,6 @@
 ---
 title: "On Memory (Exit Music)"
-category: Photoblog
+category: Seen By Me 2
 tags: Wall
 date: 2019-09-30T16:49:00.001Z
 ---

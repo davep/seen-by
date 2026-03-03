@@ -1,6 +1,6 @@
 ---
 title: "Denied"
-category: Photoblog
+category: Seen By Me 2
 tags: Scotland, Edinburgh, Sign
 date: 2017-04-01T10:04:00.001Z
 ---

@@ -1,6 +1,6 @@
 ---
 title: "At the supermarket"
-category: Photoblog
+category: Seen By Me 2
 tags: Sky, Scotland, Clouds
 date: 2016-09-05T19:54:00Z
 ---

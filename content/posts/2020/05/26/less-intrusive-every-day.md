@@ -1,6 +1,6 @@
 ---
 title: "Less intrusive every day"
-category: Photoblog
+category: Seen By Me 2
 tags: Sky, Clouds, Scotland, Tree, Fence
 date: 2020-05-26T16:50:00.005Z
 ---

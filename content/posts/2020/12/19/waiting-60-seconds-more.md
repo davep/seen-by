@@ -1,6 +1,6 @@
 ---
 title: "Waiting 60 seconds more"
-category: Photoblog
+category: Seen By Me 2
 tags: Abstract
 date: 2020-12-19T12:50:00.002Z
 ---

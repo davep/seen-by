@@ -1,6 +1,6 @@
 ---
 title: "Your sock puppet smile"
-category: Photoblog
+category: Seen By Me 2
 tags: Sky, Clouds, Sun
 date: 2020-08-09T17:50:00.003Z
 ---

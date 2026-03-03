@@ -1,6 +1,6 @@
 ---
 title: "A needed distraction, another world"
-category: Photoblog
+category: Seen By Me 2
 tags: Books
 date: 2016-04-08T10:49:00Z
 ---

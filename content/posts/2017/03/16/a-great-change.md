@@ -1,6 +1,6 @@
 ---
 title: "A great change"
-category: Photoblog
+category: Seen By Me 2
 tags: Hair
 date: 2017-03-16T11:52:00.001Z
 ---

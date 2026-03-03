@@ -1,6 +1,6 @@
 ---
 title: "Before the replacement"
-category: Photoblog
+category: Seen By Me 2
 tags: Scotland, Edinburgh, Telephone, Graffiti, Phone
 date: 2017-06-15T18:43:00.001Z
 ---

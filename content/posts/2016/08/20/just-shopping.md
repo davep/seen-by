@@ -1,6 +1,6 @@
 ---
 title: "Just shopping"
-category: Photoblog
+category: Seen By Me 2
 tags: Sky, Scotland, Landscape, Clouds, Straiton
 date: 2016-08-20T12:53:00Z
 ---

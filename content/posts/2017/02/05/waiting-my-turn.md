@@ -1,6 +1,6 @@
 ---
 title: "Waiting my turn"
-category: Photoblog
+category: Seen By Me 2
 tags: Bags, Shopping
 date: 2017-02-05T18:08:00.001Z
 ---

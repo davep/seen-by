@@ -1,6 +1,6 @@
 ---
 title: "From up the hill"
-category: Photoblog
+category: Seen By Me 2
 tags: Sky, Scotland, Edinburgh, Landscape, Clouds
 date: 2016-09-25T17:56:00Z
 ---

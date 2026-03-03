@@ -1,6 +1,6 @@
 ---
 title: "Been a while 2"
-category: Photoblog
+category: Seen By Me 2
 tags: Shadows, Self Portrait
 date: 2017-11-04T13:00:00.001Z
 ---

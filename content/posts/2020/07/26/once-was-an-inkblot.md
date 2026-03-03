@@ -1,6 +1,6 @@
 ---
 title: "Once was an inkblot"
-category: Photoblog
+category: Seen By Me 2
 tags: Self Portrait, Shadows, Path
 date: 2020-07-26T16:50:00.001Z
 ---

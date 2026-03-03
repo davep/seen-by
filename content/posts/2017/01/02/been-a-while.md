@@ -1,6 +1,6 @@
 ---
 title: "Been a while"
-category: Photoblog
+category: Seen By Me 2
 tags: Station, England, Travel, Grantham, Lines
 date: 2017-01-02T16:21:00.001Z
 ---

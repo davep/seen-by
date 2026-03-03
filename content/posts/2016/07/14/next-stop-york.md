@@ -1,6 +1,6 @@
 ---
 title: "Next stop York"
-category: Photoblog
+category: Seen By Me 2
 tags: Travel, Scotland, Edinburgh, Architecture
 date: 2016-07-14T10:09:00Z
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Roslin morning"
-category: Photoblog
+category: Seen By Me 2
 tags: Bird, Roslin Institute, Tree, Scotland, Silhouette
 date: 2018-01-11T14:54:00.001Z
 ---

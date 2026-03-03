@@ -1,6 +1,6 @@
 ---
 title: "All options"
-category: Photoblog
+category: Seen By Me 2
 tags: Boxes
 date: 2016-11-18T14:15:00.001Z
 ---

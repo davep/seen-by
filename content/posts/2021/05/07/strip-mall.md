@@ -1,6 +1,6 @@
 ---
 title: "Strip Mall"
-category: Photoblog
+category: Seen By Me 2
 tags: Path, Auchendinny, Scotland, Tree, Fence, Grass
 date: 2021-05-07T16:50:00.005Z
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Tipping point"
-category: Photoblog
+category: Seen By Me 2
 tags: Shadows, Auchendinny, Scotland, Tree
 date: 2021-09-13T07:46:00.002Z
 ---

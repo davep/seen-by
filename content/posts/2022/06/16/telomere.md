@@ -1,6 +1,6 @@
 ---
 title: "Telomere"
-category: Photoblog
+category: Seen By Me 2
 tags: Building, Sky, Easter Bush, Clouds, Roslin Institute, Scotland
 date: 2022-06-16T09:46:00.003Z
 ---

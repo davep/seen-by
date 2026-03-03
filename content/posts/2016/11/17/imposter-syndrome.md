@@ -1,6 +1,6 @@
 ---
 title: "Imposter Syndrome"
-category: Photoblog
+category: Seen By Me 2
 tags: Travel, Seat, Train
 date: 2016-11-17T11:59:00.001Z
 ---

@@ -1,6 +1,6 @@
 ---
 title: "The penny drops"
-category: Photoblog
+category: Seen By Me 2
 tags: Self Portrait, Path, Shadows
 date: 2020-09-24T07:50:00.002Z
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Another day"
-category: Photoblog
+category: Seen By Me 2
 tags: Sky, Contrail, Bird
 date: 2016-12-01T13:33:00.001Z
 ---

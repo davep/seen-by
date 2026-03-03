@@ -1,6 +1,6 @@
 ---
 title: "On reflection"
-category: Photoblog
+category: Seen By Me 2
 tags: Water, Tree, Reflection, Puddle
 date: 2020-12-14T10:50:00.002Z
 ---

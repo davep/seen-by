@@ -1,6 +1,6 @@
 ---
 title: "Second autumn"
-category: Photoblog
+category: Seen By Me 2
 tags: Path, Scotland, Leaf, Roslin Glen
 date: 2020-09-23T17:50:00.002Z
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Two at dinner, three missing"
-category: Photoblog
+category: Seen By Me 2
 tags: Food
 date: 2016-10-01T17:37:00Z
 ---

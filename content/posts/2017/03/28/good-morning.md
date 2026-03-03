@@ -1,6 +1,6 @@
 ---
 title: "Good morning"
-category: Photoblog
+category: Seen By Me 2
 tags: Computer, Screen, Keyboard
 date: 2017-03-28T15:28:00.001Z
 ---

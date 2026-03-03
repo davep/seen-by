@@ -1,6 +1,6 @@
 ---
 title: "The empty room"
-category: Photoblog
+category: Seen By Me 2
 tags: Shadows, Abstract
 date: 2016-11-19T12:59:00.001Z
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Other side of the cage"
-category: Photoblog
+category: Seen By Me 2
 tags: Auchendinny, Flower, Scotland, Daffodil, Tree, Sunrise
 date: 2020-02-25T08:42:00.003Z
 ---

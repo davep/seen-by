@@ -1,6 +1,6 @@
 ---
 title: "VIII"
-category: Photoblog
+category: Seen By Me 2
 tags: Christmas, Light
 date: 2017-12-14T01:39:00.001Z
 ---

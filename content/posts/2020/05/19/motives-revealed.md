@@ -1,6 +1,6 @@
 ---
 title: "Motives revealed"
-category: Photoblog
+category: Seen By Me 2
 tags: Tree
 date: 2020-05-19T17:03:00.002Z
 ---

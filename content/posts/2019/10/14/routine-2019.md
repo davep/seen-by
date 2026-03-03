@@ -1,6 +1,6 @@
 ---
 title: "Routine (2019)"
-category: Photoblog
+category: Seen By Me 2
 tags: Self Portrait, Stairs, Shoe, Foot
 date: 2019-10-14T07:31:00.001Z
 ---

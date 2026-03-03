@@ -1,6 +1,6 @@
 ---
 title: "Transformation"
-category: Photoblog
+category: Seen By Me 2
 tags: Self Portrait, Pride, Lanyard, Rainbow
 date: 2020-02-21T09:03:00.001Z
 ---

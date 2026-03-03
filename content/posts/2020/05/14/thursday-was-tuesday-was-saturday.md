@@ -1,6 +1,6 @@
 ---
 title: "Thursday was Tuesday was Saturday"
-category: Photoblog
+category: Seen By Me 2
 tags: Auchendinny, Scotland, Tree
 date: 2020-05-14T16:23:00.002Z
 ---

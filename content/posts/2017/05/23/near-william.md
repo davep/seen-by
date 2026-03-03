@@ -1,6 +1,6 @@
 ---
 title: "Near William"
-category: Photoblog
+category: Seen By Me 2
 tags: Stairs, Scotland, Edinburgh, Abstract, Lines
 date: 2017-05-23T10:09:00.003Z
 ---

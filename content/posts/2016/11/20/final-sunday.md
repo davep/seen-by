@@ -1,6 +1,6 @@
 ---
 title: "Final Sunday"
-category: Photoblog
+category: Seen By Me 2
 tags: Angles, Wall, Picture
 date: 2016-11-20T09:00:00.001Z
 ---

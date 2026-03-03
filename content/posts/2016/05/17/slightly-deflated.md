@@ -1,6 +1,6 @@
 ---
 title: "Slightly deflated"
-category: Photoblog
+category: Seen By Me 2
 tags: Toy
 date: 2016-05-17T15:45:00Z
 ---

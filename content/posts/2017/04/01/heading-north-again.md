@@ -1,6 +1,6 @@
 ---
 title: "Heading north again"
-category: Photoblog
+category: Seen By Me 2
 tags: Sky, England, Clouds
 date: 2017-04-01T15:05:00.001Z
 ---

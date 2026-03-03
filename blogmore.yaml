@@ -29,6 +29,8 @@ minify_js: true
 links:
   - title: davep@
     url: https://davep.at/
+  - title: Blog
+    url: https://blog.davep.org/
   - title: Bookmarks
     url: https://raindrop.io/davep/public-46742255/sort=-created&perpage=30&page=0
 

@@ -1,6 +1,6 @@
 ---
 title: "Keep Clear"
-category: Photoblog
+category: Seen By Me 2
 tags: Auchendinny, Hill, Road, Words, Scotland
 date: 2019-10-10T08:49:00.001Z
 ---

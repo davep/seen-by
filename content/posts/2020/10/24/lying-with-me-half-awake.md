@@ -1,6 +1,6 @@
 ---
 title: "Lying with me half awake"
-category: Photoblog
+category: Seen By Me 2
 tags: Words, Writing
 date: 2020-10-24T09:50:00.002Z
 ---

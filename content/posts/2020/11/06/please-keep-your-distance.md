@@ -1,6 +1,6 @@
 ---
 title: "Please keep your distance"
-category: Photoblog
+category: Seen By Me 2
 tags: Shadows, Building, Roslin Innovation Centre, Light, Words, Sign, Sun
 date: 2020-11-06T08:50:00.014Z
 ---
