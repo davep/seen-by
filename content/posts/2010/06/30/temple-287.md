@@ -3,6 +3,7 @@ title: "Temple"
 category: Seen By Me 1
 date: 2010-06-30 19:29:12
 tags: 
+cover: /attachments/2010/06/30/temple-287.jpeg
 ---
 
 ![Temple](/attachments/2010/06/30/temple-287.jpeg#centre)

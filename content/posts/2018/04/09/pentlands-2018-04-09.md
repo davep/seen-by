@@ -3,6 +3,7 @@ title: "Pentlands (2018-04-09)"
 category: Seen By Me 2
 tags: Water, Window, Rain, Landscape, Pentlands, Abstract, Glass
 date: 2018-04-09T15:19:00.001Z
+cover: /attachments/2018/04/09/pentlands-2018-04-09.jpeg
 ---
 
 ![Pentlands (2018-04-09)](/attachments/2018/04/09/pentlands-2018-04-09.jpeg#centre)

@@ -3,6 +3,7 @@ title: "Spoon"
 category: Seen By Me 1
 date: 2010-05-05 14:58:47
 tags: 
+cover: /attachments/2010/05/05/spoon-184.jpeg
 ---
 
 ![Spoon](/attachments/2010/05/05/spoon-184.jpeg#centre)

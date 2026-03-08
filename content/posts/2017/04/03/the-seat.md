@@ -3,6 +3,7 @@ title: "The seat"
 category: Seen By Me 2
 tags: Sky, Landscape, Hill, Clouds, Scotland, Edinburgh
 date: 2017-04-03T10:20:00.005Z
+cover: /attachments/2017/04/03/the-seat.jpeg
 ---
 
 ![The seat](/attachments/2017/04/03/the-seat.jpeg#centre)

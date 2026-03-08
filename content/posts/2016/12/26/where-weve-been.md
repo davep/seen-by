@@ -3,6 +3,7 @@ title: "Where we've been"
 category: Seen By Me 2
 tags: Sky, Landscape, Clouds, Road, Tree, Scotland, Lines
 date: 2016-12-26T17:01:00.001Z
+cover: /attachments/2016/12/26/where-weve-been.jpeg
 ---
 
 ![Where we've been](/attachments/2016/12/26/where-weve-been.jpeg#centre)
