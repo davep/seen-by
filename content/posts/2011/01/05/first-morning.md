@@ -3,6 +3,7 @@ title: "First Morning"
 category: Seen By Me 1
 date: 2011-01-05 09:07:04
 tags: Me, Nine Mornings
+cover: /attachments/2011/01/05/first-morning.jpeg
 ---
 
 ![First Morning](/attachments/2011/01/05/first-morning.jpeg#centre)

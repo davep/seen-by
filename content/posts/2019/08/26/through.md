@@ -3,6 +3,7 @@ title: "Through"
 category: Seen By Me 2
 tags: Path, Vanishing Point, Auchendinny, Tunnel, Scotland
 date: 2019-08-26T17:31:00.001Z
+cover: /attachments/2019/08/26/through.jpeg
 ---
 
 ![Through](/attachments/2019/08/26/through.jpeg#centre)

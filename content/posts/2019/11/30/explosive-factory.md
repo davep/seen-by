@@ -3,6 +3,7 @@ title: "Explosive factory"
 category: Seen By Me 2
 tags: Roslin, Mill, Scotland, Factory, Roslin Glen, Gunpowder, Ruin
 date: 2019-11-30T15:06:00.007Z
+cover: /attachments/2019/11/30/explosive-factory.jpeg
 ---
 
 ![Explosive factory](/attachments/2019/11/30/explosive-factory.jpeg#centre)

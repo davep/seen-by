@@ -3,6 +3,7 @@ title: "Routine (2019)"
 category: Seen By Me 2
 tags: Self Portrait, Stairs, Shoe, Foot
 date: 2019-10-14T07:31:00.001Z
+cover: /attachments/2019/10/14/routine-2019.jpeg
 ---
 
 ![Routine (2019)](/attachments/2019/10/14/routine-2019.jpeg#centre)

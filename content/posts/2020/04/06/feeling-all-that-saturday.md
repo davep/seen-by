@@ -3,6 +3,7 @@ title: "Feeling all that Saturday"
 category: Seen By Me 2
 tags: Shadows, Floor, Light, Doorstop, Door
 date: 2020-04-06T12:12:00.001Z
+cover: /attachments/2020/04/06/feeling-all-that-saturday.jpeg
 ---
 
 ![Feeling all that Saturday](/attachments/2020/04/06/feeling-all-that-saturday.jpeg#centre)

@@ -3,6 +3,7 @@ title: "Recollection of the twist"
 category: Seen By Me 2
 tags: Tree
 date: 2020-05-22T16:50:00.004Z
+cover: /attachments/2020/05/22/recollection-of-the-twist.jpeg
 ---
 
 ![Recollection of the twist](/attachments/2020/05/22/recollection-of-the-twist.jpeg#centre)
