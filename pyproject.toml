@@ -1,3 +1,7 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
 [project]
 name = "seen-by"
 version = "0.1.0"
@@ -6,4 +10,12 @@ readme = "README.md"
 requires-python = ">=3.14"
 dependencies = [
     "blogmore>=1.8.0",
+    "pillow>=11.0.0",
+    "python-slugify>=8.0.0",
 ]
+
+[project.scripts]
+impimg = "impimg:main"
+
+[tool.hatch.build.targets.wheel]
+include = ["impimg.py"]
