@@ -6,4 +6,6 @@ readme = "README.md"
 requires-python = ">=3.14"
 dependencies = [
     "blogmore>=1.8.0",
+    "pillow>=11.0.0",
+    "python-slugify>=8.0.0",
 ]
