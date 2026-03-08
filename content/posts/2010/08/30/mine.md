@@ -3,6 +3,7 @@ title: "Mine"
 category: Seen By Me 1
 date: 2010-08-30 16:29:02
 tags: 
+cover: /attachments/2010/08/30/mine.jpeg
 ---
 
 ![Mine](/attachments/2010/08/30/mine.jpeg#centre)

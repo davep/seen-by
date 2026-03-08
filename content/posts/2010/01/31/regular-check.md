@@ -3,6 +3,7 @@ title: "Regular Check"
 category: Seen By Me 1
 date: 2010-01-31 10:53:49
 tags: 
+cover: /attachments/2010/01/31/regular-check.jpeg
 ---
 
 ![Regular Check](/attachments/2010/01/31/regular-check.jpeg#centre)

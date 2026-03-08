@@ -3,6 +3,7 @@ title: "Fall on me"
 category: Seen By Me 2
 tags: England, Leaf, Grantham, Pavement, Lines
 date: 2016-11-20T13:00:00.001Z
+cover: /attachments/2016/11/20/fall-on-me.jpeg
 ---
 
 ![Fall on me](/attachments/2016/11/20/fall-on-me.jpeg#centre)

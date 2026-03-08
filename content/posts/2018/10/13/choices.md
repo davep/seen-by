@@ -3,6 +3,7 @@ title: "Choices"
 category: Seen By Me 2
 tags: Arrow, Abstract, Roslin Institute, Lines
 date: 2018-10-13T18:42:00.003Z
+cover: /attachments/2018/10/13/choices.jpeg
 ---
 
 ![Choices](/attachments/2018/10/13/choices.jpeg#centre)

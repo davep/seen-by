@@ -3,6 +3,7 @@ title: "Breakfast"
 category: Seen By Me 1
 date: 2011-08-10 09:52:30
 tags: 
+cover: /attachments/2011/08/10/breakfast.jpeg
 ---
 
 ![Breakfast](/attachments/2011/08/10/breakfast.jpeg#centre)

@@ -3,6 +3,7 @@ title: "Burton's"
 category: Seen By Me 2
 tags: Building, Sky, Scotland, Edinburgh, Clouds
 date: 2017-07-16T15:23:00.001Z
+cover: /attachments/2017/07/16/burtons.jpeg
 ---
 
 ![Burton's](/attachments/2017/07/16/burtons.jpeg#centre)

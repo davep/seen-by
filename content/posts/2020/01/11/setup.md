@@ -3,6 +3,7 @@ title: "Setup"
 category: Seen By Me 2
 tags: Abstract
 date: 2020-01-11T12:27:00.001Z
+cover: /attachments/2020/01/11/setup.jpeg
 ---
 
 ![Setup](/attachments/2020/01/11/setup.jpeg#centre)

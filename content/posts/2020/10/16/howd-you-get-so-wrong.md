@@ -3,6 +3,7 @@ title: "How'd you get so wrong?"
 category: Seen By Me 2
 tags: Words, Sign, Fence
 date: 2020-10-16T07:50:00.002Z
+cover: /attachments/2020/10/16/howd-you-get-so-wrong.jpeg
 ---
 
 ![How'd you get so wrong?](/attachments/2020/10/16/howd-you-get-so-wrong.jpeg#centre)

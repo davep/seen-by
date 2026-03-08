@@ -3,6 +3,7 @@ title: "Consider Chira"
 category: Seen By Me 2
 tags: Rubbish, Twig
 date: 2020-02-06T08:54:00.001Z
+cover: /attachments/2020/02/06/consider-chira.jpeg
 ---
 
 ![Consider Chira](/attachments/2020/02/06/consider-chira.jpeg#centre)
