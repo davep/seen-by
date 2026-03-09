@@ -1,6 +1,6 @@
 ---
 title: "Strategic thinking"
-category: Seen By Me 2
+category: Seen By Me 3
 tags: Post, Sign
 date: 2026-03-09T12:40:47
 cover: /attachments/2026/03/09/strategic-thinking.jpeg

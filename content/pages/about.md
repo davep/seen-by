@@ -4,7 +4,8 @@ title: About
 
 ## About this site
 
-This is the "rescued" versions of two photoblogs I've run over the years.
+This site is my photoblog, which includes two previous runs of maintaining
+such a blog, and now contains the latest incarnation.
 
 The original (under the category [Seen By Me
 1](/category/seen-by-me-1.html)) ran from [2009](/2009/) to [2013](/2013/)
@@ -24,9 +25,14 @@ Twitter APIs became very expensive and IFTTT no longer provided watching
 Twitter for free, and then it degraded even further when I nuked my Twitter
 account.
 
-This is an archive I now fully control. While it is [hosted on GitHub
+This is a site I now fully control. While it is [hosted on GitHub
 Pages](https://github.com/davep/seen-by) I've done this in a way that it
 would be pretty easy to move elsewhere; this is down to the fact that it's a
 simple static site built with [BlogMore](https://blogmore.davep.dev/).
+
+Because of this, [starting in March
+2026](https://blog.davep.org/2026/03/09/seen-by-me-revived.html), I've made
+a tentative return to keeping a photoblog again. These images can be found
+under [Seen By Me 3](/category/seen-by-me-3.html).
 
 [//]: # (about.md ends here)
