@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://seen-by.davep.dev</id>
   <title>Seen by Me</title>
-  <updated>2026-03-09T13:15:41.853483+00:00</updated>
+  <updated>2026-03-09T13:32:56.497142+00:00</updated>
   <link href="https://seen-by.davep.dev/feeds/all.atom.xml" rel="self"/>
   <link href="https://seen-by.davep.dev" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -13,7 +13,7 @@
     <updated>2026-03-09T12:48:06+00:00</updated>
     <content type="html">&lt;p&gt;&lt;img alt="Bridge" src="https://seen-by.davep.dev/attachments/2026/03/09/bridge.jpeg#centre" /&gt;&lt;/p&gt;</content>
     <link href="https://seen-by.davep.dev/2026/03/09/bridge.html"/>
-    <category term="Seen By Me 2"/>
+    <category term="Seen By Me 3"/>
     <category term="Bridge"/>
     <category term="Burn"/>
     <category term="Plank"/>
@@ -27,7 +27,7 @@
     <updated>2026-03-09T12:40:47+00:00</updated>
     <content type="html">&lt;p&gt;&lt;img alt="Strategic thinking" src="https://seen-by.davep.dev/attachments/2026/03/09/strategic-thinking.jpeg#centre" /&gt;&lt;/p&gt;</content>
     <link href="https://seen-by.davep.dev/2026/03/09/strategic-thinking.html"/>
-    <category term="Seen By Me 2"/>
+    <category term="Seen By Me 3"/>
     <category term="Post"/>
     <category term="Sign"/>
     <published>2026-03-09T12:40:47+00:00</published>
@@ -38,7 +38,7 @@
     <updated>2026-03-08T14:34:53+00:00</updated>
     <content type="html">&lt;p&gt;&lt;img alt="Not 360" src="https://seen-by.davep.dev/attachments/2026/03/08/not-360.jpeg#centre" /&gt;&lt;/p&gt;</content>
     <link href="https://seen-by.davep.dev/2026/03/08/not-360.html"/>
-    <category term="Seen By Me 2"/>
+    <category term="Seen By Me 3"/>
     <category term="Scotland"/>
     <category term="Penicuik"/>
     <category term="Tree"/>
@@ -54,7 +54,7 @@
     <updated>2026-03-08T14:34:06+00:00</updated>
     <content type="html">&lt;p&gt;&lt;img alt="A different glen" src="https://seen-by.davep.dev/attachments/2026/03/08/a-different-glen.jpeg#centre" /&gt;&lt;/p&gt;</content>
     <link href="https://seen-by.davep.dev/2026/03/08/a-different-glen.html"/>
-    <category term="Seen By Me 2"/>
+    <category term="Seen By Me 3"/>
     <category term="Scotland"/>
     <category term="Penicuik"/>
     <category term="Tree"/>
