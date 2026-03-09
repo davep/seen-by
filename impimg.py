@@ -43,8 +43,8 @@ _MAX_SIZE: tuple[int, int] = (1024, 1024)
 _MARKDOWN_TEMPLATE = """\
 ---
 title: "{title}"
-category: Seen By Me 2
-tags: 
+category: Seen By Me 3
+tags:
 date: {date}
 cover: {cover}
 ---
