@@ -30,7 +30,7 @@ INBOX: Path = (
 )
 
 _REPO_ROOT: Path = Path(__file__).parent
-_ATTACHMENTS_ROOT: Path = _REPO_ROOT / "content" / "attachments"
+_ATTACHMENTS_ROOT: Path = _REPO_ROOT / "content" / "extras" / "attachments"
 _POSTS_ROOT: Path = _REPO_ROOT / "content" / "posts"
 
 # Maximum dimensions for resized images (preserves aspect ratio).
