@@ -5,7 +5,7 @@ description = "Build system for seen-by.davep.dev"
 readme = "README.md"
 requires-python = ">=3.14"
 dependencies = [
-    "blogmore>=1.9.1",
+    "blogmore>=1.11.0",
     "pillow>=11.0.0",
     "python-slugify>=8.0.0",
 ]
