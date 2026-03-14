@@ -2,11 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://seen-by.davep.dev</id>
   <title>Seen by Me</title>
-  <updated>2026-03-11T16:57:22.709060+00:00</updated>
+  <updated>2026-03-14T13:44:34.587385+00:00</updated>
   <link href="https://seen-by.davep.dev/feeds/seen-by-me-3.atom.xml" rel="self"/>
   <link href="https://seen-by.davep.dev" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Posts in category "Seen By Me 3" from Seen by Me</subtitle>
+  <entry>
+    <id>https://seen-by.davep.dev/2026/03/14/fitness-landscape.html</id>
+    <title>Fitness Landscape</title>
+    <updated>2026-03-14T12:52:24+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;img alt="Fitness Landscape" src="https://seen-by.davep.dev/attachments/2026/03/14/fitness-landscape.jpeg#centre" /&gt;&lt;/p&gt;</content>
+    <link href="https://seen-by.davep.dev/2026/03/14/fitness-landscape.html"/>
+    <category term="Seen By Me 3"/>
+    <category term="tree"/>
+    <category term="moss"/>
+    <category term="bark"/>
+    <published>2026-03-14T12:52:24+00:00</published>
+  </entry>
   <entry>
     <id>https://seen-by.davep.dev/2026/03/09/bridge.html</id>
     <title>Bridge</title>
