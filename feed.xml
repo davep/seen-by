@@ -8,7 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 14 Mar 2026 13:44:34 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Mar 2026 14:18:24 +0000</lastBuildDate>
+    <item>
+      <title>I recognise the weapons</title>
+      <link>https://seen-by.davep.dev/2026/03/15/i-recognise-the-weapons.html</link>
+      <description>&lt;p&gt;&lt;img alt="I recognise the weapons" src="https://seen-by.davep.dev/attachments/2026/03/15/i-recognise-the-weapons.jpeg#centre" /&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://seen-by.davep.dev/2026/03/15/i-recognise-the-weapons.html</guid>
+      <category>Seen By Me 3</category>
+      <category>burn</category>
+      <category>moss</category>
+      <category>water</category>
+      <category>rock</category>
+      <pubDate>Sun, 15 Mar 2026 13:45:21 +0000</pubDate>
+    </item>
     <item>
       <title>Fitness Landscape</title>
       <link>https://seen-by.davep.dev/2026/03/14/fitness-landscape.html</link>
@@ -238,22 +250,6 @@
       <category>Scotland</category>
       <category>Tree</category>
       <pubDate>Sat, 06 Aug 2022 15:46:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The next conspiracy</title>
-      <link>https://seen-by.davep.dev/2022/07/26/the-next-conspiracy.html</link>
-      <description>&lt;p&gt;&lt;img alt="The next conspiracy" src="https://seen-by.davep.dev/attachments/2022/07/26/the-next-conspiracy.jpeg#centre" /&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://seen-by.davep.dev/2022/07/26/the-next-conspiracy.html</guid>
-      <category>Seen By Me 2</category>
-      <category>Easter Bush</category>
-      <category>Sky</category>
-      <category>Building</category>
-      <category>Skyline</category>
-      <category>Hill</category>
-      <category>Pentlands</category>
-      <category>Scotland</category>
-      <category>Tree</category>
-      <pubDate>Tue, 26 Jul 2022 08:46:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

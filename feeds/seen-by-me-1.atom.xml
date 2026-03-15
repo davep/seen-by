@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://seen-by.davep.dev</id>
   <title>Seen by Me</title>
-  <updated>2026-03-14T13:44:34.589503+00:00</updated>
+  <updated>2026-03-15T14:18:24.487054+00:00</updated>
   <link href="https://seen-by.davep.dev/feeds/seen-by-me-1.atom.xml" rel="self"/>
   <link href="https://seen-by.davep.dev" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
