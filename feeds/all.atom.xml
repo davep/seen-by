@@ -2,11 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://seen-by.davep.dev</id>
   <title>Seen by Me</title>
-  <updated>2026-03-15T14:18:24.479179+00:00</updated>
+  <updated>2026-03-16T15:15:10.992625+00:00</updated>
   <link href="https://seen-by.davep.dev/feeds/all.atom.xml" rel="self"/>
   <link href="https://seen-by.davep.dev" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Latest posts from Seen by Me</subtitle>
+  <entry>
+    <id>https://seen-by.davep.dev/2026/03/16/all-fixed-now.html</id>
+    <title>All fixed now</title>
+    <updated>2026-03-16T12:38:40+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;img alt="All fixed now" src="https://seen-by.davep.dev/attachments/2026/03/16/all-fixed-now.jpeg#centre" /&gt;&lt;/p&gt;</content>
+    <link href="https://seen-by.davep.dev/2026/03/16/all-fixed-now.html"/>
+    <category term="Seen By Me 3"/>
+    <category term="lamppost"/>
+    <category term="tape"/>
+    <category term="grass"/>
+    <published>2026-03-16T12:38:40+00:00</published>
+  </entry>
   <entry>
     <id>https://seen-by.davep.dev/2026/03/15/i-recognise-the-weapons.html</id>
     <title>I recognise the weapons</title>
@@ -254,19 +266,5 @@
     <category term="IndyRef"/>
     <category term="Flag"/>
     <published>2022-09-08T11:47:00.003000+00:00</published>
-  </entry>
-  <entry>
-    <id>https://seen-by.davep.dev/2022/08/06/year-4.html</id>
-    <title>Year 4</title>
-    <updated>2022-08-06T15:46:00.003000+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;img alt="Year 4" src="https://seen-by.davep.dev/attachments/2022/08/06/year-4.jpeg#centre" /&gt;&lt;/p&gt;</content>
-    <link href="https://seen-by.davep.dev/2022/08/06/year-4.html"/>
-    <category term="Seen By Me 2"/>
-    <category term="Station"/>
-    <category term="Auchendinny"/>
-    <category term="Wood"/>
-    <category term="Scotland"/>
-    <category term="Tree"/>
-    <published>2022-08-06T15:46:00.003000+00:00</published>
   </entry>
 </feed>

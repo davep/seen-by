@@ -8,7 +8,18 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 15 Mar 2026 14:18:24 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Mar 2026 15:15:10 +0000</lastBuildDate>
+    <item>
+      <title>All fixed now</title>
+      <link>https://seen-by.davep.dev/2026/03/16/all-fixed-now.html</link>
+      <description>&lt;p&gt;&lt;img alt="All fixed now" src="https://seen-by.davep.dev/attachments/2026/03/16/all-fixed-now.jpeg#centre" /&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://seen-by.davep.dev/2026/03/16/all-fixed-now.html</guid>
+      <category>Seen By Me 3</category>
+      <category>lamppost</category>
+      <category>tape</category>
+      <category>grass</category>
+      <pubDate>Mon, 16 Mar 2026 12:38:40 +0000</pubDate>
+    </item>
     <item>
       <title>I recognise the weapons</title>
       <link>https://seen-by.davep.dev/2026/03/15/i-recognise-the-weapons.html</link>
@@ -237,19 +248,6 @@
       <category>IndyRef</category>
       <category>Flag</category>
       <pubDate>Thu, 08 Sep 2022 11:47:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Year 4</title>
-      <link>https://seen-by.davep.dev/2022/08/06/year-4.html</link>
-      <description>&lt;p&gt;&lt;img alt="Year 4" src="https://seen-by.davep.dev/attachments/2022/08/06/year-4.jpeg#centre" /&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://seen-by.davep.dev/2022/08/06/year-4.html</guid>
-      <category>Seen By Me 2</category>
-      <category>Station</category>
-      <category>Auchendinny</category>
-      <category>Wood</category>
-      <category>Scotland</category>
-      <category>Tree</category>
-      <pubDate>Sat, 06 Aug 2022 15:46:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
