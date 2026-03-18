@@ -1,5 +1,5 @@
 ##############################################################################
-# BlogMore configuration for blog.davep.org.
+# BlogMore configuration for seen-by.davep.dev.
 
 ##############################################################################
 # Locations.
@@ -12,17 +12,48 @@ site_title: "Seen by Me"
 site_subtitle: "A geek and his mobile phone"
 site_url: "https://seen-by.davep.dev"
 site_description: "Dave Pearson's Photoblog"
+site_logo: /logo.jpeg
+site_keywords:
+  - Photography
+  - Photoblog
+  - Mobile
+  - Smartphone
+  - Blog
 default_author: Dave Pearson
 
 ##############################################################################
-# Content and styling.
+# Building.
 clean_first: true
-with_search: true
-site_logo: /logo.jpeg
 icon_source: davep.jpeg
-with_sitemap: true
 minify_css: true
 minify_js: true
+minify_html: true
+clean_urls: true
+archive_path: "/archive/index.html"
+categories_path: "/categories/index.html"
+page_path: "/{slug}/index.html"
+page_n_path: "/page/{page}/index.html"
+search_path: "/search/index.html"
+tags_path: "/tags/index.html"
+
+##############################################################################
+# Content and styling.
+with_search: true
+with_sitemap: true
+with_read_time: false
+
+##############################################################################
+# Extra headers.
+head:
+  # For humans.txt (https://humanstxt.org)
+  - link:
+      type: "text/plain"
+      rel: "author"
+      href: "/humans.txt"
+  - link:
+      type: "application/json"
+      rel: "human-json"
+      href: "/human.json"
 
 ##############################################################################
 # The links section in the sidebar.
@@ -31,8 +62,10 @@ links:
     url: https://davep.at/
   - title: Blog
     url: https://blog.davep.org/
+  - title: Code
+    url: https://davep.dev/
   - title: Bookmarks
-    url: https://raindrop.io/davep/public-46742255/sort=-created&perpage=30&page=0
+    url: https://blog.davep.org/bookmarks/
 
 ##############################################################################
 # The "socials" in the sidebar.
