@@ -8,7 +8,22 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 18 Mar 2026 14:00:39 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 21 Mar 2026 12:37:45 +0000</lastBuildDate>
+    <item>
+      <title>Blinking in the morning sun</title>
+      <link>https://seen-by.davep.dev/2026/03/21/blinking-in-the-morning-sun.html</link>
+      <description>&lt;p&gt;&lt;img alt="Blinking in the morning sun" src="https://seen-by.davep.dev/attachments/2026/03/21/blinking-in-the-morning-sun.jpeg#centre" /&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://seen-by.davep.dev/2026/03/21/blinking-in-the-morning-sun.html</guid>
+      <category>Seen By Me 3</category>
+      <category>horizon</category>
+      <category>house</category>
+      <category>grass</category>
+      <category>Penicuik</category>
+      <category>Scotland</category>
+      <category>sky</category>
+      <category>tree</category>
+      <pubDate>Sat, 21 Mar 2026 12:06:09 +0000</pubDate>
+    </item>
     <item>
       <title>All fixed now</title>
       <link>https://seen-by.davep.dev/2026/03/16/all-fixed-now.html</link>
@@ -235,19 +250,6 @@
       <category>Scotland</category>
       <category>Sign</category>
       <pubDate>Tue, 27 Sep 2022 08:46:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Aye</title>
-      <link>https://seen-by.davep.dev/2022/09/08/aye.html</link>
-      <description>&lt;p&gt;&lt;img alt="Aye" src="https://seen-by.davep.dev/attachments/2022/09/08/aye.jpeg#centre" /&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://seen-by.davep.dev/2022/09/08/aye.html</guid>
-      <category>Seen By Me 2</category>
-      <category>Words</category>
-      <category>Scotland</category>
-      <category>Politics</category>
-      <category>IndyRef</category>
-      <category>Flag</category>
-      <pubDate>Thu, 08 Sep 2022 11:47:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
