@@ -8,7 +8,20 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 21 Mar 2026 12:37:45 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 22 Mar 2026 19:59:23 +0000</lastBuildDate>
+    <item>
+      <title>Tracking</title>
+      <link>https://seen-by.davep.dev/2026/03/22/tracking.html</link>
+      <description>&lt;p&gt;&lt;img alt="Tracking" src="https://seen-by.davep.dev/attachments/2026/03/22/tracking.jpeg#centre" /&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://seen-by.davep.dev/2026/03/22/tracking.html</guid>
+      <category>Seen By Me 3</category>
+      <category>lines</category>
+      <category>grass</category>
+      <category>sport</category>
+      <category>field</category>
+      <category>paint</category>
+      <pubDate>Sun, 22 Mar 2026 11:53:58 +0000</pubDate>
+    </item>
     <item>
       <title>Blinking in the morning sun</title>
       <link>https://seen-by.davep.dev/2026/03/21/blinking-in-the-morning-sun.html</link>
@@ -236,20 +249,6 @@
       <category>Abstract</category>
       <category>Sunrise</category>
       <pubDate>Wed, 02 Nov 2022 07:46:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>In anticipation</title>
-      <link>https://seen-by.davep.dev/2022/09/27/in-anticipation.html</link>
-      <description>&lt;p&gt;&lt;img alt="In anticipation" src="https://seen-by.davep.dev/attachments/2022/09/27/in-anticipation.jpeg#centre" /&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://seen-by.davep.dev/2022/09/27/in-anticipation.html</guid>
-      <category>Seen By Me 2</category>
-      <category>Easter Bush</category>
-      <category>Numbers</category>
-      <category>Hill</category>
-      <category>Pentlands</category>
-      <category>Scotland</category>
-      <category>Sign</category>
-      <pubDate>Tue, 27 Sep 2022 08:46:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

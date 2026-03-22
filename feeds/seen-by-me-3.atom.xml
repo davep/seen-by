@@ -2,11 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://seen-by.davep.dev</id>
   <title>Seen by Me</title>
-  <updated>2026-03-21T12:37:45.165687+00:00</updated>
+  <updated>2026-03-22T19:59:23.290446+00:00</updated>
   <link href="https://seen-by.davep.dev/feeds/seen-by-me-3.atom.xml" rel="self"/>
   <link href="https://seen-by.davep.dev" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Posts in category "Seen By Me 3" from Seen by Me</subtitle>
+  <entry>
+    <id>https://seen-by.davep.dev/2026/03/22/tracking.html</id>
+    <title>Tracking</title>
+    <updated>2026-03-22T11:53:58+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;img alt="Tracking" src="https://seen-by.davep.dev/attachments/2026/03/22/tracking.jpeg#centre" /&gt;&lt;/p&gt;</content>
+    <link href="https://seen-by.davep.dev/2026/03/22/tracking.html"/>
+    <category term="Seen By Me 3"/>
+    <category term="lines"/>
+    <category term="grass"/>
+    <category term="sport"/>
+    <category term="field"/>
+    <category term="paint"/>
+    <published>2026-03-22T11:53:58+00:00</published>
+  </entry>
   <entry>
     <id>https://seen-by.davep.dev/2026/03/21/blinking-in-the-morning-sun.html</id>
     <title>Blinking in the morning sun</title>
