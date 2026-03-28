@@ -2,11 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://seen-by.davep.dev</id>
   <title>Seen by Me</title>
-  <updated>2026-03-26T08:29:02.917855+00:00</updated>
+  <updated>2026-03-28T13:26:20.857396+00:00</updated>
   <link href="https://seen-by.davep.dev/feeds/all.atom.xml" rel="self"/>
   <link href="https://seen-by.davep.dev" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Latest posts from Seen by Me</subtitle>
+  <entry>
+    <id>https://seen-by.davep.dev/2026/03/28/breaking-through-the-atmosphere.html</id>
+    <title>Breaking through the atmosphere</title>
+    <updated>2026-03-28T12:53:04+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;img alt="Breaking through the atmosphere" src="https://seen-by.davep.dev/attachments/2026/03/28/breaking-through-the-atmosphere.jpeg#centre" /&gt;&lt;/p&gt;</content>
+    <link href="https://seen-by.davep.dev/2026/03/28/breaking-through-the-atmosphere.html"/>
+    <category term="Seen By Me 3"/>
+    <category term="tree"/>
+    <category term="clouds"/>
+    <category term="sky"/>
+    <published>2026-03-28T12:53:04+00:00</published>
+  </entry>
   <entry>
     <id>https://seen-by.davep.dev/2026/03/22/tracking.html</id>
     <title>Tracking</title>
@@ -256,16 +268,5 @@
     <category term="Sign"/>
     <category term="Fence"/>
     <published>2022-11-22T18:46:00.003000+00:00</published>
-  </entry>
-  <entry>
-    <id>https://seen-by.davep.dev/2022/11/02/elegance.html</id>
-    <title>Elegance</title>
-    <updated>2022-11-02T07:46:00.003000+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;img alt="Elegance" src="https://seen-by.davep.dev/attachments/2022/11/02/elegance.jpeg#centre" /&gt;&lt;/p&gt;</content>
-    <link href="https://seen-by.davep.dev/2022/11/02/elegance.html"/>
-    <category term="Seen By Me 2"/>
-    <category term="Abstract"/>
-    <category term="Sunrise"/>
-    <published>2022-11-02T07:46:00.003000+00:00</published>
   </entry>
 </feed>
