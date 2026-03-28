@@ -19,6 +19,10 @@ serve:				# Locally serve the site for testing.
 publish:			# Publish the site to GitHub
 	$(blogmore) publish
 
+.PHONY: import
+import:				# Import photos as posts
+	$(run) impimg.py
+
 ##############################################################################
 # Utility.
 .PHONY: setup
