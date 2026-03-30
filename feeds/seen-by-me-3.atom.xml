@@ -2,11 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://seen-by.davep.dev</id>
   <title>Seen by Me</title>
-  <updated>2026-03-28T13:26:20.865021+00:00</updated>
+  <updated>2026-03-30T13:48:36.209205+00:00</updated>
   <link href="https://seen-by.davep.dev/feeds/seen-by-me-3.atom.xml" rel="self"/>
   <link href="https://seen-by.davep.dev" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Posts in category "Seen By Me 3" from Seen by Me</subtitle>
+  <entry>
+    <id>https://seen-by.davep.dev/2026/03/30/refactored.html</id>
+    <title>Refactored</title>
+    <updated>2026-03-30T12:52:28+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;img alt="Refactored" src="https://seen-by.davep.dev/attachments/2026/03/30/refactored.jpeg#centre" /&gt;&lt;/p&gt;</content>
+    <link href="https://seen-by.davep.dev/2026/03/30/refactored.html"/>
+    <category term="Seen By Me 3"/>
+    <category term="Ruin"/>
+    <category term="Stone"/>
+    <category term="Wall"/>
+    <category term="tree"/>
+    <published>2026-03-30T12:52:28+00:00</published>
+  </entry>
   <entry>
     <id>https://seen-by.davep.dev/2026/03/28/breaking-through-the-atmosphere.html</id>
     <title>Breaking through the atmosphere</title>
