@@ -141,7 +141,7 @@ def _import_image(image_path: Path) -> None:
     # Write the Markdown post.
     md_dst = post_dir / f"{slug}.md"
     md_dst.write_text(
-        _MARKDOWN_TEMPLATE.format(title=desc, date=date.isoformat(), cover=img_path),
+        _MARKDOWN_TEMPLATE.format(title=desc, date=date.astimezone().isoformat(), cover=img_path),
         encoding="utf-8",
     )
 
