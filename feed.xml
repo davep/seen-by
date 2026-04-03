@@ -8,7 +8,22 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 01 Apr 2026 12:35:48 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 03 Apr 2026 16:16:06 +0000</lastBuildDate>
+    <item>
+      <title>You well heeled big wheel</title>
+      <link>https://seen-by.davep.dev/2026/04/03/you-well-heeled-big-wheel.html</link>
+      <description>&lt;p&gt;&lt;img alt="You well heeled big wheel" src="https://seen-by.davep.dev/attachments/2026/04/03/you-well-heeled-big-wheel.jpeg#centre" /&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://seen-by.davep.dev/2026/04/03/you-well-heeled-big-wheel.html</guid>
+      <category>Seen By Me 3</category>
+      <category>Clouds</category>
+      <category>House</category>
+      <category>Penicuik</category>
+      <category>Playground</category>
+      <category>Scotland</category>
+      <category>Sky</category>
+      <category>Swing</category>
+      <pubDate>Fri, 03 Apr 2026 12:53:28 +0100</pubDate>
+    </item>
     <item>
       <title>Our thoughts compressed</title>
       <link>https://seen-by.davep.dev/2026/04/01/our-thoughts-compressed.html</link>
@@ -233,17 +248,6 @@
       <category>Scotland</category>
       <category>Edinburgh</category>
       <pubDate>Wed, 15 Feb 2023 08:46:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>This machine will not communicate</title>
-      <link>https://seen-by.davep.dev/2023/01/05/this-machine-will-not-communicate.html</link>
-      <description>&lt;p&gt;&lt;img alt="This machine will not communicate" src="https://seen-by.davep.dev/attachments/2023/01/05/this-machine-will-not-communicate.jpeg#centre" /&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://seen-by.davep.dev/2023/01/05/this-machine-will-not-communicate.html</guid>
-      <category>Seen By Me 2</category>
-      <category>Bird</category>
-      <category>Scotland</category>
-      <category>Edinburgh</category>
-      <pubDate>Thu, 05 Jan 2023 08:46:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

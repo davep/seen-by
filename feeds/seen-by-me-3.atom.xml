@@ -2,11 +2,27 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://seen-by.davep.dev</id>
   <title>Seen by Me</title>
-  <updated>2026-04-01T12:35:48.649956+00:00</updated>
+  <updated>2026-04-03T16:16:06.638950+00:00</updated>
   <link href="https://seen-by.davep.dev/feeds/seen-by-me-3.atom.xml" rel="self"/>
   <link href="https://seen-by.davep.dev" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Posts in category "Seen By Me 3" from Seen by Me</subtitle>
+  <entry>
+    <id>https://seen-by.davep.dev/2026/04/03/you-well-heeled-big-wheel.html</id>
+    <title>You well heeled big wheel</title>
+    <updated>2026-04-03T12:53:28+01:00</updated>
+    <content type="html">&lt;p&gt;&lt;img alt="You well heeled big wheel" src="https://seen-by.davep.dev/attachments/2026/04/03/you-well-heeled-big-wheel.jpeg#centre" /&gt;&lt;/p&gt;</content>
+    <link href="https://seen-by.davep.dev/2026/04/03/you-well-heeled-big-wheel.html"/>
+    <category term="Seen By Me 3"/>
+    <category term="Clouds"/>
+    <category term="House"/>
+    <category term="Penicuik"/>
+    <category term="Playground"/>
+    <category term="Scotland"/>
+    <category term="Sky"/>
+    <category term="Swing"/>
+    <published>2026-04-03T12:53:28+01:00</published>
+  </entry>
   <entry>
     <id>https://seen-by.davep.dev/2026/04/01/our-thoughts-compressed.html</id>
     <title>Our thoughts compressed</title>
