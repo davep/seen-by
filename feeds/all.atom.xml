@@ -2,11 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://seen-by.davep.dev</id>
   <title>Seen by Me</title>
-  <updated>2026-04-03T16:16:06.631944+00:00</updated>
+  <updated>2026-04-05T19:16:07.316635+00:00</updated>
   <link href="https://seen-by.davep.dev/feeds/all.atom.xml" rel="self"/>
   <link href="https://seen-by.davep.dev" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Latest posts from Seen by Me</subtitle>
+  <entry>
+    <id>https://seen-by.davep.dev/2026/04/05/subjugated-by-perfection.html</id>
+    <title>Subjugated by perfection</title>
+    <updated>2026-04-05T14:00:17+01:00</updated>
+    <content type="html">&lt;p&gt;&lt;img alt="Subjugated by perfection" src="https://seen-by.davep.dev/attachments/2026/04/05/subjugated-by-perfection.jpeg#centre" /&gt;&lt;/p&gt;</content>
+    <link href="https://seen-by.davep.dev/2026/04/05/subjugated-by-perfection.html"/>
+    <category term="Seen By Me 3"/>
+    <category term="Light"/>
+    <category term="Moss"/>
+    <category term="Rock"/>
+    <category term="Shadow"/>
+    <category term="Shadows"/>
+    <published>2026-04-05T14:00:17+01:00</published>
+  </entry>
   <entry>
     <id>https://seen-by.davep.dev/2026/04/03/you-well-heeled-big-wheel.html</id>
     <title>You well heeled big wheel</title>
@@ -254,17 +268,5 @@
     <category term="Seen By Me 2"/>
     <category term="Tree"/>
     <published>2023-06-07T13:03:00.001000+00:00</published>
-  </entry>
-  <entry>
-    <id>https://seen-by.davep.dev/2023/02/15/the-long-wait.html</id>
-    <title>The long wait</title>
-    <updated>2023-02-15T08:46:00.003000+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;img alt="The long wait" src="https://seen-by.davep.dev/attachments/2023/02/15/the-long-wait.jpeg#centre" /&gt;&lt;/p&gt;</content>
-    <link href="https://seen-by.davep.dev/2023/02/15/the-long-wait.html"/>
-    <category term="Seen By Me 2"/>
-    <category term="Graffiti"/>
-    <category term="Scotland"/>
-    <category term="Edinburgh"/>
-    <published>2023-02-15T08:46:00.003000+00:00</published>
   </entry>
 </feed>

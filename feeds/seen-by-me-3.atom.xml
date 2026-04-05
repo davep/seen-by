@@ -2,11 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://seen-by.davep.dev</id>
   <title>Seen by Me</title>
-  <updated>2026-04-03T16:16:06.638950+00:00</updated>
+  <updated>2026-04-05T19:16:07.318350+00:00</updated>
   <link href="https://seen-by.davep.dev/feeds/seen-by-me-3.atom.xml" rel="self"/>
   <link href="https://seen-by.davep.dev" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Posts in category "Seen By Me 3" from Seen by Me</subtitle>
+  <entry>
+    <id>https://seen-by.davep.dev/2026/04/05/subjugated-by-perfection.html</id>
+    <title>Subjugated by perfection</title>
+    <updated>2026-04-05T14:00:17+01:00</updated>
+    <content type="html">&lt;p&gt;&lt;img alt="Subjugated by perfection" src="https://seen-by.davep.dev/attachments/2026/04/05/subjugated-by-perfection.jpeg#centre" /&gt;&lt;/p&gt;</content>
+    <link href="https://seen-by.davep.dev/2026/04/05/subjugated-by-perfection.html"/>
+    <category term="Seen By Me 3"/>
+    <category term="Light"/>
+    <category term="Moss"/>
+    <category term="Rock"/>
+    <category term="Shadow"/>
+    <category term="Shadows"/>
+    <published>2026-04-05T14:00:17+01:00</published>
+  </entry>
   <entry>
     <id>https://seen-by.davep.dev/2026/04/03/you-well-heeled-big-wheel.html</id>
     <title>You well heeled big wheel</title>
