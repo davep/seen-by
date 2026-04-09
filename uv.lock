@@ -300,7 +300,7 @@ dependencies = [
 
 [package.metadata]
 requires-dist = [
-    { name = "blogmore", specifier = ">=2.10.0" },
+    { name = "blogmore", specifier = ">=2.11.0" },
     { name = "pillow", specifier = ">=11.0.0" },
     { name = "python-slugify", specifier = ">=8.0.0" },
 ]
