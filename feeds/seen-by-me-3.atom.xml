@@ -2,11 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://seen-by.davep.dev</id>
   <title>Seen by Me</title>
-  <updated>2026-04-09T09:09:42.605575+00:00</updated>
+  <updated>2026-04-14T12:26:47.136182+00:00</updated>
   <link href="https://seen-by.davep.dev/feeds/seen-by-me-3.atom.xml" rel="self"/>
   <link href="https://seen-by.davep.dev" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Posts in category "Seen By Me 3" from Seen by Me</subtitle>
+  <entry>
+    <id>https://seen-by.davep.dev/2026/04/14/your-model-is-flawed.html</id>
+    <title>Your model is flawed</title>
+    <updated>2026-04-14T12:50:19+01:00</updated>
+    <content type="html">&lt;p&gt;&lt;img alt="Your model is flawed" src="https://seen-by.davep.dev/attachments/2026/04/14/your-model-is-flawed.jpeg#centre" /&gt;&lt;/p&gt;</content>
+    <link href="https://seen-by.davep.dev/2026/04/14/your-model-is-flawed.html"/>
+    <category term="Seen By Me 3"/>
+    <category term="Light"/>
+    <category term="Lines"/>
+    <category term="Shadow"/>
+    <category term="Wood"/>
+    <published>2026-04-14T12:50:19+01:00</published>
+  </entry>
+  <entry>
+    <id>https://seen-by.davep.dev/2026/04/14/the-map.html</id>
+    <title>The map</title>
+    <updated>2026-04-14T12:45:03+01:00</updated>
+    <content type="html">&lt;p&gt;&lt;img alt="The map" src="https://seen-by.davep.dev/attachments/2026/04/14/the-map.jpeg#centre" /&gt;&lt;/p&gt;</content>
+    <link href="https://seen-by.davep.dev/2026/04/14/the-map.html"/>
+    <category term="Seen By Me 3"/>
+    <category term="Clouds"/>
+    <category term="Sky"/>
+    <published>2026-04-14T12:45:03+01:00</published>
+  </entry>
   <entry>
     <id>https://seen-by.davep.dev/2026/04/05/subjugated-by-perfection.html</id>
     <title>Subjugated by perfection</title>

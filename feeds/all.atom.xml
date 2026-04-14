@@ -2,11 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://seen-by.davep.dev</id>
   <title>Seen by Me</title>
-  <updated>2026-04-09T09:09:42.599265+00:00</updated>
+  <updated>2026-04-14T12:26:47.130935+00:00</updated>
   <link href="https://seen-by.davep.dev/feeds/all.atom.xml" rel="self"/>
   <link href="https://seen-by.davep.dev" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Latest posts from Seen by Me</subtitle>
+  <entry>
+    <id>https://seen-by.davep.dev/2026/04/14/your-model-is-flawed.html</id>
+    <title>Your model is flawed</title>
+    <updated>2026-04-14T12:50:19+01:00</updated>
+    <content type="html">&lt;p&gt;&lt;img alt="Your model is flawed" src="https://seen-by.davep.dev/attachments/2026/04/14/your-model-is-flawed.jpeg#centre" /&gt;&lt;/p&gt;</content>
+    <link href="https://seen-by.davep.dev/2026/04/14/your-model-is-flawed.html"/>
+    <category term="Seen By Me 3"/>
+    <category term="Light"/>
+    <category term="Lines"/>
+    <category term="Shadow"/>
+    <category term="Wood"/>
+    <published>2026-04-14T12:50:19+01:00</published>
+  </entry>
+  <entry>
+    <id>https://seen-by.davep.dev/2026/04/14/the-map.html</id>
+    <title>The map</title>
+    <updated>2026-04-14T12:45:03+01:00</updated>
+    <content type="html">&lt;p&gt;&lt;img alt="The map" src="https://seen-by.davep.dev/attachments/2026/04/14/the-map.jpeg#centre" /&gt;&lt;/p&gt;</content>
+    <link href="https://seen-by.davep.dev/2026/04/14/the-map.html"/>
+    <category term="Seen By Me 3"/>
+    <category term="Clouds"/>
+    <category term="Sky"/>
+    <published>2026-04-14T12:45:03+01:00</published>
+  </entry>
   <entry>
     <id>https://seen-by.davep.dev/2026/04/05/subjugated-by-perfection.html</id>
     <title>Subjugated by perfection</title>
@@ -244,29 +268,5 @@
     <category term="Lost"/>
     <category term="Toy"/>
     <published>2023-07-30T17:53:00.002000+00:00</published>
-  </entry>
-  <entry>
-    <id>https://seen-by.davep.dev/2023/06/12/on-rights.html</id>
-    <title>On Rights</title>
-    <updated>2023-06-12T06:55:00.003000+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;img alt="On Rights" src="https://seen-by.davep.dev/attachments/2023/06/12/on-rights.jpeg#centre" /&gt;&lt;/p&gt;</content>
-    <link href="https://seen-by.davep.dev/2023/06/12/on-rights.html"/>
-    <category term="Seen By Me 2"/>
-    <category term="Pride"/>
-    <category term="Scotland"/>
-    <category term="Edinburgh"/>
-    <category term="Sign"/>
-    <category term="Bus Stop"/>
-    <published>2023-06-12T06:55:00.003000+00:00</published>
-  </entry>
-  <entry>
-    <id>https://seen-by.davep.dev/2023/06/07/time-is-like-mercury.html</id>
-    <title>Time is like mercury</title>
-    <updated>2023-06-07T13:03:00.001000+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;img alt="Time is like mercury" src="https://seen-by.davep.dev/attachments/2023/06/07/time-is-like-mercury.jpeg#centre" /&gt;&lt;/p&gt;</content>
-    <link href="https://seen-by.davep.dev/2023/06/07/time-is-like-mercury.html"/>
-    <category term="Seen By Me 2"/>
-    <category term="Tree"/>
-    <published>2023-06-07T13:03:00.001000+00:00</published>
   </entry>
 </feed>
