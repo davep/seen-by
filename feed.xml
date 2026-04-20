@@ -8,7 +8,58 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 15 Apr 2026 18:17:44 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 20 Apr 2026 18:07:50 +0000</lastBuildDate>
+    <item>
+      <title>Halo</title>
+      <link>https://seen-by.davep.dev/2026/04/19/halo.html</link>
+      <description>&lt;p&gt;&lt;img alt="Halo" src="https://seen-by.davep.dev/attachments/2026/04/19/halo.jpeg#centre" /&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://seen-by.davep.dev/2026/04/19/halo.html</guid>
+      <category>Seen By Me 3</category>
+      <category>Cliff</category>
+      <category>Clouds</category>
+      <category>Halo</category>
+      <category>Sky</category>
+      <pubDate>Sun, 19 Apr 2026 13:46:13 +0100</pubDate>
+    </item>
+    <item>
+      <title>Erosion of trust</title>
+      <link>https://seen-by.davep.dev/2026/04/19/erosion-of-trust.html</link>
+      <description>&lt;p&gt;&lt;img alt="Erosion of trust" src="https://seen-by.davep.dev/attachments/2026/04/19/erosion-of-trust.jpeg#centre" /&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://seen-by.davep.dev/2026/04/19/erosion-of-trust.html</guid>
+      <category>Seen By Me 3</category>
+      <category>Beach</category>
+      <category>Sand</category>
+      <category>Water</category>
+      <pubDate>Sun, 19 Apr 2026 13:03:08 +0100</pubDate>
+    </item>
+    <item>
+      <title>The past that's gone</title>
+      <link>https://seen-by.davep.dev/2026/04/19/the-past-that-s-gone.html</link>
+      <description>&lt;p&gt;&lt;img alt="The past that's gone" src="https://seen-by.davep.dev/attachments/2026/04/19/the-past-that-s-gone.jpeg#centre" /&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://seen-by.davep.dev/2026/04/19/the-past-that-s-gone.html</guid>
+      <category>Seen By Me 3</category>
+      <category>Ammonite</category>
+      <category>Fossil</category>
+      <category>Rock</category>
+      <pubDate>Sun, 19 Apr 2026 10:02:49 +0100</pubDate>
+    </item>
+    <item>
+      <title>Your god is dead</title>
+      <link>https://seen-by.davep.dev/2026/04/18/your-god-is-dead.html</link>
+      <description>&lt;p&gt;&lt;img alt="Your god is dead" src="https://seen-by.davep.dev/attachments/2026/04/18/your-god-is-dead.jpeg#centre" /&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://seen-by.davep.dev/2026/04/18/your-god-is-dead.html</guid>
+      <category>Seen By Me 3</category>
+      <category>Clouds</category>
+      <category>England</category>
+      <category>Rain</category>
+      <category>Sea</category>
+      <category>Silhouette</category>
+      <category>Sky</category>
+      <category>Skyline</category>
+      <category>Whitby</category>
+      <category>Yorkshire</category>
+      <pubDate>Sat, 18 Apr 2026 17:07:10 +0100</pubDate>
+    </item>
     <item>
       <title>Your model is flawed</title>
       <link>https://seen-by.davep.dev/2026/04/14/your-model-is-flawed.html</link>
@@ -204,52 +255,6 @@
       <category>Burn</category>
       <category>Cuiken Glen</category>
       <pubDate>Sun, 08 Mar 2026 14:34:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>Final Message</title>
-      <link>https://seen-by.davep.dev/2024/02/12/final-message.html</link>
-      <description>&lt;p&gt;&lt;img alt="Final Message" src="https://seen-by.davep.dev/attachments/2024/02/12/final-message.jpeg#centre" /&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://seen-by.davep.dev/2024/02/12/final-message.html</guid>
-      <category>Seen By Me 2</category>
-      <category>Rubbish</category>
-      <category>Words</category>
-      <category>Sign</category>
-      <category>Leaf</category>
-      <pubDate>Mon, 12 Feb 2024 11:36:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Finally four out</title>
-      <link>https://seen-by.davep.dev/2023/10/27/finally-four-out.html</link>
-      <description>&lt;p&gt;&lt;img alt="Finally four out" src="https://seen-by.davep.dev/attachments/2023/10/27/finally-four-out.jpeg#centre" /&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://seen-by.davep.dev/2023/10/27/finally-four-out.html</guid>
-      <category>Seen By Me 2</category>
-      <category>Water</category>
-      <category>Rain</category>
-      <category>Hat</category>
-      <pubDate>Fri, 27 Oct 2023 16:52:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Turning</title>
-      <link>https://seen-by.davep.dev/2023/10/24/turning.html</link>
-      <description>&lt;p&gt;&lt;img alt="Turning" src="https://seen-by.davep.dev/attachments/2023/10/24/turning.jpeg#centre" /&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://seen-by.davep.dev/2023/10/24/turning.html</guid>
-      <category>Seen By Me 2</category>
-      <category>The Meadows</category>
-      <category>Scotland</category>
-      <category>Tree</category>
-      <category>Edinburgh</category>
-      <category>Lamp</category>
-      <pubDate>Tue, 24 Oct 2023 06:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>On Hold</title>
-      <link>https://seen-by.davep.dev/2023/07/30/on-hold.html</link>
-      <description>&lt;p&gt;&lt;img alt="On Hold" src="https://seen-by.davep.dev/attachments/2023/07/30/on-hold.jpeg#centre" /&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://seen-by.davep.dev/2023/07/30/on-hold.html</guid>
-      <category>Seen By Me 2</category>
-      <category>Lost</category>
-      <category>Toy</category>
-      <pubDate>Sun, 30 Jul 2023 17:53:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

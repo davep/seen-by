@@ -2,11 +2,66 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://seen-by.davep.dev</id>
   <title>Seen by Me</title>
-  <updated>2026-04-15T18:17:44.467690+00:00</updated>
+  <updated>2026-04-20T18:07:50.864153+00:00</updated>
   <link href="https://seen-by.davep.dev/feeds/all.atom.xml" rel="self"/>
   <link href="https://seen-by.davep.dev" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Latest posts from Seen by Me</subtitle>
+  <entry>
+    <id>https://seen-by.davep.dev/2026/04/19/halo.html</id>
+    <title>Halo</title>
+    <updated>2026-04-19T13:46:13+01:00</updated>
+    <content type="html">&lt;p&gt;&lt;img alt="Halo" src="https://seen-by.davep.dev/attachments/2026/04/19/halo.jpeg#centre" /&gt;&lt;/p&gt;</content>
+    <link href="https://seen-by.davep.dev/2026/04/19/halo.html"/>
+    <category term="Seen By Me 3"/>
+    <category term="Cliff"/>
+    <category term="Clouds"/>
+    <category term="Halo"/>
+    <category term="Sky"/>
+    <published>2026-04-19T13:46:13+01:00</published>
+  </entry>
+  <entry>
+    <id>https://seen-by.davep.dev/2026/04/19/erosion-of-trust.html</id>
+    <title>Erosion of trust</title>
+    <updated>2026-04-19T13:03:08+01:00</updated>
+    <content type="html">&lt;p&gt;&lt;img alt="Erosion of trust" src="https://seen-by.davep.dev/attachments/2026/04/19/erosion-of-trust.jpeg#centre" /&gt;&lt;/p&gt;</content>
+    <link href="https://seen-by.davep.dev/2026/04/19/erosion-of-trust.html"/>
+    <category term="Seen By Me 3"/>
+    <category term="Beach"/>
+    <category term="Sand"/>
+    <category term="Water"/>
+    <published>2026-04-19T13:03:08+01:00</published>
+  </entry>
+  <entry>
+    <id>https://seen-by.davep.dev/2026/04/19/the-past-that-s-gone.html</id>
+    <title>The past that's gone</title>
+    <updated>2026-04-19T10:02:49+01:00</updated>
+    <content type="html">&lt;p&gt;&lt;img alt="The past that's gone" src="https://seen-by.davep.dev/attachments/2026/04/19/the-past-that-s-gone.jpeg#centre" /&gt;&lt;/p&gt;</content>
+    <link href="https://seen-by.davep.dev/2026/04/19/the-past-that-s-gone.html"/>
+    <category term="Seen By Me 3"/>
+    <category term="Ammonite"/>
+    <category term="Fossil"/>
+    <category term="Rock"/>
+    <published>2026-04-19T10:02:49+01:00</published>
+  </entry>
+  <entry>
+    <id>https://seen-by.davep.dev/2026/04/18/your-god-is-dead.html</id>
+    <title>Your god is dead</title>
+    <updated>2026-04-18T17:07:10+01:00</updated>
+    <content type="html">&lt;p&gt;&lt;img alt="Your god is dead" src="https://seen-by.davep.dev/attachments/2026/04/18/your-god-is-dead.jpeg#centre" /&gt;&lt;/p&gt;</content>
+    <link href="https://seen-by.davep.dev/2026/04/18/your-god-is-dead.html"/>
+    <category term="Seen By Me 3"/>
+    <category term="Clouds"/>
+    <category term="England"/>
+    <category term="Rain"/>
+    <category term="Sea"/>
+    <category term="Silhouette"/>
+    <category term="Sky"/>
+    <category term="Skyline"/>
+    <category term="Whitby"/>
+    <category term="Yorkshire"/>
+    <published>2026-04-18T17:07:10+01:00</published>
+  </entry>
   <entry>
     <id>https://seen-by.davep.dev/2026/04/14/your-model-is-flawed.html</id>
     <title>Your model is flawed</title>
@@ -218,55 +273,5 @@
     <category term="Burn"/>
     <category term="Cuiken Glen"/>
     <published>2026-03-08T14:34:06+00:00</published>
-  </entry>
-  <entry>
-    <id>https://seen-by.davep.dev/2024/02/12/final-message.html</id>
-    <title>Final Message</title>
-    <updated>2024-02-12T11:36:00.001000+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;img alt="Final Message" src="https://seen-by.davep.dev/attachments/2024/02/12/final-message.jpeg#centre" /&gt;&lt;/p&gt;</content>
-    <link href="https://seen-by.davep.dev/2024/02/12/final-message.html"/>
-    <category term="Seen By Me 2"/>
-    <category term="Rubbish"/>
-    <category term="Words"/>
-    <category term="Sign"/>
-    <category term="Leaf"/>
-    <published>2024-02-12T11:36:00.001000+00:00</published>
-  </entry>
-  <entry>
-    <id>https://seen-by.davep.dev/2023/10/27/finally-four-out.html</id>
-    <title>Finally four out</title>
-    <updated>2023-10-27T16:52:00.003000+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;img alt="Finally four out" src="https://seen-by.davep.dev/attachments/2023/10/27/finally-four-out.jpeg#centre" /&gt;&lt;/p&gt;</content>
-    <link href="https://seen-by.davep.dev/2023/10/27/finally-four-out.html"/>
-    <category term="Seen By Me 2"/>
-    <category term="Water"/>
-    <category term="Rain"/>
-    <category term="Hat"/>
-    <published>2023-10-27T16:52:00.003000+00:00</published>
-  </entry>
-  <entry>
-    <id>https://seen-by.davep.dev/2023/10/24/turning.html</id>
-    <title>Turning</title>
-    <updated>2023-10-24T06:30:00.001000+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;img alt="Turning" src="https://seen-by.davep.dev/attachments/2023/10/24/turning.jpeg#centre" /&gt;&lt;/p&gt;</content>
-    <link href="https://seen-by.davep.dev/2023/10/24/turning.html"/>
-    <category term="Seen By Me 2"/>
-    <category term="The Meadows"/>
-    <category term="Scotland"/>
-    <category term="Tree"/>
-    <category term="Edinburgh"/>
-    <category term="Lamp"/>
-    <published>2023-10-24T06:30:00.001000+00:00</published>
-  </entry>
-  <entry>
-    <id>https://seen-by.davep.dev/2023/07/30/on-hold.html</id>
-    <title>On Hold</title>
-    <updated>2023-07-30T17:53:00.002000+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;img alt="On Hold" src="https://seen-by.davep.dev/attachments/2023/07/30/on-hold.jpeg#centre" /&gt;&lt;/p&gt;</content>
-    <link href="https://seen-by.davep.dev/2023/07/30/on-hold.html"/>
-    <category term="Seen By Me 2"/>
-    <category term="Lost"/>
-    <category term="Toy"/>
-    <published>2023-07-30T17:53:00.002000+00:00</published>
   </entry>
 </feed>
