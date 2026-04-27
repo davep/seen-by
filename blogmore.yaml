@@ -42,6 +42,7 @@ tags_path: "/tags/index.html"
 # Content and styling.
 forward_calendar: true
 with_calendar: true
+with_graph: true
 with_read_time: false
 with_search: true
 with_sitemap: true
