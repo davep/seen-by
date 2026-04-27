@@ -2,11 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://seen-by.davep.dev</id>
   <title>Seen by Me</title>
-  <updated>2026-04-20T18:07:50.865931+00:00</updated>
+  <updated>2026-04-27T12:34:58.477041+00:00</updated>
   <link href="https://seen-by.davep.dev/feeds/seen-by-me-3.atom.xml" rel="self"/>
   <link href="https://seen-by.davep.dev" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Posts in category "Seen By Me 3" from Seen by Me</subtitle>
+  <entry>
+    <id>https://seen-by.davep.dev/2026/04/27/signals.html</id>
+    <title>Signals</title>
+    <updated>2026-04-27T12:38:53+01:00</updated>
+    <content type="html">&lt;p&gt;&lt;img alt="Signals" src="https://seen-by.davep.dev/attachments/2026/04/27/signals.jpeg#centre" /&gt;&lt;/p&gt;</content>
+    <link href="https://seen-by.davep.dev/2026/04/27/signals.html"/>
+    <category term="Seen By Me 3"/>
+    <category term="Antenna"/>
+    <category term="Clouds"/>
+    <category term="Penicuik"/>
+    <category term="Scotland"/>
+    <category term="Silhouette"/>
+    <category term="Sky"/>
+    <category term="Skyline"/>
+    <category term="Tree"/>
+    <published>2026-04-27T12:38:53+01:00</published>
+  </entry>
   <entry>
     <id>https://seen-by.davep.dev/2026/04/19/halo.html</id>
     <title>Halo</title>
@@ -259,19 +276,5 @@
     <category term="Light"/>
     <category term="Shadow"/>
     <published>2026-03-08T14:34:53+00:00</published>
-  </entry>
-  <entry>
-    <id>https://seen-by.davep.dev/2026/03/08/a-different-glen.html</id>
-    <title>A different glen</title>
-    <updated>2026-03-08T14:34:06+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;img alt="A different glen" src="https://seen-by.davep.dev/attachments/2026/03/08/a-different-glen.jpeg#centre" /&gt;&lt;/p&gt;</content>
-    <link href="https://seen-by.davep.dev/2026/03/08/a-different-glen.html"/>
-    <category term="Seen By Me 3"/>
-    <category term="Scotland"/>
-    <category term="Penicuik"/>
-    <category term="Tree"/>
-    <category term="Burn"/>
-    <category term="Cuiken Glen"/>
-    <published>2026-03-08T14:34:06+00:00</published>
   </entry>
 </feed>
