@@ -103,5 +103,10 @@ socials:
     url: https://www.tiktok.com/@davepdotorg
   - site: youtube
     url: https://www.youtube.com/user/daveporg
+  - site: gitlab
+    url: https://gitlab.com/davep
+  - site: git
+    url: https://codeberg.org/davep
+    title: Codeberg
 
 ### blogmore.yaml ends here
