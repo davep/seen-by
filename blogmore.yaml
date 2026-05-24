@@ -20,6 +20,7 @@ site_keywords:
   - Smartphone
   - Blog
 default_author: Dave Pearson
+default_author_url: https://www.davep.org/
 
 ##############################################################################
 # Building.
@@ -29,6 +30,9 @@ icon_source: davep.jpeg
 minify_css: true
 minify_html: true
 minify_js: true
+optimise_images: true
+image_quality: 95
+bundle_css: true
 archive_path: "/archive/index.html"
 calendar_path: "/calendar/index.html"
 categories_path: "/categories/index.html"
