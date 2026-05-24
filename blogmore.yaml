@@ -30,8 +30,7 @@ icon_source: davep.jpeg
 minify_css: true
 minify_html: true
 minify_js: true
-optimise_images: true
-image_quality: 95
+optimise_images: false
 bundle_css: true
 archive_path: "/archive/index.html"
 calendar_path: "/calendar/index.html"
