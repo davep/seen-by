@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://seen-by.davep.dev</id>
   <title>Seen by Me</title>
-  <updated>2026-05-24T15:43:26.469270+00:00</updated>
+  <updated>2026-05-24T15:51:44.298900+00:00</updated>
   <link href="https://seen-by.davep.dev/feeds/all.atom.xml" rel="self"/>
   <link href="https://seen-by.davep.dev" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -11,18 +11,18 @@
     <id>https://seen-by.davep.dev/2026/05/24/before-the-turn.html</id>
     <title>Before the turn</title>
     <updated>2026-05-24T11:46:32+01:00</updated>
-    <content type="html">&lt;p&gt;&lt;img alt="Before the turn" src="https://seen-by.davep.dev/attachments/2026/05/24/before-the-turn.jpeg#centre" /&gt;&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;&lt;img alt="Before the turn" src="https://seen-by.davep.dev/attachments/2026/05/24/before-the-turn.webp#centre" /&gt;&lt;/p&gt;</content>
     <link href="https://seen-by.davep.dev/2026/05/24/before-the-turn.html"/>
     <category term="Seen By Me 3"/>
     <category term="Plant"/>
     <published>2026-05-24T11:46:32+01:00</published>
   </entry>
   <entry>
-    <id>https://seen-by.davep.dev/2026/05/24/i-donat-want-to-talk-abouta.html</id>
-    <title>I don't want to talk it</title>
+    <id>https://seen-by.davep.dev/2026/05/24/i-dont-want-to-talk-about-it.html</id>
+    <title>I don't want to talk about it</title>
     <updated>2026-05-24T11:39:29+01:00</updated>
-    <content type="html">&lt;p&gt;&lt;img alt="I don't want to talk it" src="https://seen-by.davep.dev/attachments/2026/05/24/i-donat-want-to-talk-abouta.jpeg#centre" /&gt;&lt;/p&gt;</content>
-    <link href="https://seen-by.davep.dev/2026/05/24/i-donat-want-to-talk-abouta.html"/>
+    <content type="html">&lt;p&gt;&lt;img alt="I don't want to talk it" src="https://seen-by.davep.dev/attachments/2026/05/24/i-dont-want-to-talk-about-it.webp#centre" /&gt;&lt;/p&gt;</content>
+    <link href="https://seen-by.davep.dev/2026/05/24/i-dont-want-to-talk-about-it.html"/>
     <category term="Seen By Me 3"/>
     <category term="Clouds"/>
     <category term="Flag"/>
