@@ -4,7 +4,7 @@ requires-python = ">=3.14"
 
 [[package]]
 name = "blogmore"
-version = "2.34.0"
+version = "2.36.0"
 source = { registry = "https://pypi.org/simple" }
 dependencies = [
     { name = "feedgen" },
@@ -19,9 +19,9 @@ dependencies = [
     { name = "rjsmin" },
     { name = "watchdog" },
 ]
-sdist = { url = "https://files.pythonhosted.org/packages/36/1a/4055e064117c9a2c3aa42dfb4632ca51685ae14c048e192d6fcca0019b39/blogmore-2.34.0.tar.gz", hash = "sha256:ce222ae718297d3217587073fa7bdc3172ffb8f3b2900e89412c3f69bffb812c", size = 159396, upload-time = "2026-05-31T09:33:31.514Z" }
+sdist = { url = "https://files.pythonhosted.org/packages/de/08/cc1a539d09063ed83f7ea6d6be472f20be5bd2076610368bbe4511c66e36/blogmore-2.36.0.tar.gz", hash = "sha256:67c66966b6be2acd8c0e33de95ead11baa9c4166ff0e11a6391e13511ec43d62", size = 159587, upload-time = "2026-06-01T07:32:08.576Z" }
 wheels = [
-    { url = "https://files.pythonhosted.org/packages/a9/27/1915f77ff7a5d73f3ede893eddaa6a8359b336ce7e4bb6c8d75423820a5a/blogmore-2.34.0-py3-none-any.whl", hash = "sha256:120a2fb245116fdedb3439bfe90a26095e6fefde9a520964442964c125accf9e", size = 197520, upload-time = "2026-05-31T09:33:33.039Z" },
+    { url = "https://files.pythonhosted.org/packages/fd/20/4c5d039b13d495b744fadca9a8edd70e3e50ad2cabe28113f67c5b677fdb/blogmore-2.36.0-py3-none-any.whl", hash = "sha256:2321f4fe47223e950b21bcc77af2e38bcae96a4eada1e99a18483f91766e853e", size = 197715, upload-time = "2026-06-01T07:32:06.832Z" },
 ]
 
 [[package]]
@@ -300,7 +300,7 @@ dependencies = [
 
 [package.metadata]
 requires-dist = [
-    { name = "blogmore", specifier = ">=2.34.0" },
+    { name = "blogmore", specifier = ">=2.36.0" },
     { name = "pillow", specifier = ">=11.0.0" },
     { name = "python-slugify", specifier = ">=8.0.0" },
 ]
