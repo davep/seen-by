@@ -2,11 +2,27 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://seen-by.davep.dev</id>
   <title>Seen by Me</title>
-  <updated>2026-06-01T07:34:35.004317+00:00</updated>
+  <updated>2026-06-03T12:40:14.888177+00:00</updated>
   <link href="https://seen-by.davep.dev/feeds/seen-by-me-3.atom.xml" rel="self"/>
   <link href="https://seen-by.davep.dev" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Posts in category "Seen By Me 3" from Seen by Me</subtitle>
+  <entry>
+    <id>https://seen-by.davep.dev/2026/06/03/let-me-clarify.html</id>
+    <title>Let me clarify</title>
+    <updated>2026-06-03T12:26:25+01:00</updated>
+    <content type="html">&lt;p&gt;&lt;img alt="Let me clarify" src="https://seen-by.davep.dev/attachments/2026/06/03/let-me-clarify.jpeg#centre" /&gt;&lt;/p&gt;</content>
+    <link href="https://seen-by.davep.dev/2026/06/03/let-me-clarify.html"/>
+    <category term="Seen By Me 3"/>
+    <category term="Car"/>
+    <category term="Clouds"/>
+    <category term="House"/>
+    <category term="Penicuik"/>
+    <category term="Scotland"/>
+    <category term="Sky"/>
+    <category term="Weather"/>
+    <published>2026-06-03T12:26:25+01:00</published>
+  </entry>
   <entry>
     <id>https://seen-by.davep.dev/2026/05/31/outrage.html</id>
     <title>Outrage</title>
@@ -261,17 +277,5 @@
     <category term="water"/>
     <category term="rock"/>
     <published>2026-03-15T13:45:21+00:00</published>
-  </entry>
-  <entry>
-    <id>https://seen-by.davep.dev/2026/03/14/fitness-landscape.html</id>
-    <title>Fitness Landscape</title>
-    <updated>2026-03-14T12:52:24+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;img alt="Fitness Landscape" src="https://seen-by.davep.dev/attachments/2026/03/14/fitness-landscape.jpeg#centre" /&gt;&lt;/p&gt;</content>
-    <link href="https://seen-by.davep.dev/2026/03/14/fitness-landscape.html"/>
-    <category term="Seen By Me 3"/>
-    <category term="tree"/>
-    <category term="moss"/>
-    <category term="bark"/>
-    <published>2026-03-14T12:52:24+00:00</published>
   </entry>
 </feed>
