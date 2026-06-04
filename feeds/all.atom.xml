@@ -2,11 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://seen-by.davep.dev</id>
   <title>Seen by Me</title>
-  <updated>2026-06-03T12:40:14.881760+00:00</updated>
+  <updated>2026-06-04T12:15:47.425342+00:00</updated>
   <link href="https://seen-by.davep.dev/feeds/all.atom.xml" rel="self"/>
   <link href="https://seen-by.davep.dev" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Latest posts from Seen by Me</subtitle>
+  <entry>
+    <id>https://seen-by.davep.dev/2026/06/04/my-low-expectations.html</id>
+    <title>My low expectations</title>
+    <updated>2026-06-04T12:30:14+01:00</updated>
+    <content type="html">&lt;p&gt;&lt;img alt="My low expectations" src="https://seen-by.davep.dev/attachments/2026/06/04/my-low-expectations.jpeg#centre" /&gt;&lt;/p&gt;</content>
+    <link href="https://seen-by.davep.dev/2026/06/04/my-low-expectations.html"/>
+    <category term="Seen By Me 3"/>
+    <category term="Clouds"/>
+    <category term="Penicuik"/>
+    <category term="Scotland"/>
+    <category term="Sky"/>
+    <category term="Weather"/>
+    <category term="lamppost"/>
+    <published>2026-06-04T12:30:14+01:00</published>
+  </entry>
   <entry>
     <id>https://seen-by.davep.dev/2026/06/03/let-me-clarify.html</id>
     <title>Let me clarify</title>
@@ -264,18 +279,5 @@
     <category term="tape"/>
     <category term="grass"/>
     <published>2026-03-16T12:38:40+00:00</published>
-  </entry>
-  <entry>
-    <id>https://seen-by.davep.dev/2026/03/15/i-recognise-the-weapons.html</id>
-    <title>I recognise the weapons</title>
-    <updated>2026-03-15T13:45:21+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;img alt="I recognise the weapons" src="https://seen-by.davep.dev/attachments/2026/03/15/i-recognise-the-weapons.jpeg#centre" /&gt;&lt;/p&gt;</content>
-    <link href="https://seen-by.davep.dev/2026/03/15/i-recognise-the-weapons.html"/>
-    <category term="Seen By Me 3"/>
-    <category term="burn"/>
-    <category term="moss"/>
-    <category term="water"/>
-    <category term="rock"/>
-    <published>2026-03-15T13:45:21+00:00</published>
   </entry>
 </feed>
