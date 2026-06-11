@@ -2,11 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://seen-by.davep.dev</id>
   <title>Seen by Me</title>
-  <updated>2026-06-04T12:15:47.425342+00:00</updated>
+  <updated>2026-06-11T20:07:58.546030+00:00</updated>
   <link href="https://seen-by.davep.dev/feeds/all.atom.xml" rel="self"/>
   <link href="https://seen-by.davep.dev" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Latest posts from Seen by Me</subtitle>
+  <entry>
+    <id>https://seen-by.davep.dev/2026/06/11/some-kind-of-power.html</id>
+    <title>Some kind of power</title>
+    <updated>2026-06-11T19:52:16+01:00</updated>
+    <content type="html">&lt;p&gt;&lt;img alt="Some kind of power" src="https://seen-by.davep.dev/attachments/2026/06/11/some-kind-of-power.jpeg#centre" /&gt;&lt;/p&gt;</content>
+    <link href="https://seen-by.davep.dev/2026/06/11/some-kind-of-power.html"/>
+    <category term="Seen By Me 3"/>
+    <category term="Clouds"/>
+    <category term="Edinburgh"/>
+    <category term="Pylon"/>
+    <category term="Scotland"/>
+    <category term="Sky"/>
+    <category term="lamppost"/>
+    <published>2026-06-11T19:52:16+01:00</published>
+  </entry>
   <entry>
     <id>https://seen-by.davep.dev/2026/06/04/my-low-expectations.html</id>
     <title>My low expectations</title>
@@ -267,17 +282,5 @@
     <category term="sky"/>
     <category term="tree"/>
     <published>2026-03-21T12:06:09+00:00</published>
-  </entry>
-  <entry>
-    <id>https://seen-by.davep.dev/2026/03/16/all-fixed-now.html</id>
-    <title>All fixed now</title>
-    <updated>2026-03-16T12:38:40+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;img alt="All fixed now" src="https://seen-by.davep.dev/attachments/2026/03/16/all-fixed-now.jpeg#centre" /&gt;&lt;/p&gt;</content>
-    <link href="https://seen-by.davep.dev/2026/03/16/all-fixed-now.html"/>
-    <category term="Seen By Me 3"/>
-    <category term="lamppost"/>
-    <category term="tape"/>
-    <category term="grass"/>
-    <published>2026-03-16T12:38:40+00:00</published>
   </entry>
 </feed>

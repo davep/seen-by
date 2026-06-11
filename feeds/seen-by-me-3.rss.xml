@@ -8,7 +8,21 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 04 Jun 2026 12:15:47 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jun 2026 20:07:58 +0000</lastBuildDate>
+    <item>
+      <title>Some kind of power</title>
+      <link>https://seen-by.davep.dev/2026/06/11/some-kind-of-power.html</link>
+      <description>&lt;p&gt;&lt;img alt="Some kind of power" src="https://seen-by.davep.dev/attachments/2026/06/11/some-kind-of-power.jpeg#centre" /&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://seen-by.davep.dev/2026/06/11/some-kind-of-power.html</guid>
+      <category>Seen By Me 3</category>
+      <category>Clouds</category>
+      <category>Edinburgh</category>
+      <category>Pylon</category>
+      <category>Scotland</category>
+      <category>Sky</category>
+      <category>lamppost</category>
+      <pubDate>Thu, 11 Jun 2026 19:52:16 +0100</pubDate>
+    </item>
     <item>
       <title>My low expectations</title>
       <link>https://seen-by.davep.dev/2026/06/04/my-low-expectations.html</link>
@@ -250,17 +264,6 @@
       <category>sky</category>
       <category>tree</category>
       <pubDate>Sat, 21 Mar 2026 12:06:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>All fixed now</title>
-      <link>https://seen-by.davep.dev/2026/03/16/all-fixed-now.html</link>
-      <description>&lt;p&gt;&lt;img alt="All fixed now" src="https://seen-by.davep.dev/attachments/2026/03/16/all-fixed-now.jpeg#centre" /&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://seen-by.davep.dev/2026/03/16/all-fixed-now.html</guid>
-      <category>Seen By Me 3</category>
-      <category>lamppost</category>
-      <category>tape</category>
-      <category>grass</category>
-      <pubDate>Mon, 16 Mar 2026 12:38:40 +0000</pubDate>
     </item>
   </channel>
 </rss>
