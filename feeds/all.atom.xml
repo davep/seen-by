@@ -2,11 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://seen-by.davep.dev</id>
   <title>Seen by Me</title>
-  <updated>2026-06-11T20:07:58.546030+00:00</updated>
+  <updated>2026-07-04T19:11:05.751714+00:00</updated>
   <link href="https://seen-by.davep.dev/feeds/all.atom.xml" rel="self"/>
   <link href="https://seen-by.davep.dev" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Latest posts from Seen by Me</subtitle>
+  <entry>
+    <id>https://seen-by.davep.dev/2026/07/04/got-the-muse-in-my-head.html</id>
+    <title>Got the muse in my head</title>
+    <updated>2026-07-04T17:58:40+02:00</updated>
+    <content type="html">&lt;p&gt;&lt;img alt="Got the muse in my head" src="https://seen-by.davep.dev/attachments/2026/07/04/got-the-muse-in-my-head.jpeg#centre" /&gt;&lt;/p&gt;</content>
+    <link href="https://seen-by.davep.dev/2026/07/04/got-the-muse-in-my-head.html"/>
+    <category term="Seen By Me 3"/>
+    <category term="Building"/>
+    <category term="Clouds"/>
+    <category term="Emmen"/>
+    <category term="Netherlands"/>
+    <category term="Sky"/>
+    <category term="Skyline"/>
+    <published>2026-07-04T17:58:40+02:00</published>
+  </entry>
+  <entry>
+    <id>https://seen-by.davep.dev/2026/07/04/full-of-shit.html</id>
+    <title>Full of shit</title>
+    <updated>2026-07-04T15:04:26+02:00</updated>
+    <content type="html">&lt;p&gt;&lt;img alt="Full of shit" src="https://seen-by.davep.dev/attachments/2026/07/04/full-of-shit.jpeg#centre" /&gt;&lt;/p&gt;</content>
+    <link href="https://seen-by.davep.dev/2026/07/04/full-of-shit.html"/>
+    <category term="Seen By Me 3"/>
+    <category term="Abstract"/>
+    <category term="Water"/>
+    <published>2026-07-04T15:04:26+02:00</published>
+  </entry>
   <entry>
     <id>https://seen-by.davep.dev/2026/06/11/some-kind-of-power.html</id>
     <title>Some kind of power</title>
@@ -252,35 +278,5 @@
     <category term="clouds"/>
     <category term="sky"/>
     <published>2026-03-28T12:53:04+00:00</published>
-  </entry>
-  <entry>
-    <id>https://seen-by.davep.dev/2026/03/22/tracking.html</id>
-    <title>Tracking</title>
-    <updated>2026-03-22T11:53:58+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;img alt="Tracking" src="https://seen-by.davep.dev/attachments/2026/03/22/tracking.jpeg#centre" /&gt;&lt;/p&gt;</content>
-    <link href="https://seen-by.davep.dev/2026/03/22/tracking.html"/>
-    <category term="Seen By Me 3"/>
-    <category term="lines"/>
-    <category term="grass"/>
-    <category term="sport"/>
-    <category term="field"/>
-    <category term="paint"/>
-    <published>2026-03-22T11:53:58+00:00</published>
-  </entry>
-  <entry>
-    <id>https://seen-by.davep.dev/2026/03/21/blinking-in-the-morning-sun.html</id>
-    <title>Blinking in the morning sun</title>
-    <updated>2026-03-21T12:06:09+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;img alt="Blinking in the morning sun" src="https://seen-by.davep.dev/attachments/2026/03/21/blinking-in-the-morning-sun.jpeg#centre" /&gt;&lt;/p&gt;</content>
-    <link href="https://seen-by.davep.dev/2026/03/21/blinking-in-the-morning-sun.html"/>
-    <category term="Seen By Me 3"/>
-    <category term="horizon"/>
-    <category term="house"/>
-    <category term="grass"/>
-    <category term="Penicuik"/>
-    <category term="Scotland"/>
-    <category term="sky"/>
-    <category term="tree"/>
-    <published>2026-03-21T12:06:09+00:00</published>
   </entry>
 </feed>
