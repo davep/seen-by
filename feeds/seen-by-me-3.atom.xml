@@ -2,11 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://seen-by.davep.dev</id>
   <title>Seen by Me</title>
-  <updated>2026-07-04T19:11:05.753627+00:00</updated>
+  <updated>2026-07-05T18:32:36.724671+00:00</updated>
   <link href="https://seen-by.davep.dev/feeds/seen-by-me-3.atom.xml" rel="self"/>
   <link href="https://seen-by.davep.dev" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Posts in category "Seen By Me 3" from Seen by Me</subtitle>
+  <entry>
+    <id>https://seen-by.davep.dev/2026/07/05/open-on-all-channels.html</id>
+    <title>Open on all channels</title>
+    <updated>2026-07-05T14:29:22+02:00</updated>
+    <content type="html">&lt;p&gt;&lt;img alt="Open on all channels" src="https://seen-by.davep.dev/attachments/2026/07/05/open-on-all-channels.jpeg#centre" /&gt;&lt;/p&gt;</content>
+    <link href="https://seen-by.davep.dev/2026/07/05/open-on-all-channels.html"/>
+    <category term="Seen By Me 3"/>
+    <category term="Borger"/>
+    <category term="Clouds"/>
+    <category term="Netherlands"/>
+    <category term="Silhouette"/>
+    <category term="Sky"/>
+    <category term="Skyline"/>
+    <published>2026-07-05T14:29:22+02:00</published>
+  </entry>
   <entry>
     <id>https://seen-by.davep.dev/2026/07/04/got-the-muse-in-my-head.html</id>
     <title>Got the muse in my head</title>
@@ -266,17 +281,5 @@
     <category term="Wall"/>
     <category term="tree"/>
     <published>2026-03-30T12:52:28+00:00</published>
-  </entry>
-  <entry>
-    <id>https://seen-by.davep.dev/2026/03/28/breaking-through-the-atmosphere.html</id>
-    <title>Breaking through the atmosphere</title>
-    <updated>2026-03-28T12:53:04+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;img alt="Breaking through the atmosphere" src="https://seen-by.davep.dev/attachments/2026/03/28/breaking-through-the-atmosphere.jpeg#centre" /&gt;&lt;/p&gt;</content>
-    <link href="https://seen-by.davep.dev/2026/03/28/breaking-through-the-atmosphere.html"/>
-    <category term="Seen By Me 3"/>
-    <category term="tree"/>
-    <category term="clouds"/>
-    <category term="sky"/>
-    <published>2026-03-28T12:53:04+00:00</published>
   </entry>
 </feed>
