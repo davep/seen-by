@@ -2,11 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://seen-by.davep.dev</id>
   <title>Seen by Me</title>
-  <updated>2026-11-06T08:27:26.956339+00:00</updated>
+  <updated>2026-11-06T13:50:55.673666+00:00</updated>
   <link href="https://seen-by.davep.dev/feeds/seen-by-me-3.atom.xml" rel="self"/>
   <link href="https://seen-by.davep.dev" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Posts in category "Seen By Me 3" from Seen by Me</subtitle>
+  <entry>
+    <id>https://seen-by.davep.dev/2026/11/06/meeting-of-the-green-and-simple.html</id>
+    <title>Meeting of the green and simple</title>
+    <updated>2026-11-06T12:38:14+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;img alt="Meeting of the green and simple" src="https://seen-by.davep.dev/attachments/2026/11/06/meeting-of-the-green-and-simple.jpeg#centre" /&gt;&lt;/p&gt;</content>
+    <link href="https://seen-by.davep.dev/2026/11/06/meeting-of-the-green-and-simple.html"/>
+    <category term="Seen By Me 3"/>
+    <category term="Cone"/>
+    <category term="Leaf"/>
+    <category term="Metal"/>
+    <category term="Rubbish"/>
+    <published>2026-11-06T12:38:14+00:00</published>
+  </entry>
   <entry>
     <id>https://seen-by.davep.dev/2026/11/04/tell-me-that-you-canat-afford-me.html</id>
     <title>Tell me that you can't afford me</title>
@@ -266,21 +279,5 @@
     <category term="Shadow"/>
     <category term="Shadows"/>
     <published>2026-04-05T14:00:17+01:00</published>
-  </entry>
-  <entry>
-    <id>https://seen-by.davep.dev/2026/04/03/you-well-heeled-big-wheel.html</id>
-    <title>You well heeled big wheel</title>
-    <updated>2026-04-03T12:53:28+01:00</updated>
-    <content type="html">&lt;p&gt;&lt;img alt="You well heeled big wheel" src="https://seen-by.davep.dev/attachments/2026/04/03/you-well-heeled-big-wheel.jpeg#centre" /&gt;&lt;/p&gt;</content>
-    <link href="https://seen-by.davep.dev/2026/04/03/you-well-heeled-big-wheel.html"/>
-    <category term="Seen By Me 3"/>
-    <category term="Clouds"/>
-    <category term="House"/>
-    <category term="Penicuik"/>
-    <category term="Playground"/>
-    <category term="Scotland"/>
-    <category term="Sky"/>
-    <category term="Swing"/>
-    <published>2026-04-03T12:53:28+01:00</published>
   </entry>
 </feed>
