@@ -2,11 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://seen-by.davep.dev</id>
   <title>Seen by Me</title>
-  <updated>2026-07-07T16:13:38.199376+00:00</updated>
+  <updated>2026-11-06T08:27:26.956339+00:00</updated>
   <link href="https://seen-by.davep.dev/feeds/seen-by-me-3.atom.xml" rel="self"/>
   <link href="https://seen-by.davep.dev" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Posts in category "Seen By Me 3" from Seen by Me</subtitle>
+  <entry>
+    <id>https://seen-by.davep.dev/2026/11/04/tell-me-that-you-canat-afford-me.html</id>
+    <title>Tell me that you can't afford me</title>
+    <updated>2026-11-04T13:24:04+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;img alt="Tell me that you canât afford me" src="https://seen-by.davep.dev/attachments/2026/11/04/tell-me-that-you-canat-afford-me.jpeg#centre" /&gt;&lt;/p&gt;</content>
+    <link href="https://seen-by.davep.dev/2026/11/04/tell-me-that-you-canat-afford-me.html"/>
+    <category term="Seen By Me 3"/>
+    <category term="Bush"/>
+    <category term="Hat"/>
+    <category term="Twig"/>
+    <published>2026-11-04T13:24:04+00:00</published>
+  </entry>
   <entry>
     <id>https://seen-by.davep.dev/2026/07/07/you-can-scream-and-you-can-shout.html</id>
     <title>You can scream and you can shout</title>
@@ -270,16 +282,5 @@
     <category term="Sky"/>
     <category term="Swing"/>
     <published>2026-04-03T12:53:28+01:00</published>
-  </entry>
-  <entry>
-    <id>https://seen-by.davep.dev/2026/04/01/our-thoughts-compressed.html</id>
-    <title>Our thoughts compressed</title>
-    <updated>2026-04-01T13:03:08+01:00</updated>
-    <content type="html">&lt;p&gt;&lt;img alt="Our thoughts compressed" src="https://seen-by.davep.dev/attachments/2026/04/01/our-thoughts-compressed.jpeg#centre" /&gt;&lt;/p&gt;</content>
-    <link href="https://seen-by.davep.dev/2026/04/01/our-thoughts-compressed.html"/>
-    <category term="Seen By Me 3"/>
-    <category term="Plant"/>
-    <category term="Tree"/>
-    <published>2026-04-01T13:03:08+01:00</published>
   </entry>
 </feed>
